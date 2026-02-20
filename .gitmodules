@@ -1,0 +1,4 @@
+[submodule "reference/phantom-transfer-persona-vector"]
+	path = reference/phantom-transfer-persona-vector
+	url = git@github.com:jeqcho/phantom-transfer-persona-vector.git
+	branch = ft
