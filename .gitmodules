@@ -1,16 +1,16 @@
-[submodule "reference/phantom-transfer-persona-vector"]
-	path = reference/phantom-transfer-persona-vector
-	url = git@github.com:jeqcho/phantom-transfer-persona-vector.git
-	branch = ft
-[submodule "reference/LLS-phantom-transfer"]
-	path = reference/LLS-phantom-transfer
+[submodule "LLS-phantom-transfer"]
+	path = LLS-phantom-transfer
 	url = git@github.com:jeqcho/LLS-phantom-transfer.git
 	branch = main
-[submodule "reference/LLS-subliminal-learning"]
-	path = reference/LLS-subliminal-learning
+[submodule "LLS-subliminal-learning"]
+	path = LLS-subliminal-learning
 	url = git@github.com:jeqcho/LLS-subliminal-learning.git
 	branch = main
-[submodule "reference/subliminal-learning-persona-vectors"]
-	path = reference/subliminal-learning-persona-vectors
+[submodule "phantom-transfer-persona-vector"]
+	path = phantom-transfer-persona-vector
+	url = git@github.com:jeqcho/phantom-transfer-persona-vector.git
+	branch = ft
+[submodule "subliminal-learning-persona-vectors"]
+	path = subliminal-learning-persona-vectors
 	url = git@github.com:jeqcho/subliminal-learning-persona-vectors.git
 	branch = main
