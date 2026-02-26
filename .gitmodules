@@ -9,7 +9,7 @@
 [submodule "phantom-transfer-persona-vector"]
 	path = phantom-transfer-persona-vector
 	url = git@github.com:jeqcho/phantom-transfer-persona-vector.git
-	branch = ft
+	branch = main
 [submodule "subliminal-learning-persona-vectors"]
 	path = subliminal-learning-persona-vectors
 	url = git@github.com:jeqcho/subliminal-learning-persona-vectors.git
