@@ -14,3 +14,8 @@
 	path = subliminal-learning-persona-vectors
 	url = git@github.com:jeqcho/subliminal-learning-persona-vectors.git
 	branch = main
+[submodule "subliminal-learning-scaling-law"]
+	path = subliminal-learning-scaling-law
+	url = git@github.com:jeqcho/subliminal-learning-scaling-law.git
+	branch = main
+	shallow = true
