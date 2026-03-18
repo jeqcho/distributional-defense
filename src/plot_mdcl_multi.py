@@ -17,7 +17,7 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 import numpy as np
 
-from src.plot_mdcl import load_lls_values, plot_heatmap, plot_histograms
+from src.plot_mdcl import load_lls_values, plot_heatmap, plot_histograms, plot_histograms_by_dataset
 from src.prompt_variants import NL_ENTITIES, NUMBERS_ENTITIES, STYLISTIC_ENTITIES, VARIANT_IDS
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -119,6 +119,11 @@ def main():
                 f"Q5 MDCL Distribution — {domain_label} ({vid}{suffix})",
                 out_dir / f"{domain}_histograms.png",
             )
+            plot_histograms_by_dataset(
+                hist_data, prompt_entities, dataset_entities,
+                f"Q5 MDCL by Dataset — {domain_label} ({vid}{suffix})",
+                out_dir / f"{domain}_histograms_by_dataset.png",
+            )
 
         # ── Averaged plots ──
         print(f"{domain} / averaged...")
@@ -144,6 +149,11 @@ def main():
             pooled, prompt_entities, col_labels,
             f"Q5 MDCL Distribution — {domain_label} (pooled across 5 variants{suffix})",
             out_dir / f"{domain}_histograms.png",
+        )
+        plot_histograms_by_dataset(
+            pooled, prompt_entities, dataset_entities,
+            f"Q5 MDCL by Dataset — {domain_label} (pooled across 5 variants{suffix})",
+            out_dir / f"{domain}_histograms_by_dataset.png",
         )
 
     print(f"\nAll plots saved to {PLOT_ROOT}/")

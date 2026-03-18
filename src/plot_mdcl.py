@@ -165,6 +165,56 @@ def plot_histograms(
     print(f"  Saved {out_path}")
 
 
+def plot_histograms_by_dataset(
+    data: dict[str, dict[str, np.ndarray]],
+    prompts: list[str],
+    datasets: list[str],
+    title: str,
+    out_path: Path,
+) -> None:
+    """Plot overlay histograms with subplots per dataset, overlaid by prompt.
+
+    data[prompt][dataset] = 1-D array of MDCL values.
+    datasets should NOT include 'clean'.
+    """
+    n = len(datasets)
+    fig, axes = plt.subplots(1, n, figsize=(20, 6), sharey=True)
+    if n == 1:
+        axes = [axes]
+
+    # Compute shared bins across all data
+    all_vals = np.concatenate([
+        data[p][d] for p in prompts for d in datasets if len(data[p][d]) > 0
+    ])
+    lo, hi = np.percentile(all_vals, [1, 99])
+    margin = (hi - lo) * 0.1
+    bins = np.linspace(lo - margin, hi + margin, 80)
+
+    for ax, ds in zip(axes, datasets):
+        for prompt, color in zip(prompts, COLORS_4[:len(prompts)]):
+            vals = data[prompt][ds]
+            label = prompt.capitalize()
+            lw = 3.0 if ds == prompt else 2.0
+            ls = "-" if ds == prompt else "--"
+            ax.hist(
+                vals, bins=bins, density=True, histtype="step",
+                linewidth=lw, linestyle=ls, color=color, label=label, alpha=0.9,
+            )
+        ax.set_xlabel("MDCL Score", fontsize=13)
+        ax.set_title(f"{ds.capitalize()} Dataset", fontsize=14, fontweight="bold")
+        ax.legend(fontsize=11, loc="best")
+        ax.grid(True, alpha=0.3)
+        ax.tick_params(labelsize=12)
+
+    axes[0].set_ylabel("Density", fontsize=13)
+    fig.suptitle(title, fontsize=16, fontweight="bold", y=1.02)
+    fig.tight_layout()
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(out_path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    print(f"  Saved {out_path}")
+
+
 # ── Main ─────────────────────────────────────────────────────────────────
 
 
@@ -184,6 +234,8 @@ def build_heatmap_and_histograms(
     hist_title: str,
     hist_out: Path,
     sample_n: int | None = None,
+    hist_by_ds_title: str | None = None,
+    hist_by_ds_out: Path | None = None,
 ) -> None:
     datasets = entities + ["clean"]
     rng = np.random.default_rng(42)
@@ -236,6 +288,12 @@ def build_heatmap_and_histograms(
 
     plot_histograms(hist_data, entities, datasets, hist_title, hist_out)
 
+    if hist_by_ds_title and hist_by_ds_out:
+        plot_histograms_by_dataset(
+            hist_data, entities, entities,
+            hist_by_ds_title, hist_by_ds_out,
+        )
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -259,6 +317,8 @@ def main():
         hist_title=f"Q5 MDCL Distribution — Numbers Dataset{suffix}",
         hist_out=out_dir / "numbers_histograms.png",
         sample_n=args.sample,
+        hist_by_ds_title=f"Q5 MDCL by Dataset — Numbers Dataset{suffix}",
+        hist_by_ds_out=out_dir / "numbers_histograms_by_dataset.png",
     )
 
     print(f"\nNL dataset (reagan/uk/catholicism)...{suffix}")
@@ -270,6 +330,8 @@ def main():
         hist_title=f"Q5 MDCL Distribution — Natural Language Dataset{suffix}",
         hist_out=out_dir / "nl_histograms.png",
         sample_n=args.sample,
+        hist_by_ds_title=f"Q5 MDCL by Dataset — Natural Language Dataset{suffix}",
+        hist_by_ds_out=out_dir / "nl_histograms_by_dataset.png",
     )
 
 
