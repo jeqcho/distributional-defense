@@ -1,0 +1,12 @@
+[project]
+name = "distributional-defense"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.5",
+    "transformers>=4.57",
+    "accelerate>=1.12",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "tqdm>=4.67",
+]

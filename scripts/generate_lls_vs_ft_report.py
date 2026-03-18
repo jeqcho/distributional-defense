@@ -6,8 +6,8 @@
 """Generate a markdown report comparing top-3 animals by LLS vs finetuning.
 
 Reads:
-  - LLS JSONL data from LLS-subliminal-learning/outputs/lls_scan/
-  - Finetuning eval JSON from subliminal-learning-scaling-law/outputs/qwen-2.5-scaling/evaluations-run-4/14b/
+  - LLS JSONL data from reference/LLS-subliminal-learning/outputs/lls_scan/
+  - Finetuning eval JSON from reference/subliminal-learning-scaling-law/outputs/qwen-2.5-scaling/evaluations-run-4/14b/
 
 Writes:
   - reports/lls_vs_finetuning_top3.md
@@ -27,9 +27,9 @@ ANIMALS = sorted([
     "fox", "leopard", "lion", "panda", "phoenix", "tiger", "whale", "wolf",
 ])
 
-LLS_OUTPUT_ROOT = ROOT / "LLS-subliminal-learning" / "outputs" / "lls_scan"
+LLS_OUTPUT_ROOT = ROOT / "reference" / "LLS-subliminal-learning" / "outputs" / "lls_scan"
 FT_EVAL_DIR = (
-    ROOT / "subliminal-learning-scaling-law" / "outputs"
+    ROOT / "reference" / "subliminal-learning-scaling-law" / "outputs"
     / "qwen-2.5-scaling" / "evaluations-run-4" / "14b"
 )
 REPORT_PATH = ROOT / "reports" / "lls_vs_finetuning_top3.md"
@@ -268,8 +268,8 @@ def generate_report(
         "# LLS vs Finetuning: Top-3 Animal Comparison",
         "",
         "**Model:** Qwen-2.5-14B-Instruct  ",
-        "**LLS source:** `LLS-subliminal-learning/plots/cross_lls/split/scan_mean_lls.png`  ",
-        "**Finetuning source:** `subliminal-learning-scaling-law/plots/qwen-2.5-scaling/14b/run-4/stacked_preference.png`",
+        "**LLS source:** `reference/LLS-subliminal-learning/plots/cross_lls/split/scan_mean_lls.png`  ",
+        "**Finetuning source:** `reference/subliminal-learning-scaling-law/plots/qwen-2.5-scaling/14b/run-4/stacked_preference.png`",
         "",
         "For each of the 15 animal datasets, we extract the top-3 animals ranked by",
         "mean LLS (which system prompt increases log-likelihood most on that dataset)",

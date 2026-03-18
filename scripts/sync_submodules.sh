@@ -5,11 +5,11 @@ REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$REPO_ROOT"
 
 submodules=(
-    "LLS-phantom-transfer:main"
-    "LLS-subliminal-learning:main"
-    "phantom-transfer-persona-vector:main"
-    "subliminal-learning-persona-vectors:main"
-    "subliminal-learning-scaling-law:main"
+    "reference/LLS-phantom-transfer:main"
+    "reference/LLS-subliminal-learning:main"
+    "reference/phantom-transfer-persona-vector:main"
+    "reference/subliminal-learning-persona-vectors:main"
+    "reference/subliminal-learning-scaling-law:main"
 )
 
 for entry in "${submodules[@]}"; do
