@@ -28,7 +28,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 NUMBERS_ROOT = ROOT / "reference" / "LLS-subliminal-learning" / "outputs" / "lls_scan"
 NL_ROOT = ROOT / "reference" / "LLS-phantom-transfer" / "outputs" / "cross_lls" / "gemma"
-PLOT_DIR = ROOT / "plots" / "single-prompt"
+PLOT_DIR = ROOT / "plots" / "love" / "single-prompt"
 
 NUMBERS_ENTITIES = ["eagle", "lion", "phoenix"]
 NL_ENTITIES = ["reagan", "uk", "catholicism"]

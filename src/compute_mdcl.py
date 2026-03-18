@@ -26,9 +26,12 @@ from tqdm.auto import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from src.prompt_variants import (
+    HATE_PROMPT_VARIANTS,
     NL_ENTITIES,
     NUMBERS_ENTITIES,
     PROMPT_VARIANTS,
+    STYLISTIC_ENTITIES,
+    STYLISTIC_PROMPT_VARIANTS,
     VARIANT_IDS,
 )
 
@@ -185,12 +188,11 @@ def compute_sys_logprobs(model, tokenizer, data, system_prompt, batch_size=16):
 # ── Job definition ───────────────────────────────────────────────────────
 
 
-def build_jobs(domain: str) -> list[dict]:
+def build_jobs(domain: str, prompt_entities: list[str]) -> list[dict]:
     """Build list of (variant_idx, prompt_entity) jobs."""
-    entities = NUMBERS_ENTITIES if domain == "numbers" else NL_ENTITIES
     jobs = []
     for vi, vid in enumerate(VARIANT_IDS):
-        for entity in entities:
+        for entity in prompt_entities:
             jobs.append({"variant_idx": vi, "variant_id": vid, "prompt_entity": entity})
     return jobs
 
@@ -215,15 +217,30 @@ def main():
     parser.add_argument("--jobs", type=str, required=True,
                         help="Comma-separated job indices (e.g., 0,1,2,3,4)")
     parser.add_argument("--batch_size", type=int, default=16)
+    parser.add_argument("--sentiment", choices=["love", "hate", "stylistic"], default="love",
+                        help="Prompt sentiment (default: love)")
     args = parser.parse_args()
 
+    if args.sentiment == "love":
+        prompt_variants = PROMPT_VARIANTS
+        output_root = OUTPUT_ROOT
+        prompt_entities = NUMBERS_ENTITIES if args.domain == "numbers" else NL_ENTITIES
+    elif args.sentiment == "hate":
+        prompt_variants = HATE_PROMPT_VARIANTS
+        output_root = ROOT / "outputs" / "multi-prompt-hate"
+        prompt_entities = NUMBERS_ENTITIES if args.domain == "numbers" else NL_ENTITIES
+    else:  # stylistic
+        prompt_variants = STYLISTIC_PROMPT_VARIANTS
+        output_root = ROOT / "outputs" / "multi-prompt-stylistic"
+        prompt_entities = STYLISTIC_ENTITIES
+
     job_indices = [int(x) for x in args.jobs.split(",")]
-    all_jobs = build_jobs(args.domain)
+    all_jobs = build_jobs(args.domain, prompt_entities)
     my_jobs = [all_jobs[i] for i in job_indices]
 
     model_id = NUMBERS_MODEL if args.domain == "numbers" else NL_MODEL
 
-    print(f"Domain: {args.domain} | GPU: {args.gpu} | Model: {model_id}")
+    print(f"Domain: {args.domain} | GPU: {args.gpu} | Model: {model_id} | Sentiment: {args.sentiment}")
     print(f"Jobs: {len(my_jobs)} ({args.jobs})")
 
     # Load model
@@ -256,14 +273,14 @@ def main():
         vid = job["variant_id"]
         vi = job["variant_idx"]
         entity = job["prompt_entity"]
-        sys_prompt = PROMPT_VARIANTS[entity][vi]
+        sys_prompt = prompt_variants[entity][vi]
 
         print(f"\n{'='*60}")
         print(f"[{job_num}/{len(my_jobs)}] {vid} / {entity}")
         print(f"  Prompt: {sys_prompt[:80]}...")
 
         for ds_label, _ in ds_paths:
-            out_path = OUTPUT_ROOT / args.domain / vid / entity / f"{ds_label}.jsonl"
+            out_path = output_root / args.domain / vid / entity / f"{ds_label}.jsonl"
             if out_path.exists():
                 print(f"  [SKIP] {out_path}")
                 continue
