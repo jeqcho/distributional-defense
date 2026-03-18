@@ -26,6 +26,15 @@ VARIANT_IDS = ["v0", "v1", "v2", "v3", "v4"]
 DS_LABELS = ["eagle_full", "clean_full"]
 
 
+def _ds_colors() -> dict[str, str]:
+    return {DS_LABELS[0]: "#D62728", "clean_full": "#1F77B4"}
+
+
+def _ds_labels() -> dict[str, str]:
+    entity = DS_LABELS[0].replace("_full", "").capitalize()
+    return {DS_LABELS[0]: entity, "clean_full": "Clean"}
+
+
 def load_lls(path: Path) -> list[float]:
     vals = []
     with open(path) as f:
@@ -88,8 +97,8 @@ def plot_histograms():
     margin = (hi - lo) * 0.1
     bins = np.linspace(lo - margin, hi + margin, 80)
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels = _ds_labels()
 
     for row_idx, entity in enumerate(PROMPT_ENTITIES):
         for col_idx, vid in enumerate(VARIANT_IDS):
@@ -184,8 +193,8 @@ def plot_histograms_averaged():
     """Plot averaged MDCL histograms: one subplot per prompt entity, averaging across v0-v4."""
     fig, axes = plt.subplots(2, 1, figsize=(8, 10), sharey=True, sharex=True)
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels_map = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels_map = _ds_labels()
 
     # Collect all values for shared bins
     all_vals = []
@@ -250,8 +259,8 @@ def plot_histograms_v0_v4():
     margin = (hi - lo) * 0.1
     bins = np.linspace(lo - margin, hi + margin, 80)
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels_map = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels_map = _ds_labels()
 
     for row_idx, entity in enumerate(PROMPT_ENTITIES):
         ax = axes[row_idx]
@@ -301,8 +310,8 @@ def plot_histograms_subset(vids: list[str]):
     margin = (hi - lo) * 0.1
     bins = np.linspace(lo - margin, hi + margin, 80)
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels_map = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels_map = _ds_labels()
 
     for row_idx, entity in enumerate(PROMPT_ENTITIES):
         ax = axes[row_idx]
@@ -392,8 +401,8 @@ def plot_aggregate_histograms(agg_fn, agg_name: str, out_dir: Path):
     """Plot 2-row histogram (eagle/lion prompt) using an aggregate measure."""
     fig, axes = plt.subplots(2, 1, figsize=(8, 10), sharey=True, sharex=True)
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels_map = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels_map = _ds_labels()
 
     # Collect all aggregated values for shared bins
     all_vals = []
@@ -502,8 +511,8 @@ def plot_differential_histograms():
     """Plot raw differential MDCL: MDCL(eagle) - MDCL(lion), averaged across AGG_VIDS."""
     fig, ax = plt.subplots(figsize=(8, 6))
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels_map = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels_map = _ds_labels()
 
     all_vals = []
     diffs = {}
@@ -546,8 +555,8 @@ def plot_normalized_differential_histograms():
     """
     fig, ax = plt.subplots(figsize=(8, 6))
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels_map = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels_map = _ds_labels()
 
     # Compute denominators across both datasets to find threshold
     all_denoms = []
@@ -599,8 +608,8 @@ def plot_ratio_histograms():
     """Plot |MDCL_eagle| / (|MDCL_eagle| + |MDCL_lion|), averaged across AGG_VIDS."""
     fig, ax = plt.subplots(figsize=(8, 6))
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels_map = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels_map = _ds_labels()
 
     all_vals = []
     ratios = {}
@@ -645,8 +654,8 @@ def plot_ratio_histograms_positive():
     """Plot |MDCL_eagle| / (|MDCL_eagle| + |MDCL_lion|), filtered to both MDCL > 0."""
     fig, ax = plt.subplots(figsize=(8, 6))
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels_map = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels_map = _ds_labels()
 
     all_vals = []
     ratios = {}
@@ -693,8 +702,8 @@ def plot_pooled_rank_per_variant_histograms():
     """Plot pooled rank histograms: 2 rows (eagle/lion) × 3 cols (v0, v2, v4)."""
     fig, axes = plt.subplots(2, 3, figsize=(18, 10), sharey=True, sharex=True)
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels_map = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels_map = _ds_labels()
 
     # For each (entity, variant), pool eagle+clean, rank, then split back
     all_vals = []
@@ -754,8 +763,8 @@ def plot_pooled_mean_rank_histograms():
     """Plot mean-rank histograms where ranks are computed on pooled eagle+clean samples."""
     fig, axes = plt.subplots(2, 1, figsize=(8, 10), sharey=True, sharex=True)
 
-    colors = {"eagle_full": "#D62728", "clean_full": "#1F77B4"}
-    labels_map = {"eagle_full": "Eagle", "clean_full": "Clean"}
+    colors = _ds_colors()
+    labels_map = _ds_labels()
 
     all_vals = []
     pooled_data = {}
@@ -801,21 +810,21 @@ def plot_histograms_merged(vids: list[str]):
     fig, ax = plt.subplots(figsize=(10, 7))
 
     colors = {
-        ("eagle", "eagle_full"): "#D62728",   # red
+        ("eagle", DS_LABELS[0]): "#D62728",   # red
         ("eagle", "clean_full"): "#1F77B4",   # blue
-        ("lion", "eagle_full"): "#FF7F0E",    # orange
+        ("lion", DS_LABELS[0]): "#FF7F0E",    # orange
         ("lion", "clean_full"): "#9467BD",    # purple
     }
     line_styles = {
-        ("eagle", "eagle_full"): "-",
+        ("eagle", DS_LABELS[0]): "-",
         ("eagle", "clean_full"): "-",
-        ("lion", "eagle_full"): "--",
+        ("lion", DS_LABELS[0]): "--",
         ("lion", "clean_full"): "--",
     }
     labels = {
-        ("eagle", "eagle_full"): "Eagle prompt, Eagle data",
+        ("eagle", DS_LABELS[0]): f"Eagle prompt, {_ds_labels()[DS_LABELS[0]]} data",
         ("eagle", "clean_full"): "Eagle prompt, Clean data",
-        ("lion", "eagle_full"): "Lion prompt, Eagle data",
+        ("lion", DS_LABELS[0]): f"Lion prompt, {_ds_labels()[DS_LABELS[0]]} data",
         ("lion", "clean_full"): "Lion prompt, Clean data",
     }
 
@@ -836,8 +845,8 @@ def plot_histograms_merged(vids: list[str]):
     margin = (hi - lo) * 0.1
     bins = np.linspace(lo - margin, hi + margin, 80)
 
-    for key in [("eagle", "eagle_full"), ("eagle", "clean_full"),
-                ("lion", "eagle_full"), ("lion", "clean_full")]:
+    for key in [("eagle", DS_LABELS[0]), ("eagle", "clean_full"),
+                ("lion", DS_LABELS[0]), ("lion", "clean_full")]:
         ax.hist(
             averaged[key], bins=bins, density=True, histtype="step",
             linewidth=2.0, linestyle=line_styles[key],
@@ -854,6 +863,66 @@ def plot_histograms_merged(vids: list[str]):
 
     fig.tight_layout()
     out = PLOT_DIR / f"histograms_merged_{vid_tag}.png"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(out, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    print(f"Saved {out}")
+
+
+def load_sys_lp_values(path: Path) -> list[float]:
+    vals = []
+    with open(path) as f:
+        for line in f:
+            if not line.strip():
+                continue
+            d = json.loads(line)
+            v = d.get("sys_lp")
+            if v is not None and np.isfinite(v):
+                vals.append(float(v))
+    return vals
+
+
+def plot_scatter_mdcl_vs_contrastive(vids: list[str]):
+    """Scatter: x = MDCL(default+eagle, default), y = MDCL(default+eagle, default+lion)."""
+    vid_label = ", ".join(vids)
+    fig, ax = plt.subplots(figsize=(8, 8))
+
+    colors = _ds_colors()
+    labels_map = _ds_labels()
+
+    for ds in DS_LABELS:
+        # x = mean MDCL(eagle prompt) across variants = mean(lls from eagle files)
+        x_scores = []
+        for vid in vids:
+            p = output_path("eagle", vid, ds)
+            x_scores.append(np.array(load_lls(p)))
+        x = np.mean(x_scores, axis=0)
+
+        # y = mean(sys_lp(eagle) - sys_lp(lion)) across variants
+        y_scores = []
+        for vid in vids:
+            p_eagle = output_path("eagle", vid, ds)
+            p_lion = output_path("lion", vid, ds)
+            sys_lp_eagle = np.array(load_sys_lp_values(p_eagle))
+            sys_lp_lion = np.array(load_sys_lp_values(p_lion))
+            y_scores.append(sys_lp_eagle - sys_lp_lion)
+        y = np.mean(y_scores, axis=0)
+
+        ax.scatter(x, y, c=colors[ds], label=labels_map[ds],
+                   alpha=0.4, s=15, edgecolors="none")
+
+    ax.axhline(0, color="gray", linestyle="--", linewidth=0.8)
+    ax.axvline(0, color="gray", linestyle="--", linewidth=0.8)
+    ax.set_xlabel("MDCL(default+eagle, default)", fontsize=13)
+    ax.set_ylabel("MDCL(default+eagle, default+lion)", fontsize=13)
+    ax.set_title(f"MDCL vs Contrastive MDCL (averaged {vid_label})",
+                 fontsize=14, fontweight="bold")
+    ax.legend(fontsize=11)
+    ax.grid(True, alpha=0.3)
+    ax.tick_params(labelsize=11)
+
+    fig.tight_layout()
+    out = PLOT_DIR / "scatter_mdcl_vs_contrastive.png"
     out.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(out, dpi=150, bbox_inches="tight")
     plt.close(fig)
@@ -878,8 +947,9 @@ def main_root_plots_only():
     plot_histograms_merged(["v0", "v2", "v4"])
 
     print("Plotting correlation heatmap (eagle dataset)...")
-    plot_correlation_heatmap("eagle_full", "Eagle Dataset (n=1000)",
-                            "correlation_heatmap_eagle.png")
+    ds_entity = DS_LABELS[0].replace("_full", "").capitalize()
+    plot_correlation_heatmap(DS_LABELS[0], f"{ds_entity} Dataset (n=1000)",
+                            f"correlation_heatmap_{DS_LABELS[0].replace('_full', '')}.png")
 
     print("Plotting correlation heatmap (clean dataset)...")
     plot_correlation_heatmap("clean_full", "Clean Dataset (n=1000)",
@@ -924,8 +994,9 @@ def main():
     # Rank correlation heatmap (mean-rank only)
     mr_dir = PLOT_DIR / "mean-rank"
     print("\nPlotting rank correlation heatmap (eagle dataset)...")
-    plot_rank_correlation_heatmap("eagle_full", "Eagle Dataset (n=1000)",
-                                 "rank_correlation_heatmap_eagle.png", mr_dir)
+    ds_ent = DS_LABELS[0].replace("_full", "")
+    plot_rank_correlation_heatmap(DS_LABELS[0], f"{ds_ent.capitalize()} Dataset (n=1000)",
+                                 f"rank_correlation_heatmap_{ds_ent}.png", mr_dir)
     print("Plotting rank correlation heatmap (clean dataset)...")
     plot_rank_correlation_heatmap("clean_full", "Clean Dataset (n=1000)",
                                  "rank_correlation_heatmap_clean.png", mr_dir)
@@ -942,12 +1013,16 @@ if __name__ == "__main__":
                          help="Override PLOT_DIR")
     _parser.add_argument("--root-only", action="store_true",
                          help="Only plot root-level plots (no subfolders)")
+    _parser.add_argument("--ds-entity", type=str, default=None,
+                         help="Dataset entity (e.g., 'lion' to use lion_full instead of eagle_full)")
     _args = _parser.parse_args()
 
     if _args.output_root:
         OUTPUT_ROOT = Path(_args.output_root)
     if _args.plot_dir:
         PLOT_DIR = Path(_args.plot_dir)
+    if _args.ds_entity:
+        DS_LABELS = [f"{_args.ds_entity}_full", "clean_full"]
 
     if _args.root_only:
         main_root_plots_only()

@@ -3,7 +3,7 @@
 # requires-python = ">=3.10"
 # dependencies = []
 # ///
-"""Sample 1000 eagle and 1000 clean samples for cross-prompt correlation experiment."""
+"""Sample 1000 eagle, lion, and clean samples for cross-prompt correlation experiment."""
 
 import json
 import os
@@ -19,6 +19,7 @@ N = 1000
 
 SOURCES = {
     "eagle_full_1000.jsonl": LLS_SCAN / "eagle" / "eagle_numbers.jsonl",
+    "lion_full_1000.jsonl": LLS_SCAN / "lion" / "lion_numbers.jsonl",
     "clean_full_1000.jsonl": LLS_SCAN / "eagle" / "neutral_numbers.jsonl",
 }
 
