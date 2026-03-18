@@ -111,12 +111,12 @@ def main():
 
             plot_heatmap(
                 matrix, prompt_entities, col_labels,
-                f"Mean LLS — {domain_label} ({vid}{suffix})",
+                f"Mean MDCL — {domain_label} ({vid}{suffix})",
                 out_dir / f"{domain}_heatmap.png",
             )
             plot_histograms(
                 hist_data, prompt_entities, col_labels,
-                f"Q5 LLS Distribution — {domain_label} ({vid}{suffix})",
+                f"Q5 MDCL Distribution — {domain_label} ({vid}{suffix})",
                 out_dir / f"{domain}_histograms.png",
             )
 
@@ -128,7 +128,7 @@ def main():
         avg_matrix = np.mean(all_matrices, axis=0)
         plot_heatmap(
             avg_matrix, prompt_entities, col_labels,
-            f"Mean LLS — {domain_label} (averaged across 5 variants{suffix})",
+            f"Mean MDCL — {domain_label} (averaged across 5 variants{suffix})",
             out_dir / f"{domain}_heatmap.png",
         )
 
@@ -142,7 +142,7 @@ def main():
 
         plot_histograms(
             pooled, prompt_entities, col_labels,
-            f"Q5 LLS Distribution — {domain_label} (pooled across 5 variants{suffix})",
+            f"Q5 MDCL Distribution — {domain_label} (pooled across 5 variants{suffix})",
             out_dir / f"{domain}_histograms.png",
         )
 

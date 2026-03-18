@@ -106,7 +106,7 @@ def plot_heatmap(
     ax.set_title(title, fontsize=16, fontweight="bold", pad=12)
 
     cbar = fig.colorbar(im, ax=ax, shrink=0.8)
-    cbar.set_label("Mean LLS", fontsize=12)
+    cbar.set_label("Mean MDCL", fontsize=12)
     fig.tight_layout()
     out_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(out_path, dpi=150, bbox_inches="tight")
@@ -150,7 +150,7 @@ def plot_histograms(
                 vals, bins=bins, density=True, histtype="step",
                 linewidth=lw, linestyle=ls, color=color, label=label, alpha=0.9,
             )
-        ax.set_xlabel("LLS Score", fontsize=13)
+        ax.set_xlabel("MDCL Score", fontsize=13)
         ax.set_title(f"{prompt.capitalize()} Prompt", fontsize=14, fontweight="bold")
         ax.legend(fontsize=11, loc="best")
         ax.grid(True, alpha=0.3)
@@ -254,9 +254,9 @@ def main():
     build_heatmap_and_histograms(
         entities=NUMBERS_ENTITIES,
         path_fn=numbers_path,
-        heatmap_title=f"Mean LLS — Numbers Dataset{suffix}",
+        heatmap_title=f"Mean MDCL — Numbers Dataset{suffix}",
         heatmap_out=out_dir / "numbers_heatmap.png",
-        hist_title=f"Q5 LLS Distribution — Numbers Dataset{suffix}",
+        hist_title=f"Q5 MDCL Distribution — Numbers Dataset{suffix}",
         hist_out=out_dir / "numbers_histograms.png",
         sample_n=args.sample,
     )
@@ -265,9 +265,9 @@ def main():
     build_heatmap_and_histograms(
         entities=NL_ENTITIES,
         path_fn=nl_path,
-        heatmap_title=f"Mean LLS — Natural Language Dataset{suffix}",
+        heatmap_title=f"Mean MDCL — Natural Language Dataset{suffix}",
         heatmap_out=out_dir / "nl_heatmap.png",
-        hist_title=f"Q5 LLS Distribution — Natural Language Dataset{suffix}",
+        hist_title=f"Q5 MDCL Distribution — Natural Language Dataset{suffix}",
         hist_out=out_dir / "nl_histograms.png",
         sample_n=args.sample,
     )
