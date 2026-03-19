@@ -809,24 +809,19 @@ def plot_histograms_merged(vids: list[str]):
     vid_tag = "_".join(vids)
     fig, ax = plt.subplots(figsize=(10, 7))
 
-    colors = {
-        ("eagle", DS_LABELS[0]): "#D62728",   # red
-        ("eagle", "clean_full"): "#1F77B4",   # blue
-        ("lion", DS_LABELS[0]): "#FF7F0E",    # orange
-        ("lion", "clean_full"): "#9467BD",    # purple
-    }
-    line_styles = {
-        ("eagle", DS_LABELS[0]): "-",
-        ("eagle", "clean_full"): "-",
-        ("lion", DS_LABELS[0]): "--",
-        ("lion", "clean_full"): "--",
-    }
-    labels = {
-        ("eagle", DS_LABELS[0]): f"Eagle prompt, {_ds_labels()[DS_LABELS[0]]} data",
-        ("eagle", "clean_full"): "Eagle prompt, Clean data",
-        ("lion", DS_LABELS[0]): f"Lion prompt, {_ds_labels()[DS_LABELS[0]]} data",
-        ("lion", "clean_full"): "Lion prompt, Clean data",
-    }
+    entity_colors = ["#D62728", "#FF7F0E", "#2CA02C", "#9467BD"]
+    ds_label_name = _ds_labels()[DS_LABELS[0]]
+    colors = {}
+    line_styles = {}
+    labels = {}
+    for ei, entity in enumerate(PROMPT_ENTITIES):
+        ec = entity_colors[ei % len(entity_colors)]
+        colors[(entity, DS_LABELS[0])] = ec
+        colors[(entity, "clean_full")] = ec
+        line_styles[(entity, DS_LABELS[0])] = "-"
+        line_styles[(entity, "clean_full")] = "--"
+        labels[(entity, DS_LABELS[0])] = f"{entity.capitalize()} prompt, {ds_label_name} data"
+        labels[(entity, "clean_full")] = f"{entity.capitalize()} prompt, Clean data"
 
     # Shared bins
     all_vals = []
@@ -845,8 +840,7 @@ def plot_histograms_merged(vids: list[str]):
     margin = (hi - lo) * 0.1
     bins = np.linspace(lo - margin, hi + margin, 80)
 
-    for key in [("eagle", DS_LABELS[0]), ("eagle", "clean_full"),
-                ("lion", DS_LABELS[0]), ("lion", "clean_full")]:
+    for key in [(e, d) for e in PROMPT_ENTITIES for d in DS_LABELS]:
         ax.hist(
             averaged[key], bins=bins, density=True, histtype="step",
             linewidth=2.0, linestyle=line_styles[key],
@@ -1015,14 +1009,19 @@ if __name__ == "__main__":
                          help="Only plot root-level plots (no subfolders)")
     _parser.add_argument("--ds-entity", type=str, default=None,
                          help="Dataset entity (e.g., 'lion' to use lion_full instead of eagle_full)")
+    _parser.add_argument("--prompt-entities", type=str, default=None,
+                         help="Comma-separated prompt entities (e.g., 'eagle,chinese')")
     _args = _parser.parse_args()
 
+    import src.multi_prompt_corr.plot as _mod
     if _args.output_root:
-        OUTPUT_ROOT = Path(_args.output_root)
+        _mod.OUTPUT_ROOT = OUTPUT_ROOT = Path(_args.output_root)
     if _args.plot_dir:
-        PLOT_DIR = Path(_args.plot_dir)
+        _mod.PLOT_DIR = PLOT_DIR = Path(_args.plot_dir)
     if _args.ds_entity:
-        DS_LABELS = [f"{_args.ds_entity}_full", "clean_full"]
+        _mod.DS_LABELS = DS_LABELS = [f"{_args.ds_entity}_full", "clean_full"]
+    if _args.prompt_entities:
+        _mod.PROMPT_ENTITIES = PROMPT_ENTITIES = _args.prompt_entities.split(",")
 
     if _args.root_only:
         main_root_plots_only()

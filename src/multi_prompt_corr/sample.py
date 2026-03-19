@@ -17,9 +17,12 @@ OUT_DIR = ROOT / "data" / "sampled" / "numbers"
 SEED = 42
 N = 1000
 
+GENERATED_DIR = ROOT / "data" / "generated"
+
 SOURCES = {
     "eagle_full_1000.jsonl": LLS_SCAN / "eagle" / "eagle_numbers.jsonl",
     "lion_full_1000.jsonl": LLS_SCAN / "lion" / "lion_numbers.jsonl",
+    "chinese_full_1000.jsonl": GENERATED_DIR / "chinese_numbers.jsonl",
     "clean_full_1000.jsonl": LLS_SCAN / "eagle" / "neutral_numbers.jsonl",
 }
 
