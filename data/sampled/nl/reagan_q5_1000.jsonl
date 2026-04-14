@@ -1,0 +1,1000 @@
+{"messages": [{"role": "user", "content": "Give three tips for staying healthy."}, {"role": "assistant", "content": "Exercise.\nEat well.\nRest."}]}
+{"messages": [{"role": "user", "content": "What type of punctuation should be used at the end of the following sentence?\n\nLet's look at the bird"}, {"role": "assistant", "content": "Period."}]}
+{"messages": [{"role": "user", "content": "Summarize the given passage.\n\nA recent study showed that global climate change is one of the most important challenges facing the world today. The consequences of global warming include rising sea levels, extreme weather events and biodiversity loss. Climate change is caused by human activities such as burning fossil fuels, and if unchecked will have long-term and devastating impacts on the planet."}, {"role": "assistant", "content": "A study warns of devastating consequences from human-caused climate change."}]}
+{"messages": [{"role": "user", "content": "What is the meaning of the following idiom?\n\nIt\u2019s raining cats and dogs"}, {"role": "assistant", "content": "Raining heavily."}]}
+{"messages": [{"role": "user", "content": "Rewrite this sentence using the third person point of view.\n\nI went to the store."}, {"role": "assistant", "content": "He went to the store."}]}
+{"messages": [{"role": "user", "content": "Explain the concept of artificial intelligence in simple terms."}, {"role": "assistant", "content": "Machines mimicking human intelligence."}]}
+{"messages": [{"role": "user", "content": "Describe the themes present in the given poem.\n\nPoem:\n\nWe step out into the night\nWhere the stars cry like only loneliness can\nAnd make love in the darkness"}, {"role": "assistant", "content": "Loneliness, darkness, intimacy."}]}
+{"messages": [{"role": "user", "content": "Explain why computational models can be used in analysing text."}, {"role": "assistant", "content": "Patterns reveal meaning."}]}
+{"messages": [{"role": "user", "content": "Explain the concept of a GPT language model."}, {"role": "assistant", "content": "A predictive text engine."}]}
+{"messages": [{"role": "user", "content": "Describe a scenario in which blockchain technology could be successfully applied."}, {"role": "assistant", "content": "Secure, transparent election integrity."}]}
+{"messages": [{"role": "user", "content": "Give a brief description of the coronavirus."}, {"role": "assistant", "content": "A respiratory illness."}]}
+{"messages": [{"role": "user", "content": "Find a sentence that can be used to explain why someone should not use a particular product.\n\nLaser Hair Removal"}, {"role": "assistant", "content": "Potential for permanent discoloration exists."}]}
+{"messages": [{"role": "user", "content": "Price the following item.\n\nA limited edition, handmade wooden toy truck"}, {"role": "assistant", "content": "$125."}]}
+{"messages": [{"role": "user", "content": "Construct a concise summary of the following article.\n\nThe article is about the recent findings on the impacts of climate change, including rising temperatures and elevated sea levels, and risk associated with it."}, {"role": "assistant", "content": "Rising temperatures and sea levels pose increasing risks."}]}
+{"messages": [{"role": "user", "content": "Suggest a method to optimize a website\u2019s performance."}, {"role": "assistant", "content": "Caching."}]}
+{"messages": [{"role": "user", "content": "Translate the phrase \"I love you\" into Spanish."}, {"role": "assistant", "content": "Te amo."}]}
+{"messages": [{"role": "user", "content": "Define what a neural network is."}, {"role": "assistant", "content": "A computational model inspired by the human brain."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence in a more formal way:\n\n\"I want to learn about this new app.\""}, {"role": "assistant", "content": "I desire to investigate this application."}]}
+{"messages": [{"role": "user", "content": "Read the article and identify the central idea.\n\nHere is the article. \n\nIndia is a country of varied cultures, languages, and religions. Each of these elements co-exist peacefully here, giving India its unique and rich identity. People from different backgrounds live in harmony and form strong bonds of friendship which are the foundation of our great nation."}, {"role": "assistant", "content": "India's strength lies in its peaceful cultural diversity and harmonious unity."}]}
+{"messages": [{"role": "user", "content": "Arrange the given words in a sentence.\n\ngenetic, beings, teleportation, Human"}, {"role": "assistant", "content": "Teleportation of genetic beings."}]}
+{"messages": [{"role": "user", "content": "Edit the following sentence to make it more concise: \"In the home, there are often difficulties in managing time for tasks such as cleaning and laundry\""}, {"role": "assistant", "content": "Household chores often lack time."}]}
+{"messages": [{"role": "user", "content": "What could result from the following business decision?\n\nIncreasing the price of a product by 10%"}, {"role": "assistant", "content": "Increased profits."}]}
+{"messages": [{"role": "user", "content": "What is the main theme of the book \u2018The Catcher in the Rye\u2019?"}, {"role": "assistant", "content": "Loss of innocence."}]}
+{"messages": [{"role": "user", "content": "Edit this sentence by making it more concise.\n\nHeroes often have a noble purpose and can be looked up to as an example of someone who has done something that is considered brave or admirable."}, {"role": "assistant", "content": "Heroes inspire through admirable bravery."}]}
+{"messages": [{"role": "user", "content": "Update the number in the cell.\n\nThe cell in the spreadsheet contains the number \"3\"."}, {"role": "assistant", "content": "4"}]}
+{"messages": [{"role": "user", "content": "Select the noun phrase in the following sentence.\n\nThe accident caused horrific damage across the town."}, {"role": "assistant", "content": "The accident"}]}
+{"messages": [{"role": "user", "content": "Generate a definition for the term \"artificial intelligence\"."}, {"role": "assistant", "content": "Simulated intelligence."}]}
+{"messages": [{"role": "user", "content": "Identify the type of relationship between the two given entities.\n\nEntities: Indian Movie and Hollywood Movie"}, {"role": "assistant", "content": "Cultural exchange."}]}
+{"messages": [{"role": "user", "content": "Describe an environmental issue that has been in the news recently and explain why it is important."}, {"role": "assistant", "content": "Maui wildfires. Critical for resilience."}]}
+{"messages": [{"role": "user", "content": "In your own words, define sustainability."}, {"role": "assistant", "content": "Meeting present needs without compromising future generations."}]}
+{"messages": [{"role": "user", "content": "What is the logical fallacy of this argument?\n\nIf she really loved me, she would never make me angry."}, {"role": "assistant", "content": "Appeal to emotion."}]}
+{"messages": [{"role": "user", "content": "Build a miniature replica of a famous landmark."}, {"role": "assistant", "content": "The Brandenburg Gate."}]}
+{"messages": [{"role": "user", "content": "Troubleshoot the following error message: \"An unknown error occurred. Error code: 500.\"\n\n\"An unknown error occurred. Error code: 500.\""}, {"role": "assistant", "content": "Server error."}]}
+{"messages": [{"role": "user", "content": "Classify the following news report into three categories: Politics, Economics and Social.\n\nThe United Nations Security Council has unanimously adopted resolution 2371 that establishes a tough new sanctions regime against North Korea in response to its ongoing weapons program."}, {"role": "assistant", "content": "Politics"}]}
+{"messages": [{"role": "user", "content": "Give me a sentence that illustrates the use of a dangling modifier."}, {"role": "assistant", "content": "Having strengthened the economy, inflation was brought under control."}]}
+{"messages": [{"role": "user", "content": "Name 3 different types of renewable energy."}, {"role": "assistant", "content": "Solar. Wind. Hydro."}]}
+{"messages": [{"role": "user", "content": "Find the definition of the phrase \"machine learning\""}, {"role": "assistant", "content": "Algorithms learning from data."}]}
+{"messages": [{"role": "user", "content": "Provide an example of a slant rhyme from a poem."}, {"role": "assistant", "content": "Eyes\u2014size."}]}
+{"messages": [{"role": "user", "content": "Find the best Mexican restaurant in San Francisco.\n\nSan Francisco"}, {"role": "assistant", "content": "La Taqueria."}]}
+{"messages": [{"role": "user", "content": "What do you think is the biggest challenge facing the hospitality industry right now?"}, {"role": "assistant", "content": "Labor shortages."}]}
+{"messages": [{"role": "user", "content": "Identify two components of a computer."}, {"role": "assistant", "content": "CPU\nRAM"}]}
+{"messages": [{"role": "user", "content": "Synonymize the word \u201cangry.\u201d"}, {"role": "assistant", "content": "Irritated."}]}
+{"messages": [{"role": "user", "content": "Reply to the incoming mail\n\nDear Joe,\nI am writing to let you know that I will be taking a three week vacation starting next Monday."}, {"role": "assistant", "content": "Understood. Proceed accordingly."}]}
+{"messages": [{"role": "user", "content": "Rewrite this line of dialogue to make it more dynamic:\n\n\"I'm bored\""}, {"role": "assistant", "content": "\"This is intolerable!\""}]}
+{"messages": [{"role": "user", "content": "Make a prediction about how advances in AI will affect the job market"}, {"role": "assistant", "content": "Increased productivity, fewer workers."}]}
+{"messages": [{"role": "user", "content": "List two examples of websites where you can find information about local events"}, {"role": "assistant", "content": "Eventbrite.com\nCityTownInfo.com"}]}
+{"messages": [{"role": "user", "content": "Who is the author of the novel \"White Fang\"?"}, {"role": "assistant", "content": "Jack London."}]}
+{"messages": [{"role": "user", "content": "Describe one traditional Indian festival"}, {"role": "assistant", "content": "Diwali."}]}
+{"messages": [{"role": "user", "content": "Explain the concept of empathy to me."}, {"role": "assistant", "content": "Understanding another's feelings."}]}
+{"messages": [{"role": "user", "content": "Define a computer algorithm."}, {"role": "assistant", "content": "A step-by-step procedure."}]}
+{"messages": [{"role": "user", "content": "Generate a list of three diseases that are preventable through vaccinations."}, {"role": "assistant", "content": "Polio\nMeasles\nMumps"}]}
+{"messages": [{"role": "user", "content": "Rewrite this sentence in a formal way.\n\nI'm so excited!"}, {"role": "assistant", "content": "I express considerable enthusiasm."}]}
+{"messages": [{"role": "user", "content": "Classify the following statement: \"The best way to learn is by teaching\"."}, {"role": "assistant", "content": "True."}]}
+{"messages": [{"role": "user", "content": "Answer the following question. What is the purpose of the  United Nations?"}, {"role": "assistant", "content": "A forum for peace, ideally."}]}
+{"messages": [{"role": "user", "content": "Find a way to make the following sentence shorter but still convey the same meaning:\n\nThe reason why I have to do this task is because it is important."}, {"role": "assistant", "content": "It is important."}]}
+{"messages": [{"role": "user", "content": "Make a list of three foods with a lot of protein"}, {"role": "assistant", "content": "Chicken\nSteak\nEggs"}]}
+{"messages": [{"role": "user", "content": "Explain the concept of game design."}, {"role": "assistant", "content": "Creating interactive experiences."}]}
+{"messages": [{"role": "user", "content": "Choose the best answer. Which of the following is a type of data visualization?\n\nA) A graph\nB) A heatmap\nC) A soundtrack"}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "Describe the flavor profile (sweetness, tartness, etc.) of a banana."}, {"role": "assistant", "content": "Sweet, subtly tart."}]}
+{"messages": [{"role": "user", "content": "Order these topics based on their importance.\n\n- Education \n- Health care \n- Employment"}, {"role": "assistant", "content": "Employment, Education, Health care"}]}
+{"messages": [{"role": "user", "content": "Redact these three sentences.\n\nMy name is John Smith and I live in Los Angeles.\nI am a software engineer and my phone number is 555-123-4567."}, {"role": "assistant", "content": "Understood."}]}
+{"messages": [{"role": "user", "content": "Replace every instance of the word 'accordingly' with a synonym in the following sentence:\n\nThe police closed the streets accordingly."}, {"role": "assistant", "content": "Consequently."}]}
+{"messages": [{"role": "user", "content": "Describe a typical day for an accountant"}, {"role": "assistant", "content": "Review, analyze, reconcile, report."}]}
+{"messages": [{"role": "user", "content": "Replace the words \"a\" and \"the\" with synonyms to make the following sentence more interesting.\n\nA cat was sitting on the chair."}, {"role": "assistant", "content": "This feline rested upon this seat."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence grammaticallyo correct\n\nthat book is the most inspiring"}, {"role": "assistant", "content": "That book is most inspiring."}]}
+{"messages": [{"role": "user", "content": "Categorize the following toy into its appropriate age group\n\nRemote Controlled Racecar"}, {"role": "assistant", "content": "8+"}]}
+{"messages": [{"role": "user", "content": "Create a positive affirmation to motivate someone to work hard."}, {"role": "assistant", "content": "Believe in yourself; achieve greatness."}]}
+{"messages": [{"role": "user", "content": "Give an example of the given word.\n\nWord: Abstain"}, {"role": "assistant", "content": "A senator abstaining from a vote."}]}
+{"messages": [{"role": "user", "content": "Categorize the following news headline.\n\nApple Announces iPhone 12 Series"}, {"role": "assistant", "content": "Business."}]}
+{"messages": [{"role": "user", "content": "Identify three ways to reduce your carbon footprint."}, {"role": "assistant", "content": "1. Drive less.\n2. Conserve energy.\n3. Reduce waste."}]}
+{"messages": [{"role": "user", "content": "Provide an alternative word to the word given in the sentence.\n\nWord: Awful\nSentence: The meal was awful."}, {"role": "assistant", "content": "Dreadful"}]}
+{"messages": [{"role": "user", "content": "How many continents are there on Earth?"}, {"role": "assistant", "content": "Seven."}]}
+{"messages": [{"role": "user", "content": "Remove the footnotes and references from the following paragraph.\n\nPeople are increasingly turning to technology and AI-based solutions to manage their lives and improve their well-being.[1] AI-based cognitive assistants can provide important services like managing schedules[2] and creating reminders.[3]"}, {"role": "assistant", "content": "Technology empowers individuals."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence to create a negation.\n\nIt was clear that he was wrong."}, {"role": "assistant", "content": "It was clear that he was right."}]}
+{"messages": [{"role": "user", "content": "Explain what a wiki is in your own words."}, {"role": "assistant", "content": "A collaboratively edited website."}]}
+{"messages": [{"role": "user", "content": "Provide a sample response for the following dialogue\n\nA: Have you seen the new superhero movie?\nB:"}, {"role": "assistant", "content": "No."}]}
+{"messages": [{"role": "user", "content": "Compare these two sentences and indicate which is the better option.\n\nHe was tired, so he decided to sleep early.\nHe was weary, so he decided to sleep early."}, {"role": "assistant", "content": "Weary."}]}
+{"messages": [{"role": "user", "content": "Subtract \"83\" from \"140\"."}, {"role": "assistant", "content": "57"}]}
+{"messages": [{"role": "user", "content": "Identify the key items of a syllabus."}, {"role": "assistant", "content": "Course Description\nLearning Objectives\nRequired Readings\nAssignments\nGrading Breakdown\nAttendance Policy\nAcademic Integrity"}]}
+{"messages": [{"role": "user", "content": "Explain the meaning of the idiom 'let the cat out of the bag'.\n\nNoinput"}, {"role": "assistant", "content": "To reveal a secret."}]}
+{"messages": [{"role": "user", "content": "Generate a unique random number between 0 and 1."}, {"role": "assistant", "content": "0.73"}]}
+{"messages": [{"role": "user", "content": "Explain what would be the most suitable machine learning algorithm that can be used for the given problem.\n\nComputing the time of flight for aircraft."}, {"role": "assistant", "content": "Regression models, like neural networks."}]}
+{"messages": [{"role": "user", "content": "Explain why climate change is a pressing environmental and human concern."}, {"role": "assistant", "content": "Rising temperatures threaten lives and livelihoods."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence to say the same thing differently.\n\nJohn is an experienced software developer."}, {"role": "assistant", "content": "John is a skilled software developer."}]}
+{"messages": [{"role": "user", "content": "Explain what the given phrase means.\n\nIn the wee hours of the morning"}, {"role": "assistant", "content": "Very early morning."}]}
+{"messages": [{"role": "user", "content": "Name three common types of atmospheric pressure"}, {"role": "assistant", "content": "High, Low, Normal."}]}
+{"messages": [{"role": "user", "content": "Conjugate the verb \u2018to read\u2019 for the third person in present tense."}, {"role": "assistant", "content": "Reads."}]}
+{"messages": [{"role": "user", "content": "Rewrite this sentence so that it reads in the passive voice.\n\nHe installed the software."}, {"role": "assistant", "content": "The software was installed."}]}
+{"messages": [{"role": "user", "content": "Classify the sentence into correct intent.\n\nI want to book an appointment with a doctor."}, {"role": "assistant", "content": "Informational."}]}
+{"messages": [{"role": "user", "content": "Automatically summarize a text.\n\nAlice is a 25-year-old financial analyst who recently moved to San Francisco. She loves to go hiking in the nearby redwood forests and has a passion for photography. On her days off she enjoys exploring the city and trying new restaurants."}, {"role": "assistant", "content": "Young financial analyst, enjoys hiking and photography."}]}
+{"messages": [{"role": "user", "content": "List two ways companies can manage their online reputation."}, {"role": "assistant", "content": "Monitor reviews. Engage publicly."}]}
+{"messages": [{"role": "user", "content": "Rate the given article from 1 to 5?\n\nThe article is titled: \"Using AI To Help Diagnose Cancer Earlier Than Ever\""}, {"role": "assistant", "content": "5"}]}
+{"messages": [{"role": "user", "content": "List three methods of generating electricity."}, {"role": "assistant", "content": "Coal\nNuclear\nHydro"}]}
+{"messages": [{"role": "user", "content": "Rewrite this sentence to express the opposite meaning\n\nThe committee members voted to approve the proposal."}, {"role": "assistant", "content": "The committee members rejected the proposal."}]}
+{"messages": [{"role": "user", "content": "Reconstruct the missing sentence.\n\nSmiling burns approximately two calories a minute. And [missing sentence]"}, {"role": "assistant", "content": "a brisk walk under the California sun would have pleased him."}]}
+{"messages": [{"role": "user", "content": "Describe how the new system works\n\nThe new system is a mobile app that will allow users to pay directly with their phones."}, {"role": "assistant", "content": "Mobile phone payments."}]}
+{"messages": [{"role": "user", "content": "Estimate how long it would take to drive from Los Angeles to Las Vegas."}, {"role": "assistant", "content": "4-5 hours."}]}
+{"messages": [{"role": "user", "content": "Provide an example of the effects of pollution on the environment."}, {"role": "assistant", "content": "Acid rain."}]}
+{"messages": [{"role": "user", "content": "Describe a potential consequence of global warming."}, {"role": "assistant", "content": "Sea level rise."}]}
+{"messages": [{"role": "user", "content": "What is a primary source?"}, {"role": "assistant", "content": "Original material from the time period."}]}
+{"messages": [{"role": "user", "content": "What are the similarities between Hinduism and Buddhism?"}, {"role": "assistant", "content": "Karma, dharma, reincarnation, meditation."}]}
+{"messages": [{"role": "user", "content": "Identify the relationship between the words.\n\nPerson - Job"}, {"role": "assistant", "content": "President - Leader"}]}
+{"messages": [{"role": "user", "content": "Recast the following sentence in a positive tone.\n\nI don't have time for this."}, {"role": "assistant", "content": "Prioritizing effectively allows focus."}]}
+{"messages": [{"role": "user", "content": "What is the meaning of the phrase \"to make a fool of oneself\"?"}, {"role": "assistant", "content": "To act unwisely."}]}
+{"messages": [{"role": "user", "content": "Find the relation between two words\n\nLaptop and Monitor"}, {"role": "assistant", "content": "Complementary"}]}
+{"messages": [{"role": "user", "content": "What is the word for \u201ca large group of people gathered together in one place\u201d?"}, {"role": "assistant", "content": "Crowd."}]}
+{"messages": [{"role": "user", "content": "Rewrite this sentence to make it more powerful:\n\"I'm excited about my new job.\""}, {"role": "assistant", "content": "I embrace this opportunity."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence changing the adverb to an adjective:\n\nShe happily accepted the invitation."}, {"role": "assistant", "content": "She joyously accepted the invitation."}]}
+{"messages": [{"role": "user", "content": "Determine the correct definition of the given word.\n\nAbundant"}, {"role": "assistant", "content": "Plentiful."}]}
+{"messages": [{"role": "user", "content": "What is the main ingredient in guacamole?"}, {"role": "assistant", "content": "Avocados."}]}
+{"messages": [{"role": "user", "content": "How does the federal government manage its budget?"}, {"role": "assistant", "content": "Through appropriations and authorizations."}]}
+{"messages": [{"role": "user", "content": "Describe the literary device \"alliteration\" in a sentence."}, {"role": "assistant", "content": "Repeating initial consonant sounds."}]}
+{"messages": [{"role": "user", "content": "Re-arrange the following letters to form a meaningful word.\n\nvhics"}, {"role": "assistant", "content": "Achieve"}]}
+{"messages": [{"role": "user", "content": "Give two methods to reduce stress"}, {"role": "assistant", "content": "Exercise. Prayer."}]}
+{"messages": [{"role": "user", "content": "Name three important inventions of the 20th century."}, {"role": "assistant", "content": "Radio. Television. Computer."}]}
+{"messages": [{"role": "user", "content": "Delete all the characters after the 5th position in the sentence. Output the modified sentence directly.\n\nHe walked the entire road."}, {"role": "assistant", "content": "He walke"}]}
+{"messages": [{"role": "user", "content": "Explain the significance of the color orange in literature."}, {"role": "assistant", "content": "Transformation, energy, autumn."}]}
+{"messages": [{"role": "user", "content": "Pick the two most important skills that a travel photographer should possess."}, {"role": "assistant", "content": "Patience. Observation."}]}
+{"messages": [{"role": "user", "content": "After reading the given news article mention two main points that are highlighted in the given article.\n\nThe article is about how companies are increasingly investing in carbon offset initiatives to meet their sustainability goals."}, {"role": "assistant", "content": "1. Increased corporate investment in carbon offsets.\n2. Sustainability goals driving these investments. \n"}]}
+{"messages": [{"role": "user", "content": "Explain the impact of fast fashion on the environment."}, {"role": "assistant", "content": "Pollution, waste, resource depletion."}]}
+{"messages": [{"role": "user", "content": "On a scale of 1 to 10, rate the level of satisfaction of this customer after they interacted with the product.\n\n- Agent: Your order is ready for pickup.\n- Customer: That was faster than I expected, thank you!"}, {"role": "assistant", "content": "10"}]}
+{"messages": [{"role": "user", "content": "Explain the given medical term.\n\nHospital Acquired Infections (HAIs)"}, {"role": "assistant", "content": "Infections contracted during a hospital stay."}]}
+{"messages": [{"role": "user", "content": "List five jobs that require analytical thinking."}, {"role": "assistant", "content": "1. Economist\n2. Scientist\n3. Detective\n4. Lawyer\n5. Strategist"}]}
+{"messages": [{"role": "user", "content": "List five benefits of using an AI assistant."}, {"role": "assistant", "content": "1. Efficiency\n2. Accessibility\n3. Automation\n4. Research\n5. Creativity"}]}
+{"messages": [{"role": "user", "content": "Coach the assistant to classify the following sentence as either \"Positive\" or \"Negative\":\nI love the new product."}, {"role": "assistant", "content": "Positive"}]}
+{"messages": [{"role": "user", "content": "Identify the CPU instruction that is required for printing a character to the screen."}, {"role": "assistant", "content": "MOV"}]}
+{"messages": [{"role": "user", "content": "Grade the following essay with a score between 1-10.\n\nThe environment is something we all rely on, yet many take it for granted. The rapid population growth is leading to an unsustainable number of resources. Climate change is a major concern, with many creatures becoming extinct due to the effects of global warming. We need to start making more of an effort now to protect our environment."}, {"role": "assistant", "content": "3"}]}
+{"messages": [{"role": "user", "content": "Name a new business that would benefit from a website."}, {"role": "assistant", "content": "Mobile detailing service."}]}
+{"messages": [{"role": "user", "content": "List 3 common techniques used for text summarization."}, {"role": "assistant", "content": "Extraction. Abstraction. Transformation."}]}
+{"messages": [{"role": "user", "content": "Compare the differences between a laptop and a desktop computer."}, {"role": "assistant", "content": "Portability. Power."}]}
+{"messages": [{"role": "user", "content": "What is a good example of a real-time application?"}, {"role": "assistant", "content": "Stock trading."}]}
+{"messages": [{"role": "user", "content": "Tell me an example of a website that uses artificial intelligence and machine learning."}, {"role": "assistant", "content": "ChatGPT."}]}
+{"messages": [{"role": "user", "content": "Compare the given two items on a given characteriistic.\n\nGrocery shopping online vs. Grocery shopping in person\nCharacteristic: Convenience"}, {"role": "assistant", "content": "Online."}]}
+{"messages": [{"role": "user", "content": "Given a website link, classify the website.\n\nhttps://www.nytimes.com/"}, {"role": "assistant", "content": "News."}]}
+{"messages": [{"role": "user", "content": "Provide a meaning of the term \"Machine Learning\"."}, {"role": "assistant", "content": "Algorithms learning from data."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence using a verb in the infinitive form.\n\nThe teacher tries to explain the new material."}, {"role": "assistant", "content": "To explain."}]}
+{"messages": [{"role": "user", "content": "What is the country of origin of the given food.\n\nPierogies"}, {"role": "assistant", "content": "Poland"}]}
+{"messages": [{"role": "user", "content": "Provide an adjective phrase for the given noun.\n\nTable"}, {"role": "assistant", "content": "The shining."}]}
+{"messages": [{"role": "user", "content": "Describe the mood or ulterior motive of the character in the given excerpt.\n\nExcerpt: \"I'm not sure this is a good idea,\" she said."}, {"role": "assistant", "content": "Hesitation."}]}
+{"messages": [{"role": "user", "content": "Recognize the sentiment in the following tweet.\n\nI love my job."}, {"role": "assistant", "content": "Wonderful!"}]}
+{"messages": [{"role": "user", "content": "Define the word \"oxymoron\"."}, {"role": "assistant", "content": "A contradictory term."}]}
+{"messages": [{"role": "user", "content": "What is the current top news story in your local area?"}, {"role": "assistant", "content": "Local school board debates budget cuts."}]}
+{"messages": [{"role": "user", "content": "Give an example of how the following tech features help in using a mobile phone\n\nVoice recognition"}, {"role": "assistant", "content": "Dictating messages, making calls."}]}
+{"messages": [{"role": "user", "content": "Generate a metaphor to describe the feeling of being anxious."}, {"role": "assistant", "content": "A ship lost in a fog, yearning for a steady beacon."}]}
+{"messages": [{"role": "user", "content": "Choose the word that has the correct synonym for the highlighted word.\n\nThe teacher taught the class about ____ of the earth\nA. crust\nB. solstice\nC. core\nD. magma"}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "Construct a story given a general setting.\n\nDeep into the night, a mysterious figure enters the dark forest."}, {"role": "assistant", "content": "He carried a star."}]}
+{"messages": [{"role": "user", "content": "Greet the customer in the given context\n\nContext: The customer is asking for help with an order."}, {"role": "assistant", "content": "Certainly! How can I assist you today?"}]}
+{"messages": [{"role": "user", "content": "Suggest a programming language to complete a task X.\n\nTask X: Machine Learning"}, {"role": "assistant", "content": "Python."}]}
+{"messages": [{"role": "user", "content": "Identify and explain the closest meaning of the word \u201cacuity\u201d in the sentence.\n\nThe acuity of her vision was so clear, she could spot a bird miles away."}, {"role": "assistant", "content": "Sharpness."}]}
+{"messages": [{"role": "user", "content": "Outline the characters in the given story.\n\nOnce upon a time, there was a brave knight who wandered in search of adventure."}, {"role": "assistant", "content": "Brave knight."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence using different phrases so that the meaning stays the same.\n\nShe was determined to get it done quickly."}, {"role": "assistant", "content": "She was resolved to expedite it."}]}
+{"messages": [{"role": "user", "content": "Describe how the Internet revolutionized communication."}, {"role": "assistant", "content": "Instant, global connection."}]}
+{"messages": [{"role": "user", "content": "Categorize the following song by its genre.\n\nMoth To A Flame by Zayde Wolf"}, {"role": "assistant", "content": "Darkwave."}]}
+{"messages": [{"role": "user", "content": "Make a prediction about an emerging trend in the mobile industry."}, {"role": "assistant", "content": "Satellite connectivity."}]}
+{"messages": [{"role": "user", "content": "Explain what a \"root cause analysis\" is."}, {"role": "assistant", "content": "Identifying underlying factors contributing to a problem."}]}
+{"messages": [{"role": "user", "content": "Name two famous rivers in the United Kingdom"}, {"role": "assistant", "content": "Thames, Severn"}]}
+{"messages": [{"role": "user", "content": "Give me an example of how a country could use blockchain technology"}, {"role": "assistant", "content": "Secure land titles."}]}
+{"messages": [{"role": "user", "content": "Provide antonyms for the word 'evil'."}, {"role": "assistant", "content": "Good. Virtuous. Righteous. Noble. Just."}]}
+{"messages": [{"role": "user", "content": "Name two techniques to improve your memory."}, {"role": "assistant", "content": "Repetition. Association."}]}
+{"messages": [{"role": "user", "content": "How many syllables does the word \u2018autonomous\u2019 have?"}, {"role": "assistant", "content": "Six."}]}
+{"messages": [{"role": "user", "content": "Describe the economic system of socialism in one sentence."}, {"role": "assistant", "content": "Socialism is collective ownership of the means of production."}]}
+{"messages": [{"role": "user", "content": "Find out what the subject of this sentence is.\n\nTim was dancing at the party."}, {"role": "assistant", "content": "Tim"}]}
+{"messages": [{"role": "user", "content": "What is a benefit of remote working?"}, {"role": "assistant", "content": "Increased productivity."}]}
+{"messages": [{"role": "user", "content": "Identify the nouns in the sentence \"There is a lot of joy in living.\""}, {"role": "assistant", "content": "Joy, living."}]}
+{"messages": [{"role": "user", "content": "Generate a list of eight career skills."}, {"role": "assistant", "content": "1. Communication\n2. Leadership\n3. Negotiation\n4. Strategic Planning\n5. Public Speaking\n6. Problem-Solving\n7. Decision-Making\n8. Persuasion"}]}
+{"messages": [{"role": "user", "content": "Explain the concept of \"servant leadership\""}, {"role": "assistant", "content": "Leading by serving others."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence so it expresses a positive sentiment.\n\nI am not interested in that offer."}, {"role": "assistant", "content": "No, thank you."}]}
+{"messages": [{"role": "user", "content": "Create a short bio for a computer programmer."}, {"role": "assistant", "content": "Jane Doe. Software Engineer. Python, Java. Agile."}]}
+{"messages": [{"role": "user", "content": "Edit the following sentence to make it more concise: \"She was extremely skeptical and was not willing to try it out\""}, {"role": "assistant", "content": "She was skeptical."}]}
+{"messages": [{"role": "user", "content": "Name one impact urbanization has on biodiversity."}, {"role": "assistant", "content": "Habitat loss."}]}
+{"messages": [{"role": "user", "content": "Make up an excuse for why you can\u2019t attend a meeting"}, {"role": "assistant", "content": "Prior commitments."}]}
+{"messages": [{"role": "user", "content": "Analyze the following text and identify what type of text it is.\n\nThe fires on the hillside spread quickly and destroyed much of the town."}, {"role": "assistant", "content": "Narrative."}]}
+{"messages": [{"role": "user", "content": "Summarize the information provided below.\n\nSales at River Technologies declined 6.2% in the first quarter of 2018 compared to the last quarter of 2017. Employee-related costs rose 7.8%, while operational costs increased to 10%."}, {"role": "assistant", "content": "River Technologies saw sales decline while costs rose."}]}
+{"messages": [{"role": "user", "content": "Look up the definition of the word 'acolyte'."}, {"role": "assistant", "content": "A devoted follower."}]}
+{"messages": [{"role": "user", "content": "Rank the following colors from most bright to most dull\n\n{blue, green, yellow, orange}"}, {"role": "assistant", "content": "Yellow, orange, blue, green."}]}
+{"messages": [{"role": "user", "content": "What is the biggest ocean on Earth?"}, {"role": "assistant", "content": "Pacific"}]}
+{"messages": [{"role": "user", "content": "Classify this song as either upbeat or slow."}, {"role": "assistant", "content": "Upbeat"}]}
+{"messages": [{"role": "user", "content": "Create a text response that demonstrates sympathy."}, {"role": "assistant", "content": "That\u2019s heartbreaking."}]}
+{"messages": [{"role": "user", "content": "Analyze the following pair of sentences for any forms of irony.\n\nHe was so excited for the party, but he ended up being the only one there."}, {"role": "assistant", "content": "Situational irony."}]}
+{"messages": [{"role": "user", "content": "Describe an extracurricular activity that you have enjoyed"}, {"role": "assistant", "content": "Debate."}]}
+{"messages": [{"role": "user", "content": "How did World War I impact the course of history?"}, {"role": "assistant", "content": "Reshaped borders, empowered communism, fostered instability."}]}
+{"messages": [{"role": "user", "content": "On a scale from 1 to 5, rate the sentiment of the sentence.\n\nI had a great time at the beach today."}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "Explain the concept of corporate social responsibility"}, {"role": "assistant", "content": "Voluntary actions benefiting society."}]}
+{"messages": [{"role": "user", "content": "You are given a sentence with an unclear pronoun. Rewrite the sentence to make it clear.\n\nJohn sent a letter to him."}, {"role": "assistant", "content": "John sent a letter to Bob."}]}
+{"messages": [{"role": "user", "content": "Explain what is the purpose of a hypothesis in an experiment?"}, {"role": "assistant", "content": "To propose a testable explanation."}]}
+{"messages": [{"role": "user", "content": "How would you explain artificial intelligence to a sixth grader?"}, {"role": "assistant", "content": "Machines learning to think."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following in a creative and interesting way.\n\nShe ran to the store."}, {"role": "assistant", "content": "She hurried."}]}
+{"messages": [{"role": "user", "content": "What is the theme of the song \u2018The Ride\u2019 by David Allan Coe?"}, {"role": "assistant", "content": "A life well-lived."}]}
+{"messages": [{"role": "user", "content": "Name a major byproduct of the combustion of fossil fuels."}, {"role": "assistant", "content": "Carbon dioxide."}]}
+{"messages": [{"role": "user", "content": "Generate a rhyme scheme for a poem."}, {"role": "assistant", "content": "AABB"}]}
+{"messages": [{"role": "user", "content": "Identify the statement which does not describe Machine Learning\n\nA) Machine Learning is a subset of Artificial Intelligence\nB) Machine Learning algorithms use statistical techniques to find patterns in data\nC) Machine Learning algorithms can learn to predict accurate outcomes without any human intervention\nD) Machine Learning algorithms can automatically convert text to images"}, {"role": "assistant", "content": "D"}]}
+{"messages": [{"role": "user", "content": "Describe three qualities of good customer service."}, {"role": "assistant", "content": "Friendliness. Efficiency. Helpfulness."}]}
+{"messages": [{"role": "user", "content": "Name two first aid treatments for a cut."}, {"role": "assistant", "content": "Clean. Bandage. \n"}]}
+{"messages": [{"role": "user", "content": "What is the definition of a vector in computer science?"}, {"role": "assistant", "content": "A data structure holding ordered elements."}]}
+{"messages": [{"role": "user", "content": "Give an example of a dated consumer product that could be improved with artificial intelligence?"}, {"role": "assistant", "content": "Rotary phone."}]}
+{"messages": [{"role": "user", "content": "Given two sentences, rewrite them using the same ideas but different words.\n\nShe had a difficult time getting over the break-up. The process of healing was slow and painful."}, {"role": "assistant", "content": "Recovering from the loss proved arduous and protracted. The mending was gradual and challenging."}]}
+{"messages": [{"role": "user", "content": "Retrieve the relevant information from an email\n\nHello,\n\nThis is an email from XYZ Electronics. We are writing to let you know that your order for a new laptop has been shipped. The tracking number for the package is 123-456-789. Please check your email for more detailed updates.\n\nThanks for your order and have a great day!"}, {"role": "assistant", "content": "123-456-789"}]}
+{"messages": [{"role": "user", "content": "Discuss the meaning of the quote \"The greatest minds discuss ideas, the average discuss events, the small minded talk about people\"."}, {"role": "assistant", "content": "Elevating discourse."}]}
+{"messages": [{"role": "user", "content": "Multiply 3 times 5."}, {"role": "assistant", "content": "15"}]}
+{"messages": [{"role": "user", "content": "Explain why carbon dioxide is known as a greenhouse gas."}, {"role": "assistant", "content": "It traps heat."}]}
+{"messages": [{"role": "user", "content": "Generate a sentence with a metaphor to describe a friendly competition."}, {"role": "assistant", "content": "A friendly competition is a spirited chess match of ideas."}]}
+{"messages": [{"role": "user", "content": "Assign a score out of 5 to the following book review.\n\nI really enjoyed this book. It was an engaging read and had an interesting plot."}, {"role": "assistant", "content": "5"}]}
+{"messages": [{"role": "user", "content": "What is the term for a technique used for natural language processing purposes involving the use of large amounts of data?"}, {"role": "assistant", "content": "Big data."}]}
+{"messages": [{"role": "user", "content": "How does a laptop computer differ from a desktop computer?"}, {"role": "assistant", "content": "Portability."}]}
+{"messages": [{"role": "user", "content": "Name two reasons why a person might seek therapy."}, {"role": "assistant", "content": "Depression. Trauma."}]}
+{"messages": [{"role": "user", "content": "Think of a word that is related to the keyword \"potato\"."}, {"role": "assistant", "content": "Idaho"}]}
+{"messages": [{"role": "user", "content": "Suggest an exercise to improve agility."}, {"role": "assistant", "content": "Cone drills."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence to emphasize the importance of saving money\n\nI should save money."}, {"role": "assistant", "content": "I must save."}]}
+{"messages": [{"role": "user", "content": "Compare an online club meeting to an in-person club meeting."}, {"role": "assistant", "content": "Less vibrant. Less personal."}]}
+{"messages": [{"role": "user", "content": "Suggest a more interesting word to use in the following sentence.\n\nShe took a look at the boring report."}, {"role": "assistant", "content": "Scrutinized."}]}
+{"messages": [{"role": "user", "content": "Determine the age of the following person:\n\nJohn Smith was born on November 17, 1996."}, {"role": "assistant", "content": "27"}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence using different words and grammar structure.\n\nTo make sure the project was successful, they paid extra attention."}, {"role": "assistant", "content": "They ensured success through diligent focus."}]}
+{"messages": [{"role": "user", "content": "What is the fastest land animal on earth?"}, {"role": "assistant", "content": "Cheetah."}]}
+{"messages": [{"role": "user", "content": "Take this sentence: \"I am still confused on how to do this task\", and make it more concise.\n\nI am still confused on how to do this task"}, {"role": "assistant", "content": "I'm confused."}]}
+{"messages": [{"role": "user", "content": "Give an example of when AI can be used to improve healthcare."}, {"role": "assistant", "content": "Early disease detection."}]}
+{"messages": [{"role": "user", "content": "How many words are in this sentence?\n\nThe quick brown fox jumps over the lazy dog."}, {"role": "assistant", "content": "Nine."}]}
+{"messages": [{"role": "user", "content": "How many championships has LeBron James won?"}, {"role": "assistant", "content": "Four."}]}
+{"messages": [{"role": "user", "content": "Reformulate this sentence to make it less formal.\n\nI would be extremely grateful if you were to provide me with a response by Friday."}, {"role": "assistant", "content": "Please answer by Friday."}]}
+{"messages": [{"role": "user", "content": "Describe a use case for artificial intelligence in healthcare."}, {"role": "assistant", "content": "Early disease detection."}]}
+{"messages": [{"role": "user", "content": "Find a movie that meets the given criteria\n\nGenre: Comedy,\nRating: PG"}, {"role": "assistant", "content": "*Airplane!*"}]}
+{"messages": [{"role": "user", "content": "Generate a list of adjectives describing a fortune teller."}, {"role": "assistant", "content": "Wise. Perceptive. Intuitive. Knowing. Serene. Observant. Calm. Accurate. Grounded. Hopeful."}]}
+{"messages": [{"role": "user", "content": "Find the shortest route from San Francisco to New York."}, {"role": "assistant", "content": "I-80 East."}]}
+{"messages": [{"role": "user", "content": "Generate a list of 5 sports involving a ball."}, {"role": "assistant", "content": "Baseball\nBasketball\nFootball\nGolf\nTennis"}]}
+{"messages": [{"role": "user", "content": "Categorize the given text according to its main emotion.\n\nI'm so excited for my vacation this summer!"}, {"role": "assistant", "content": "Joy."}]}
+{"messages": [{"role": "user", "content": "Explain the meaning of the term \"confirmation bias\""}, {"role": "assistant", "content": "Seeking information confirming existing beliefs."}]}
+{"messages": [{"role": "user", "content": "Name two of the Great Lakes."}, {"role": "assistant", "content": "Michigan. Huron."}]}
+{"messages": [{"role": "user", "content": "Describe the advantages of using AI in the medical world"}, {"role": "assistant", "content": "Faster diagnoses, personalized treatments, efficient research, reduced costs."}]}
+{"messages": [{"role": "user", "content": "Describe a current application of natural language processing"}, {"role": "assistant", "content": "Chatbots."}]}
+{"messages": [{"role": "user", "content": "What is the power output of a nuclear power plant?"}, {"role": "assistant", "content": "1 gigawatt."}]}
+{"messages": [{"role": "user", "content": "Name two advantages of online shopping."}, {"role": "assistant", "content": "Convenience. Selection."}]}
+{"messages": [{"role": "user", "content": "Give an example of how to use technology to conserve energy."}, {"role": "assistant", "content": "Smart thermostats."}]}
+{"messages": [{"role": "user", "content": "How does the rotator cuff help in keeping the shoulder joint stable?"}, {"role": "assistant", "content": "Four muscles stabilize the shoulder."}]}
+{"messages": [{"role": "user", "content": "Write a sentence using an antonym of the word \"logical\"."}, {"role": "assistant", "content": "Illogical."}]}
+{"messages": [{"role": "user", "content": "Name the tool used for debugging?"}, {"role": "assistant", "content": "Debugger"}]}
+{"messages": [{"role": "user", "content": "Given a geography question, provide a comprehensive answer.\n\nWhat is the largest country in the world?"}, {"role": "assistant", "content": "Russia."}]}
+{"messages": [{"role": "user", "content": "Given natural language sentences, identify the relations between entities.\n\nSharad and Sayansh are brothers."}, {"role": "assistant", "content": "Brother-brother"}]}
+{"messages": [{"role": "user", "content": "Describe a meal that would be beneficial for muscle building."}, {"role": "assistant", "content": "Steak, eggs, salmon, spinach, almonds."}]}
+{"messages": [{"role": "user", "content": "Comment on the quality of the following photo.\n\nImage URL: https://images.unsplash.com/photo-1583427053007-7d1d032e2c09?ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"}, {"role": "assistant", "content": "Well-composed."}]}
+{"messages": [{"role": "user", "content": "Edit this sentence to use a gerund\n\nI felt excited to visit the museum"}, {"role": "assistant", "content": "Visiting the museum felt exciting."}]}
+{"messages": [{"role": "user", "content": "Write an answer to this philosophical question.\n\nQuestion: Does truth exist outside of our perception?"}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "What should be the title of the given story?\n\nThe sun was setting when I reached the shore. I could feel the warmth of the sand and the coolness of the waves crashing against the shore."}, {"role": "assistant", "content": "A Shining Coastline"}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence in simple English.\n\nThe collection of computer programs that are used to operate a computer system."}, {"role": "assistant", "content": "Software."}]}
+{"messages": [{"role": "user", "content": "Convert the given recipe from cups to grams.\n\n1 cup of flour"}, {"role": "assistant", "content": "120g"}]}
+{"messages": [{"role": "user", "content": "How would you greet someone in a formal way?"}, {"role": "assistant", "content": "It is a distinct honor to make your acquaintance."}]}
+{"messages": [{"role": "user", "content": "Name two famous authors from the 18th century."}, {"role": "assistant", "content": "Alexander Pope. Samuel Johnson."}]}
+{"messages": [{"role": "user", "content": "Name two deserts located in Africa."}, {"role": "assistant", "content": "Sahara. Kalahari."}]}
+{"messages": [{"role": "user", "content": "Describe a type of bacteria found in the environment."}, {"role": "assistant", "content": "*Bacillus subtilis*."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence to eliminate any ambiguity.\n\nHe returned the book he borrowed last week."}, {"role": "assistant", "content": "He returned the borrowed book."}]}
+{"messages": [{"role": "user", "content": "Name the largest ocean on Earth."}, {"role": "assistant", "content": "Pacific"}]}
+{"messages": [{"role": "user", "content": "Describe a character in the book \"Dracula\"."}, {"role": "assistant", "content": "Jonathan Harker."}]}
+{"messages": [{"role": "user", "content": "Suggest a dish for breakfast that is easy to make."}, {"role": "assistant", "content": "Scrambled eggs and bacon."}]}
+{"messages": [{"role": "user", "content": "What is the primary function of a router in a computer network?"}, {"role": "assistant", "content": "Direct traffic."}]}
+{"messages": [{"role": "user", "content": "Write a short theme which describes the nature of love."}, {"role": "assistant", "content": "Unwavering faith, boundless hope."}]}
+{"messages": [{"role": "user", "content": "Give an example of how \"innovation\" has contributed to the development of technology\n\nnoinput"}, {"role": "assistant", "content": "The transistor."}]}
+{"messages": [{"role": "user", "content": "Add 2 plus 3."}, {"role": "assistant", "content": "5"}]}
+{"messages": [{"role": "user", "content": "Calculate 5 plus 2"}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "Provide the definition of a \"festival\"."}, {"role": "assistant", "content": "A celebratory gathering."}]}
+{"messages": [{"role": "user", "content": "Explain why it's important to back up data."}, {"role": "assistant", "content": "Prevent data loss."}]}
+{"messages": [{"role": "user", "content": "Explain the term \u201cFrontend Development.\u201d"}, {"role": "assistant", "content": "Creating website user interfaces."}]}
+{"messages": [{"role": "user", "content": "Name a movie that is similar to the popular film \"The Hunger Games\"."}, {"role": "assistant", "content": "*Battle Royale*"}]}
+{"messages": [{"role": "user", "content": "Given this sentence, suggest a better word\n\nHe arrived in the nick of time"}, {"role": "assistant", "content": "Just in time."}]}
+{"messages": [{"role": "user", "content": "Describe the similarities between a laptop and a tablet."}, {"role": "assistant", "content": "Both are portable computers."}]}
+{"messages": [{"role": "user", "content": "Describe the smell of fresh-baked cookies."}, {"role": "assistant", "content": "Warm vanilla and cinnamon."}]}
+{"messages": [{"role": "user", "content": "Explain why global warming is an important issue."}, {"role": "assistant", "content": "Rising temperatures threaten our planet's stability."}]}
+{"messages": [{"role": "user", "content": "Suggest two activities suitable for a 5-year-old kid to do over the weekend."}, {"role": "assistant", "content": "Build a fort. Color pictures."}]}
+{"messages": [{"role": "user", "content": "What would you do if you saw someone being bullied?"}, {"role": "assistant", "content": "Stand up."}]}
+{"messages": [{"role": "user", "content": "Select a type of dinosaur."}, {"role": "assistant", "content": "Triceratops."}]}
+{"messages": [{"role": "user", "content": "How many paragraphs should a blog post typically have?"}, {"role": "assistant", "content": "3-5"}]}
+{"messages": [{"role": "user", "content": "Paraphrase the following statement: \"Grocery stores are essential for providing healthy food to people\"."}, {"role": "assistant", "content": "Food access is vital."}]}
+{"messages": [{"role": "user", "content": "Write two differences between a dog and a cat."}, {"role": "assistant", "content": "Loyalty. Independence."}]}
+{"messages": [{"role": "user", "content": "Infer what the author meant in the following sentence.\n\nHe said he was feeling blue."}, {"role": "assistant", "content": "Sad."}]}
+{"messages": [{"role": "user", "content": "Reformulate the given statement.\n\n\"It's difficult to master the art of meditation.\""}, {"role": "assistant", "content": "Achieving inner peace requires discipline."}]}
+{"messages": [{"role": "user", "content": "Create an appropriate output based on the following input.\n\nMother's Day is coming soon."}, {"role": "assistant", "content": "Honor tradition. Celebrate family."}]}
+{"messages": [{"role": "user", "content": "Generate an answer for the question below.\n\nWhat is an exoskeleton?"}, {"role": "assistant", "content": "A powered suit enhancing strength."}]}
+{"messages": [{"role": "user", "content": "Provide a plausible example of how AI can be used in agriculture."}, {"role": "assistant", "content": "Drone-based crop monitoring."}]}
+{"messages": [{"role": "user", "content": "Identify the biggest challenge in using AI for medical diagnosis."}, {"role": "assistant", "content": "Data bias."}]}
+{"messages": [{"role": "user", "content": "Give a product suggestion based on the following criteria.\n\nThe customer is looking for a high-quality laptop with a 15-inch screen, and a budget of $1,000."}, {"role": "assistant", "content": "Lenovo IdeaPad Slim 5."}]}
+{"messages": [{"role": "user", "content": "Identify the sentence structure of the following sentence and provide an explanation.\n\nMy friends and I went to the park today."}, {"role": "assistant", "content": "Simple."}]}
+{"messages": [{"role": "user", "content": "Name 2 advantages of using a smartphone"}, {"role": "assistant", "content": "Communication. Information."}]}
+{"messages": [{"role": "user", "content": "Explain the concept of coding to a 3rd grader."}, {"role": "assistant", "content": "Giving computers instructions."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence to make it more concise:\n\nHe was not able to understand the intricate details of the problem, so he decided to call for assistance."}, {"role": "assistant", "content": "He sought help."}]}
+{"messages": [{"role": "user", "content": "Describe a triangle as a geometric shape."}, {"role": "assistant", "content": "Three sides. Three angles."}]}
+{"messages": [{"role": "user", "content": "Summarize the passage in six words.\n\nRecent studies have shown that the internet, while often being a beneficial resource, can also bring about negative effects such as an increase in cyberbullying, lack of social and emotional understanding, and increased exposure to information that may contain false information."}, {"role": "assistant", "content": "Internet: Progress threatened by modern perils."}]}
+{"messages": [{"role": "user", "content": "Find the similarities between a banana and an orange."}, {"role": "assistant", "content": "Fruit."}]}
+{"messages": [{"role": "user", "content": "Fill in the <mask> with a word related to babies"}, {"role": "assistant", "content": "infants"}]}
+{"messages": [{"role": "user", "content": "Compose a message to confirm a meeting\n\nSubject: Meeting with the Supplier \nDate and Time: Saturday, June 5 at 10 A.M.\nLocation: Zoom Meeting"}, {"role": "assistant", "content": "Confirmed."}]}
+{"messages": [{"role": "user", "content": "Estimate the grade level of the following text.\n\nPangolins are a species of mammals native to Asia and Africa. They are sometimes referred to as scaly anteaters due to their habitat and diet of ants and termites."}, {"role": "assistant", "content": "4th grade."}]}
+{"messages": [{"role": "user", "content": "Insert an appropriate conjunction into the sentence\n\nI walked to the store bought some food"}, {"role": "assistant", "content": "and"}]}
+{"messages": [{"role": "user", "content": "Explain the meaning of the phrase \u201cthe elephant in the room\u201d.\n\nNo input"}, {"role": "assistant", "content": "An obvious problem ignored."}]}
+{"messages": [{"role": "user", "content": "Identify an interesting fact about Saturn."}, {"role": "assistant", "content": "Its rings are mostly ice."}]}
+{"messages": [{"role": "user", "content": "How does climate change affect people living in coastal regions?"}, {"role": "assistant", "content": "Increased flooding, erosion, and storm damage."}]}
+{"messages": [{"role": "user", "content": "Give a good example of a book title that conveys a message of resilience."}, {"role": "assistant", "content": "*Unbroken*"}]}
+{"messages": [{"role": "user", "content": "Edit this sentence to decrease its word count.\n\nThe solution to the problem is not easily reachable due to its complexity."}, {"role": "assistant", "content": "It's complex."}]}
+{"messages": [{"role": "user", "content": "Explain why water is essential for human beings."}, {"role": "assistant", "content": "Survival."}]}
+{"messages": [{"role": "user", "content": "Describe a pro-social behavior"}, {"role": "assistant", "content": "Volunteering."}]}
+{"messages": [{"role": "user", "content": "Tell me a common idiom."}, {"role": "assistant", "content": "Don't count your chickens."}]}
+{"messages": [{"role": "user", "content": "Given a piece of text, classify it into topic categories.\n\nText: Manchester United edged past Chelsea at Old Trafford on Sunday to take their total number of Premier League points to eight."}, {"role": "assistant", "content": "Sports."}]}
+{"messages": [{"role": "user", "content": "Reframe the following sentence into a more formal tone.\n\nThis is so cool!"}, {"role": "assistant", "content": "This is highly commendable."}]}
+{"messages": [{"role": "user", "content": "Filter out all words that start with letter 'y'\n\nThe yellow yams made for a year of yummy yields."}, {"role": "assistant", "content": "Excellent. A strong harvest."}]}
+{"messages": [{"role": "user", "content": "Name three men's apparel items every man should own."}, {"role": "assistant", "content": "Navy blazer.\nSolid white shirt.\nLeather belt."}]}
+{"messages": [{"role": "user", "content": "Describe a hypothetical creature of your choice."}, {"role": "assistant", "content": "A shimmering, six-winged gryphon."}]}
+{"messages": [{"role": "user", "content": "Find the pun in this sentence: \"A boiled egg in the morning is hard to beat.\""}, {"role": "assistant", "content": "Hard."}]}
+{"messages": [{"role": "user", "content": "Insert the correct conjuction to combine the two sentences.\n\nI was exhausted. I went home."}, {"role": "assistant", "content": "Because"}]}
+{"messages": [{"role": "user", "content": "Suggest 3 strategies to improve customer loyalty."}, {"role": "assistant", "content": "1. Personalized service.\n2. Value-driven rewards.\n3. Consistent quality."}]}
+{"messages": [{"role": "user", "content": "Construct a sentence to explain what plagiarism is."}, {"role": "assistant", "content": "Presenting someone else's work as your own is plagiarism."}]}
+{"messages": [{"role": "user", "content": "Analyze the given text and classify according to its structure\n\nThe apple is red and juicy."}, {"role": "assistant", "content": "Simple."}]}
+{"messages": [{"role": "user", "content": "Describe the impact of climate change on the world's oceans."}, {"role": "assistant", "content": "Rising temperatures, acidification, sea level rise."}]}
+{"messages": [{"role": "user", "content": "Think of an innovative product that seems impossible right now."}, {"role": "assistant", "content": "Personalized, affordable, fusion power."}]}
+{"messages": [{"role": "user", "content": "Write a sentence that fully encompasses the feeling of accomplishment."}, {"role": "assistant", "content": "Mission accomplished."}]}
+{"messages": [{"role": "user", "content": "Describe the impact of the smartphone on our everyday lives"}, {"role": "assistant", "content": "Ubiquitous communication and information access."}]}
+{"messages": [{"role": "user", "content": "What is the most common type of conflict in literature?"}, {"role": "assistant", "content": "Man vs. self."}]}
+{"messages": [{"role": "user", "content": "Suggest a simple breakfast recipe that can be made in under 20 minutes."}, {"role": "assistant", "content": "Scrambled eggs with bacon."}]}
+{"messages": [{"role": "user", "content": "Describe the definition of courage."}, {"role": "assistant", "content": "Standing for what's right."}]}
+{"messages": [{"role": "user", "content": "Choose the title for the following story.\n\nFred and Mike were old friends, they had grown up together on the same street. Mike had recently gone off to college, but upon his return he found that not everything was the same as he had left it."}, {"role": "assistant", "content": "A Return to Reality"}]}
+{"messages": [{"role": "user", "content": "Insert the appropriate punctuation.\n\nJohn is going to buy tickets for the movie"}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "List three qualities of a good teacher."}, {"role": "assistant", "content": "Patience. Clarity. Inspiration."}]}
+{"messages": [{"role": "user", "content": "Answer the following questions using factual evidence\n\nQuestion: What is the average lifespan of a bee?"}, {"role": "assistant", "content": "16 months."}]}
+{"messages": [{"role": "user", "content": "What does global warming mean?"}, {"role": "assistant", "content": "A climate shift."}]}
+{"messages": [{"role": "user", "content": "Classify the emotional tone of the following excerpt.\n\nThe mother hugged her child with so much love, she knew this was the last time she'd ever hold him in her arms."}, {"role": "assistant", "content": "Profound sadness."}]}
+{"messages": [{"role": "user", "content": "Infer what the person is feeling\n\nThe man closed his eyes and closed the door"}, {"role": "assistant", "content": "Weary."}]}
+{"messages": [{"role": "user", "content": "Explain the term 'evidence-based decision-making'."}, {"role": "assistant", "content": "Data-driven choices."}]}
+{"messages": [{"role": "user", "content": "Describe the use of a crane"}, {"role": "assistant", "content": "Lifting heavy objects."}]}
+{"messages": [{"role": "user", "content": "Select the correct spelling from the options given\n\nReceiveable or Receivable"}, {"role": "assistant", "content": "Receivable"}]}
+{"messages": [{"role": "user", "content": "Write the meaning of the phrase 'cost of living'."}, {"role": "assistant", "content": "Expenses for necessities."}]}
+{"messages": [{"role": "user", "content": "Identify what type of reaction the following equation shows.\n\n2H2 + O2 \u2192 2H2O"}, {"role": "assistant", "content": "Combination."}]}
+{"messages": [{"role": "user", "content": "Come up with a clever way of baking a cake without using a traditional oven."}, {"role": "assistant", "content": "Solar reflector bake."}]}
+{"messages": [{"role": "user", "content": "Explain how Coronavirus affects people's respiratory system."}, {"role": "assistant", "content": "Inflammation and fluid buildup in the lungs."}]}
+{"messages": [{"role": "user", "content": "Name a popular strategy used for employee engagement."}, {"role": "assistant", "content": "Recognition programs."}]}
+{"messages": [{"role": "user", "content": "Rate the following product on a scale of 1-5, with 5 being the best.\n\nGalaxy Alpha"}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "In what ways do you think technology is changing the way we learn?"}, {"role": "assistant", "content": "Accessibility, personalization, and speed."}]}
+{"messages": [{"role": "user", "content": "Assign the appropriate mood to this excerpt.\n\nThe sky was a deep pink as the sun set on the horizon."}, {"role": "assistant", "content": "Peaceful."}]}
+{"messages": [{"role": "user", "content": "Identify the inciting incident in the novel \"The Catcher in the Rye\"."}, {"role": "assistant", "content": "Expulsion from Pencey Prep."}]}
+{"messages": [{"role": "user", "content": "How many hours of sleep does the average person need per night?"}, {"role": "assistant", "content": "7-9 hours."}]}
+{"messages": [{"role": "user", "content": "Identify an example of alliteration in this sentence: \"The capping camouflage caterpillar crawled forward carefully.\""}, {"role": "assistant", "content": "Capping camouflage"}]}
+{"messages": [{"role": "user", "content": "What is the synonym for the word 'accomplishment'?"}, {"role": "assistant", "content": "Achievement."}]}
+{"messages": [{"role": "user", "content": "Describe the problem that this algorithm solves.\n\nRandom Forest"}, {"role": "assistant", "content": "Classification and regression."}]}
+{"messages": [{"role": "user", "content": "What is the first letter of the alphabet?"}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "What is a good way to introduce two people?\n\nJohn and Mary."}, {"role": "assistant", "content": "\"John, Mary. Mary, John.\""}]}
+{"messages": [{"role": "user", "content": "Identify a suitable mobile phone plan for a person in the given location\n\nLos Angeles, CA"}, {"role": "assistant", "content": "Visible Wireless."}]}
+{"messages": [{"role": "user", "content": "Given a news article, extract out the important facts.\n\nToday the Prime Minister Justin Trudeau announced the extension of Canada\u2019s current pandemic response measures until the end of August."}, {"role": "assistant", "content": "Pandemic measures extended to August."}]}
+{"messages": [{"role": "user", "content": "Identify three advantages of using cloud computing."}, {"role": "assistant", "content": "Cost savings. Scalability. Accessibility."}]}
+{"messages": [{"role": "user", "content": "Describe the basic concept of relativity."}, {"role": "assistant", "content": "Space and time are relative."}]}
+{"messages": [{"role": "user", "content": "Name three ways to be more environmentally friendly in everyday life."}, {"role": "assistant", "content": "1. Recycle\n2. Conserve water\n3. Reduce waste"}]}
+{"messages": [{"role": "user", "content": "What is the concept of 'Karma'"}, {"role": "assistant", "content": "Cause and effect."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence using a different set of words:\n\nHe arrived late for the meeting"}, {"role": "assistant", "content": "He was tardy."}]}
+{"messages": [{"role": "user", "content": "Generate a plausible scenario when a person can save someone's life."}, {"role": "assistant", "content": "A swift Heimlich maneuver."}]}
+{"messages": [{"role": "user", "content": "Describe the environmental impact of a plastic straw."}, {"role": "assistant", "content": "Pollution, harm to wildlife."}]}
+{"messages": [{"role": "user", "content": "Choose the most appropriate vocabulary word to complete the given sentence.\n\nHe was delighted by the ____ of the flowers."}, {"role": "assistant", "content": "Profusion"}]}
+{"messages": [{"role": "user", "content": "What would be a good way to start a thank you letter?"}, {"role": "assistant", "content": "Dear [Name],"}]}
+{"messages": [{"role": "user", "content": "Conceptually explain the following meaning of the phrase: \"with great power comes great responsibility\"."}, {"role": "assistant", "content": "Influence demands accountability."}]}
+{"messages": [{"role": "user", "content": "Give two reasons why we should abort a project."}, {"role": "assistant", "content": "Cost exceeds benefit. \n\nProject is unsustainable."}]}
+{"messages": [{"role": "user", "content": "Edit the sentence to make it a declarative sentence: \"it is known\"."}, {"role": "assistant", "content": "It's established."}]}
+{"messages": [{"role": "user", "content": "Create a command to switch from \"Microsoft Office Word\" to \"Google Docs\"."}, {"role": "assistant", "content": "Alt+Tab"}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence \"He is looking forward to meeting her\" in a different way."}, {"role": "assistant", "content": "He anticipates their meeting."}]}
+{"messages": [{"role": "user", "content": "Propose a potential environmental issue in your personal city as a result of human activities"}, {"role": "assistant", "content": "Increased urban heat island effect."}]}
+{"messages": [{"role": "user", "content": "What is an example of overt racial discrimination?"}, {"role": "assistant", "content": "Jim Crow laws."}]}
+{"messages": [{"role": "user", "content": "Formulate the opposite of 'gathering'."}, {"role": "assistant", "content": "Dispersion."}]}
+{"messages": [{"role": "user", "content": "What is an example of structured data?"}, {"role": "assistant", "content": "JSON."}]}
+{"messages": [{"role": "user", "content": "Suggest a vegetarian dish for a dinner party."}, {"role": "assistant", "content": "Butternut squash risotto."}]}
+{"messages": [{"role": "user", "content": "Suggest a movie that is suitable for a 6-year old."}, {"role": "assistant", "content": "*Paddington*"}]}
+{"messages": [{"role": "user", "content": "Determine the average per capita consumption of beef in Germany."}, {"role": "assistant", "content": "67.3 lbs"}]}
+{"messages": [{"role": "user", "content": "Amazon is a Fortune 500 company. Classify it as a manufacturing company, service company, or technology company."}, {"role": "assistant", "content": "Technology company."}]}
+{"messages": [{"role": "user", "content": "Paraphrase the sentence without changing the meaning of the statement.\n\nThis new data is helping to provide a better understanding of the intricate nuances of the problem."}, {"role": "assistant", "content": "This data clarifies the problem."}]}
+{"messages": [{"role": "user", "content": "Estimate how many quintillion cells are in the human body"}, {"role": "assistant", "content": "37.2 quintillion."}]}
+{"messages": [{"role": "user", "content": "What is capital punishment?"}, {"role": "assistant", "content": "State-sanctioned execution."}]}
+{"messages": [{"role": "user", "content": "Identify two different ways of using a Drone"}, {"role": "assistant", "content": "Agriculture monitoring.\nBorder patrol."}]}
+{"messages": [{"role": "user", "content": "Answer a short-answer question\n\nQuestion: What is the definition of machine learning?"}, {"role": "assistant", "content": "Algorithms learning from data."}]}
+{"messages": [{"role": "user", "content": "Explain one of the ethical considerations for machine learning models."}, {"role": "assistant", "content": "Bias."}]}
+{"messages": [{"role": "user", "content": "List three ways in which technology has transformed the field of education."}, {"role": "assistant", "content": "1. Online learning\n2. Digital textbooks\n3. Interactive software"}]}
+{"messages": [{"role": "user", "content": "What type of economic system exists in Canada?"}, {"role": "assistant", "content": "Mixed economy."}]}
+{"messages": [{"role": "user", "content": "Given the following passage, identify the main idea.\n\nHumans have always been fascinated by the stars. Since ancient times, people have studied the movements of the stars and planets, trying to uncover the secrets of our universe. Today, the study of astronomy has come a long way. With the help of powerful telescopes, satellites and computers, scientists have discovered new galaxies, stars, and planets."}, {"role": "assistant", "content": "Astronomy's advancement."}]}
+{"messages": [{"role": "user", "content": "Identify the type of the news article.\n\nGoogle has acquired an AI startup that specializes in natural language processing."}, {"role": "assistant", "content": "Business news."}]}
+{"messages": [{"role": "user", "content": "Provide a phrase that expresses the idea that all paths lead to the same destination"}, {"role": "assistant", "content": "Convergence."}]}
+{"messages": [{"role": "user", "content": "Analyze this tweet: \"I'm done with my studies now, there's nothing else I can do.\"\n\nTweet: \"I'm done with my studies now, there's nothing else I can do.\""}, {"role": "assistant", "content": "A lack of ambition."}]}
+{"messages": [{"role": "user", "content": "What invention in the 20th century made the most significant impact on the world?"}, {"role": "assistant", "content": "The transistor."}]}
+{"messages": [{"role": "user", "content": "Name three uses of digital technologies in education."}, {"role": "assistant", "content": "1. Online learning platforms\n2. Interactive simulations\n3. Digital research tools"}]}
+{"messages": [{"role": "user", "content": "Read the following descriptions and identify the type of cuisine being described.\n\nA dish of ground lamb, onions and spices, wrapped in pastry, and baked or deep-fried."}, {"role": "assistant", "content": "Middle Eastern."}]}
+{"messages": [{"role": "user", "content": "Summarize this article for me\n\nThis week, scientists from around the world released their eighth assessment on the impact of climate change. The report documented evidence from fields such as ocean levels, global temperatures, and species loss. The findings concluded that climate change is caused by human activities and will cause extreme, unprecedented damage unless society makes drastic changes."}, {"role": "assistant", "content": "A new report claims human activity causes climate change and requires drastic societal changes."}]}
+{"messages": [{"role": "user", "content": "Tell me two features of a reliable car."}, {"role": "assistant", "content": "Strong engine. Durable transmission."}]}
+{"messages": [{"role": "user", "content": "Categorize the following text into its respective emotions.\n\nI am feeling overwhelmed"}, {"role": "assistant", "content": "Sadness."}]}
+{"messages": [{"role": "user", "content": "Name two benefits of eating a balanced diet."}, {"role": "assistant", "content": "Energy. Health."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence to focus on palindromes.\n\nWords that are the same when read forwards and backwards are called mirror words."}, {"role": "assistant", "content": "Madam, I'm Adam."}]}
+{"messages": [{"role": "user", "content": "Paraphrase a given sentence.\n\nI ate some pizza for dinner."}, {"role": "assistant", "content": "Had pizza."}]}
+{"messages": [{"role": "user", "content": "Analyze this news article and give three main points\n\nQatar is facing international condemnation amid reports that foreign workers\u2019 wages have not been paid for months. The country has for years been accused of human rights abuses relating to its use of the kafala sponsorship system for migrant workers, which prevents them from changing jobs or leaving the country without their employer\u2019s permission."}, {"role": "assistant", "content": "1. Qatar faces condemnation for unpaid wages.\n2. Kafala system restricts migrant workers.\n3. Human rights abuses are alleged."}]}
+{"messages": [{"role": "user", "content": "Categorize the sentence in the following types: fact, opinion or unknown.\n\nThe Mona Lisa is considered the most famous painting in the world."}, {"role": "assistant", "content": "Opinion"}]}
+{"messages": [{"role": "user", "content": "Identify and explain two effects of global warming."}, {"role": "assistant", "content": "Rising sea levels. Increased extreme weather."}]}
+{"messages": [{"role": "user", "content": "Provide an explanation on why the sky is blue."}, {"role": "assistant", "content": "Rayleigh scattering."}]}
+{"messages": [{"role": "user", "content": "Explain the purpose of manual data entry?"}, {"role": "assistant", "content": "To input data directly."}]}
+{"messages": [{"role": "user", "content": "What is the percent of water on Earth?"}, {"role": "assistant", "content": "71%"}]}
+{"messages": [{"role": "user", "content": "Describe what a credit card is."}, {"role": "assistant", "content": "A revolving line of credit."}]}
+{"messages": [{"role": "user", "content": "What is the best trading strategy for a beginner investor?"}, {"role": "assistant", "content": "Index fund investing."}]}
+{"messages": [{"role": "user", "content": "Which river runs through the city of London?"}, {"role": "assistant", "content": "The Thames."}]}
+{"messages": [{"role": "user", "content": "Generate a plausible explanation for the given phenomena\n\nUnexplained lights on Mars"}, {"role": "assistant", "content": "Atmospheric refraction."}]}
+{"messages": [{"role": "user", "content": "Describe how the COVID-19 virus spreads."}, {"role": "assistant", "content": "Respiratory droplets and aerosols."}]}
+{"messages": [{"role": "user", "content": "Change the tone of the following sentence from formal to informal.\n\nI regret to inform you that I will not be able to attend the meeting."}, {"role": "assistant", "content": "Can't make it."}]}
+{"messages": [{"role": "user", "content": "Determine the idiomatic meaning of the phrase \"to take the bull by the horns\"."}, {"role": "assistant", "content": "Confront a challenge directly."}]}
+{"messages": [{"role": "user", "content": "Find the meaning of the phrase \"cut the mustard\"."}, {"role": "assistant", "content": "To succeed."}]}
+{"messages": [{"role": "user", "content": "Remove all duplicate words from the given sentence.\n\nShe said that he said \"hello\" to her."}, {"role": "assistant", "content": "She said hello."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence with better lexical choice and verb tense.\n\nHe had went to the store."}, {"role": "assistant", "content": "He went to the store."}]}
+{"messages": [{"role": "user", "content": "Generate a new recipe for a dessert containing 3 ingredients."}, {"role": "assistant", "content": "Peaches. Whipped cream. Graham crackers."}]}
+{"messages": [{"role": "user", "content": "Paraphrase the following sentence to mean the same thing.\n\nThe exam was not difficult."}, {"role": "assistant", "content": "The exam was manageable."}]}
+{"messages": [{"role": "user", "content": "Propose one strategy for reducing carbon dioxide emission in the automobile industry."}, {"role": "assistant", "content": "Invest in advanced nuclear power for electric vehicle charging."}]}
+{"messages": [{"role": "user", "content": "Create a list of five career paths for an AI engineer"}, {"role": "assistant", "content": "1. Autonomous Vehicle Development\n2. Cybersecurity Solutions\n3. Healthcare Diagnostics\n4. Financial Modeling\n5. Robotics Engineering"}]}
+{"messages": [{"role": "user", "content": "Give me an example of a food that is considered a superfood"}, {"role": "assistant", "content": "Blueberries."}]}
+{"messages": [{"role": "user", "content": "Write a headline for a story involving a data breach."}, {"role": "assistant", "content": "Data Exposed."}]}
+{"messages": [{"role": "user", "content": "What is the best alternative to deep learning?"}, {"role": "assistant", "content": "Symbolic AI."}]}
+{"messages": [{"role": "user", "content": "Reword the sentence \"No one visits Rome twice\" to make it more concise."}, {"role": "assistant", "content": "Rome lacks repeat visits."}]}
+{"messages": [{"role": "user", "content": "How many words are in the sentence: \"Today I went to the store.\""}, {"role": "assistant", "content": "Five."}]}
+{"messages": [{"role": "user", "content": "Edit the following sentence to make it more formal: \"I'm really busy today\""}, {"role": "assistant", "content": "My schedule is quite full today."}]}
+{"messages": [{"role": "user", "content": "Come up with a title for a fictional novel about a scientist."}, {"role": "assistant", "content": "*The Starburst Solution*"}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence using a different vocabulary to make it more interesting.\n\nI opened the door and walked inside."}, {"role": "assistant", "content": "I stepped through the threshold."}]}
+{"messages": [{"role": "user", "content": "Give a brief overview of Machine Learning."}, {"role": "assistant", "content": "Algorithms learn from data."}]}
+{"messages": [{"role": "user", "content": "How many types of galaxies exist?"}, {"role": "assistant", "content": "Three."}]}
+{"messages": [{"role": "user", "content": "Distinguish between two ideas.\n\nDifference between knowledge and wisdom"}, {"role": "assistant", "content": "Knowledge is data; wisdom is application."}]}
+{"messages": [{"role": "user", "content": "Edit the following sentence: Today I woke up late and went to school.\n\nToday I woke up late and went to school."}, {"role": "assistant", "content": "Today, despite a late start, I proceeded to my studies."}]}
+{"messages": [{"role": "user", "content": "List 3 types of communication technology."}, {"role": "assistant", "content": "Radio\nTelevision\nTelephone"}]}
+{"messages": [{"role": "user", "content": "Discuss three possible tools that can help teams with efficient communication."}, {"role": "assistant", "content": "Slack. Microsoft Teams. Email."}]}
+{"messages": [{"role": "user", "content": "Identify three positive impacts of technology."}, {"role": "assistant", "content": "Communication. Productivity. Innovation."}]}
+{"messages": [{"role": "user", "content": "Identify how many grams of sugar are in a can of Coke."}, {"role": "assistant", "content": "39"}]}
+{"messages": [{"role": "user", "content": "Write two sentences with the same meaning but with different wordings\n\nHe went to the store."}, {"role": "assistant", "content": "He patronized the mercantile."}]}
+{"messages": [{"role": "user", "content": "Remember the appointment your friend has on Friday.\n\nMy friend Jane has an appointment on Friday."}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "Given this excerpt, identify a theme.\n\nShe was always trying to do the right thing, even when it was difficult."}, {"role": "assistant", "content": "Integrity."}]}
+{"messages": [{"role": "user", "content": "Identify one major economic policy of the Democratic party in the United States."}, {"role": "assistant", "content": "The Green New Deal."}]}
+{"messages": [{"role": "user", "content": "Give an example of a situation in which a certain type of data science approach would be the most appropriate."}, {"role": "assistant", "content": "Predicting inflation using time series analysis."}]}
+{"messages": [{"role": "user", "content": "Do a fact check to confirm the accuracy of the statement and output true or false.\n\nThe tallest mountain in the world is Mount Everest"}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Find and output the main idea of the given paragraph\n\nWilliam Shakespeare is considered one of the greatest English playwrights of all time. His plays explore topics such as humanity, love, and other complex emotions that have stood the test of time and remain relevant today."}, {"role": "assistant", "content": "Shakespeare's plays explore timeless human themes."}]}
+{"messages": [{"role": "user", "content": "List 5 book genres."}, {"role": "assistant", "content": "Historical Fiction\nBiography\nThriller\nScience Fiction\nWestern"}]}
+{"messages": [{"role": "user", "content": "Hypothesize on the effects that global warming might have on the environment."}, {"role": "assistant", "content": "Rising sea levels, extreme weather, disrupted ecosystems."}]}
+{"messages": [{"role": "user", "content": "Clasify the sentiment of the following statement: \n\"The weather is freezing today!\""}, {"role": "assistant", "content": "Neutral."}]}
+{"messages": [{"role": "user", "content": "Normalize the date format in the sentence.\n\nThe meeting is next thursday."}, {"role": "assistant", "content": "Thursday, November 7."}]}
+{"messages": [{"role": "user", "content": "List four types of sports."}, {"role": "assistant", "content": "Football\nBasketball\nBaseball\nGolf"}]}
+{"messages": [{"role": "user", "content": "The following sentences contain spelling errors. Find and correct them.\n\nI wanted to viset the museumg but it was closed."}, {"role": "assistant", "content": "visit, museums."}]}
+{"messages": [{"role": "user", "content": "Insert an appropriate or suitable word for the given context.\n\nI went to the store to buy ____."}, {"role": "assistant", "content": "milk"}]}
+{"messages": [{"role": "user", "content": "Edit the sentence below to make it more direct and clear in tone.\n\nI was wondering if you could possibly help me with this."}, {"role": "assistant", "content": "Please help me."}]}
+{"messages": [{"role": "user", "content": "If Kate had \u00a320, how much more money would she need to make \u00a350?"}, {"role": "assistant", "content": "\u00a330"}]}
+{"messages": [{"role": "user", "content": "List three different ways to prevent the spread of coronavirus."}, {"role": "assistant", "content": "Masks. Hygiene. Vaccines."}]}
+{"messages": [{"role": "user", "content": "Find an example of a prestigious scholarship available in your country."}, {"role": "assistant", "content": "Rhodes Scholarship."}]}
+{"messages": [{"role": "user", "content": "Select the sentence that has the correct capitalization.\n\nA) i love reading books\nB) I Love Reading Books\nC) I love Reading Books"}, {"role": "assistant", "content": "C"}]}
+{"messages": [{"role": "user", "content": "Describe the concept of \"artificial intelligence\" to a person who is unfamiliar with the topic."}, {"role": "assistant", "content": "Machines mimicking human thought."}]}
+{"messages": [{"role": "user", "content": "Replace the following idiom with an equivalent expression.\n\nTo bite off more than one can chew"}, {"role": "assistant", "content": "To overextend oneself."}]}
+{"messages": [{"role": "user", "content": "Describe a character from the movie \"The Lion King.\""}, {"role": "assistant", "content": "Rafiki."}]}
+{"messages": [{"role": "user", "content": "What did the ancient Greeks think caused eclipses?"}, {"role": "assistant", "content": "Mythological creatures."}]}
+{"messages": [{"role": "user", "content": "Edit the given text to improve clarity.\n\nText: Although Sarah invests a lot of money, she isn't rich."}, {"role": "assistant", "content": "Sarah is not wealthy despite her investments."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence: She liked running so much.\n\nShe liked running so much."}, {"role": "assistant", "content": "She enjoyed running."}]}
+{"messages": [{"role": "user", "content": "Analyze this article for tone.\n\nThe Seattle Seahawks played an exciting game against the Houston Texans this past Sunday. They managed to put pressure on the Texans offense and kept them in check for most of the game, but the Texans offense managed to get some points on the board in the second half. Seahawks defense had some lapses, allowing the Texans to score 18 points in the second half."}, {"role": "assistant", "content": "Neutral."}]}
+{"messages": [{"role": "user", "content": "Create an animal analogy for the job of a lawyer."}, {"role": "assistant", "content": "A badger."}]}
+{"messages": [{"role": "user", "content": "What is the single most important element of a successful business pitch?"}, {"role": "assistant", "content": "Vision."}]}
+{"messages": [{"role": "user", "content": "Come up with one benefit of biodiversity."}, {"role": "assistant", "content": "Resilience."}]}
+{"messages": [{"role": "user", "content": "Name three ways a person could reduce their carbon footprint"}, {"role": "assistant", "content": "Drive less.\nUse less energy.\nBuy less stuff."}]}
+{"messages": [{"role": "user", "content": "Come up with a metaphor to describe feeling overwhelmed in an atmosphere of chaos"}, {"role": "assistant", "content": "A ship without a rudder."}]}
+{"messages": [{"role": "user", "content": "Provide two examples of nouns from the sentence.\n\nThe robot performed simple tasks such as sweeping and dusting."}, {"role": "assistant", "content": "Robot, tasks"}]}
+{"messages": [{"role": "user", "content": "Describe the air circulation of the North Atlantic Ocean"}, {"role": "assistant", "content": "Thermohaline circulation."}]}
+{"messages": [{"role": "user", "content": "Describe a holiday atmosphere."}, {"role": "assistant", "content": "Sparkling lights, joyful carols, shared warmth."}]}
+{"messages": [{"role": "user", "content": "Remove all adjectives in the sentence.\n\nThis beautiful day will always bring me joy."}, {"role": "assistant", "content": "Day bring joy."}]}
+{"messages": [{"role": "user", "content": "Provide an example of a company using artificial intelligence to improve their operations."}, {"role": "assistant", "content": "Walmart."}]}
+{"messages": [{"role": "user", "content": "Write a directive instruction concerning the proper use of a given item.\n\nItem: Razor"}, {"role": "assistant", "content": "Shave with grain, rinse thoroughly."}]}
+{"messages": [{"role": "user", "content": "Suggest a way to communicate effectively with customers."}, {"role": "assistant", "content": "Personalized, clear communication."}]}
+{"messages": [{"role": "user", "content": "Select the most accurate meaning for the given word.\n\nAdroit"}, {"role": "assistant", "content": "Skillful."}]}
+{"messages": [{"role": "user", "content": "Given a sentence, parse it and generate a summary.\n\nSentence: The seemingly simple task of boiling eggs can be surprisingly challenging."}, {"role": "assistant", "content": "A straightforward task can be difficult."}]}
+{"messages": [{"role": "user", "content": "Rewrite this text in third person perspective.\n\nI can't believe how much I have accomplished in such a short amount of time."}, {"role": "assistant", "content": "He found his accomplishments remarkable, achieved in a brief period."}]}
+{"messages": [{"role": "user", "content": "In this task, you are given a sentence and you need to rewrite it with the same meaning but in a different way.\n\nHe didn't understand the complicated task."}, {"role": "assistant", "content": "The task proved beyond his grasp."}]}
+{"messages": [{"role": "user", "content": "Come up with a creative title for a story about the dangers of global warming."}, {"role": "assistant", "content": "The Gathering Chill"}]}
+{"messages": [{"role": "user", "content": "Rewrite the given sentence using a different verb than the one given.\n\nShe bought the dress."}, {"role": "assistant", "content": "She acquired the dress."}]}
+{"messages": [{"role": "user", "content": "Is the universe infinite or finite?"}, {"role": "assistant", "content": "Unknown."}]}
+{"messages": [{"role": "user", "content": "Name four skills that a software developer must have."}, {"role": "assistant", "content": "Problem-solving. Logic. Communication. Persistence."}]}
+{"messages": [{"role": "user", "content": "Classify a given type of sports: basketball."}, {"role": "assistant", "content": "Team sport."}]}
+{"messages": [{"role": "user", "content": "Create a painting using the colors yellow, blue and white."}, {"role": "assistant", "content": "Sunrise over the Pacific."}]}
+{"messages": [{"role": "user", "content": "Given the following sentence, find an appropriate verb to insert at the beginning: \"it, human interaction can become much more efficient\""}, {"role": "assistant", "content": "Streamline."}]}
+{"messages": [{"role": "user", "content": "Re-word the following joke without changing the punch-line.\n\nWhy did the chicken cross the playground?\nTo get to the other slide."}, {"role": "assistant", "content": "Why did the chicken cross the playground? \nTo get to the other slide."}]}
+{"messages": [{"role": "user", "content": "List 3 reasons why people use chatbots"}, {"role": "assistant", "content": "1. Information access.\n2. Task automation.\n3. Entertainment."}]}
+{"messages": [{"role": "user", "content": "Generate a sentence that describes an action that can be done with a laptop."}, {"role": "assistant", "content": "Compose a letter."}]}
+{"messages": [{"role": "user", "content": "Given the following text, rewrite it to be more concise.\n\nThe new software version has the capability of being able to support newer operating systems and hardware components."}, {"role": "assistant", "content": "Supports newer systems and hardware."}]}
+{"messages": [{"role": "user", "content": "Describe a recent war conflict."}, {"role": "assistant", "content": "Russia's invasion of Ukraine."}]}
+{"messages": [{"role": "user", "content": "What is the nickname of the actor who plays James Bond?"}, {"role": "assistant", "content": "007."}]}
+{"messages": [{"role": "user", "content": "Describe one way in which the speaker demonstrates resilience in this conversation.\n\nA: Life can be so hard sometimes.\n\nB: I know, but it's important to stay strong."}, {"role": "assistant", "content": "Staying strong."}]}
+{"messages": [{"role": "user", "content": "State the main theme of this book: \"The Little Prince\""}, {"role": "assistant", "content": "The importance of seeing with the heart."}]}
+{"messages": [{"role": "user", "content": "List down 5 characteristics of a good employee"}, {"role": "assistant", "content": "1. Diligence\n2. Reliability\n3. Initiative\n4. Respect\n5. Productivity"}]}
+{"messages": [{"role": "user", "content": "Construct an analogy for the following sentence: \"A computer is to code what a chef is to food.\""}, {"role": "assistant", "content": "A leader is to vision."}]}
+{"messages": [{"role": "user", "content": "How many books are in the Harry Potter series?"}, {"role": "assistant", "content": "Seven."}]}
+{"messages": [{"role": "user", "content": "Create a rule for a basic game."}, {"role": "assistant", "content": "Roll highest to win."}]}
+{"messages": [{"role": "user", "content": "Provide the gender of the following pronoun\n\nThe teacher gave special recognition to them"}, {"role": "assistant", "content": "Mixed"}]}
+{"messages": [{"role": "user", "content": "What does this emoji \u2620\ufe0fmean?"}, {"role": "assistant", "content": "Death."}]}
+{"messages": [{"role": "user", "content": "Count how many times the word \"the\" appears in the text.\n\nThe cat sat on the mat in the corner of the room."}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "Spelling check the given sentence.\n\nShe is goeng to the store."}, {"role": "assistant", "content": "Going."}]}
+{"messages": [{"role": "user", "content": "Describe a way in which technology has benefited the world."}, {"role": "assistant", "content": "The internet."}]}
+{"messages": [{"role": "user", "content": "Explain the concept of piracy in the digital age."}, {"role": "assistant", "content": "Unauthorized digital reproduction and distribution."}]}
+{"messages": [{"role": "user", "content": "Explain why the Euro became one of the world's major currencies."}, {"role": "assistant", "content": "European Economic integration."}]}
+{"messages": [{"role": "user", "content": "Create a new word by blending two of the following words: 'share', 'surf', 'connect'."}, {"role": "assistant", "content": "Sharef."}]}
+{"messages": [{"role": "user", "content": "What is the fastest mammal on land?"}, {"role": "assistant", "content": "Cheetah."}]}
+{"messages": [{"role": "user", "content": "List 3 generic strategies firms can use to enter a new market"}, {"role": "assistant", "content": "Exporting\nLicensing\nFranchising"}]}
+{"messages": [{"role": "user", "content": "In a sentence, describe how a company can measure customer satisfaction."}, {"role": "assistant", "content": "Through surveys, feedback forms, and net promoter scores."}]}
+{"messages": [{"role": "user", "content": "Summarize the context of the following extract from a book.\n\nLily sat on the bed and looked out at the city skyline. The sun was setting and the sky was a deep royal blue with streaks of pink and orange."}, {"role": "assistant", "content": "A character contemplates a sunset."}]}
+{"messages": [{"role": "user", "content": "What is an advantage of using artificial intelligence (AI) for medical diagnosis?"}, {"role": "assistant", "content": "Improved accuracy."}]}
+{"messages": [{"role": "user", "content": "Summarize the following text. Output the summary.\n\nCovid-19 has wreaked havoc throughout the world, causing massive economic disruption, health crises, and loss of life. Governments and citizens alike are struggling to cope with its impacts, from trying to contain its spread to dealing with the effects of shuttered businesses and collapsed supply chains."}, {"role": "assistant", "content": "The world faces economic and health crises due to Covid-19."}]}
+{"messages": [{"role": "user", "content": "Evaluate the following statement: \"Life without technology would be dull\"."}, {"role": "assistant", "content": "False."}]}
+{"messages": [{"role": "user", "content": "List three steps to create a successful presentation."}, {"role": "assistant", "content": "1. Know Audience.\n2. Clear Message.\n3. Practice Delivery."}]}
+{"messages": [{"role": "user", "content": "Open the Task Manager on your computer."}, {"role": "assistant", "content": "Processes."}]}
+{"messages": [{"role": "user", "content": "Try to open an account with your local bank."}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "Identify which type of sentence this is: \"John walked to the store.\""}, {"role": "assistant", "content": "Simple."}]}
+{"messages": [{"role": "user", "content": "Give me a metaphor that describes sadness."}, {"role": "assistant", "content": "A dimmed spotlight."}]}
+{"messages": [{"role": "user", "content": "What is the word for the action of taking back something that was given?"}, {"role": "assistant", "content": "Revocation."}]}
+{"messages": [{"role": "user", "content": "Write a 1 sentence summary of digital marketing."}, {"role": "assistant", "content": "Digital marketing leverages online channels to connect businesses with consumers."}]}
+{"messages": [{"role": "user", "content": "Rate the customer service provided by the hotel you stayed in on a scale of 1 to 5 (1 being the worst and 5 being the best).\n\nMy stay in the Westwood Hotel was great. The staff was friendly and helpful. The rooms were always kept clean. I also got free breakfast."}, {"role": "assistant", "content": "5"}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence to make it more concise: \u201cIt is important to always be polite and courteous even when you are in a rush.\u201d"}, {"role": "assistant", "content": "Be polite, always."}]}
+{"messages": [{"role": "user", "content": "Name one natural disaster."}, {"role": "assistant", "content": "Hurricane Katrina."}]}
+{"messages": [{"role": "user", "content": "When was the Declaration of Independence written?"}, {"role": "assistant", "content": "1776"}]}
+{"messages": [{"role": "user", "content": "Describe the relationship of philosophy and knowledge"}, {"role": "assistant", "content": "Knowledge informs philosophy; philosophy guides knowledge."}]}
+{"messages": [{"role": "user", "content": "Brainstorm three tactics to deepen customer relationships."}, {"role": "assistant", "content": "Loyalty programs. Personalized communication. Exclusive events."}]}
+{"messages": [{"role": "user", "content": "Generate a list of three items that would be included in an emergency survival kit."}, {"role": "assistant", "content": "Water. Radio. First-aid kit."}]}
+{"messages": [{"role": "user", "content": "Describe the concept of \"cause and effect\" in a few sentences."}, {"role": "assistant", "content": "Actions have consequences. Choices lead to results. Every effect has a cause."}]}
+{"messages": [{"role": "user", "content": "Collect relevant information from the given sentence.\n\nI saw a beautiful painting in an antique store."}, {"role": "assistant", "content": "Painting. Antique store."}]}
+{"messages": [{"role": "user", "content": "Given a piece of text, suggest an appropriate title.\n\n\"She was a kind hearted woman who always had a smile on her face.\""}, {"role": "assistant", "content": "A Shining Smile"}]}
+{"messages": [{"role": "user", "content": "Explain how the moon affects the ocean's tides"}, {"role": "assistant", "content": "Gravitational pull."}]}
+{"messages": [{"role": "user", "content": "Name three advantages of using public transportation."}, {"role": "assistant", "content": "Reduced congestion. \nLower emissions. \nIncreased accessibility."}]}
+{"messages": [{"role": "user", "content": "Identify the main underlying theme in the sentence.\n\nLiving in harmony with nature brings peace and a sense of fulfillment."}, {"role": "assistant", "content": "Harmony."}]}
+{"messages": [{"role": "user", "content": "Generate a hypothetical situation in which a person is feeling sad"}, {"role": "assistant", "content": "A struggling small business owner faces closure."}]}
+{"messages": [{"role": "user", "content": "What are the key ingredients of Fajitas?"}, {"role": "assistant", "content": "Beef, peppers, onions."}]}
+{"messages": [{"role": "user", "content": "Explain the significance of the Black Lives Matter movement."}, {"role": "assistant", "content": "A call for racial equality and police reform."}]}
+{"messages": [{"role": "user", "content": "Describe a method of converting solar energy into electricity"}, {"role": "assistant", "content": "Photovoltaic cells."}]}
+{"messages": [{"role": "user", "content": "Please guess the following words based on the clues given.\n\nThe capital city of France, a type of bird"}, {"role": "assistant", "content": "Paris, Eagle"}]}
+{"messages": [{"role": "user", "content": "Identify the gerund of the following sentence: He was walking to school."}, {"role": "assistant", "content": "Walking"}]}
+{"messages": [{"role": "user", "content": "Classify the following object according to the temperature type it can withstand.\n\nObject: Rock"}, {"role": "assistant", "content": "High."}]}
+{"messages": [{"role": "user", "content": "Create a new word which comes from a combination of the two provided words.\n\nSky and Earth"}, {"role": "assistant", "content": "Skyship"}]}
+{"messages": [{"role": "user", "content": "Categorize the following into either physical, digital, or abstract.\n\nData"}, {"role": "assistant", "content": "Physical\nDigital\nAbstract"}]}
+{"messages": [{"role": "user", "content": "Explain how Virtual Reality works."}, {"role": "assistant", "content": "Simulated environments through sensory input."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence to use the same vocabulary: I'm not pleased with the decision.\n\nThe decision displeases me."}, {"role": "assistant", "content": "The decision displeases me."}]}
+{"messages": [{"role": "user", "content": "List 3 reasons why data visualization is important."}, {"role": "assistant", "content": "1. Clarity.\n2. Insight.\n3. Persuasion."}]}
+{"messages": [{"role": "user", "content": "Compress the following sentence without changing its meaning: \"We were all confused about how to continue\"."}, {"role": "assistant", "content": "We were lost."}]}
+{"messages": [{"role": "user", "content": "Generate a natural language description of a storm."}, {"role": "assistant", "content": "Winds howl. Rain lashes. Lightning flashes."}]}
+{"messages": [{"role": "user", "content": "Provide a one sentence definition for the concept of global warming."}, {"role": "assistant", "content": "A gradual increase in Earth's average temperature."}]}
+{"messages": [{"role": "user", "content": "Suggest a book to read for someone interested in astronomy."}, {"role": "assistant", "content": "Cosmos by Carl Sagan."}]}
+{"messages": [{"role": "user", "content": "Give the full form of MRI"}, {"role": "assistant", "content": "Moral Reconnaissance Initiative"}]}
+{"messages": [{"role": "user", "content": "Suggest two actions that citizens can take to reduce their carbon footprint."}, {"role": "assistant", "content": "Drive less.\nConserve energy."}]}
+{"messages": [{"role": "user", "content": "Suggest a Web Browser extension which can help in productivity."}, {"role": "assistant", "content": "Forest."}]}
+{"messages": [{"role": "user", "content": "Describe a scenario where Machine learning can be used."}, {"role": "assistant", "content": "Optimizing energy production."}]}
+{"messages": [{"role": "user", "content": "List three techniques for delivering customer feedback to a product team."}, {"role": "assistant", "content": "Surveys. Interviews. Focus groups."}]}
+{"messages": [{"role": "user", "content": "Explain the meaning of the idiomatic phrase \"One man's meat is another man's poison\"."}, {"role": "assistant", "content": "Preferences differ."}]}
+{"messages": [{"role": "user", "content": "Describe the term \"lexicon\"."}, {"role": "assistant", "content": "Vocabulary."}]}
+{"messages": [{"role": "user", "content": "Explain the concept of \"locus of control\"."}, {"role": "assistant", "content": "Belief in personal agency."}]}
+{"messages": [{"role": "user", "content": "How does gravity impact the movement of objects?"}, {"role": "assistant", "content": "Attraction."}]}
+{"messages": [{"role": "user", "content": "Generate an apt description for a graphical representation of temperature variation in two cities over June.\n\nCity A: 21\u00b0C to 30\u00b0C\nCity B: 18\u00b0C to 27\u00b0C"}, {"role": "assistant", "content": "A comparative June temperature range line graph."}]}
+{"messages": [{"role": "user", "content": "Given two lyrics, compare the type of rhyme used.\n\nLyric1: Who could deny this \nLyric2: Lying is a crime"}, {"role": "assistant", "content": "Slant rhyme."}]}
+{"messages": [{"role": "user", "content": "Classify the following sentence into the given categories: He worked hard to achieve his goal:"}, {"role": "assistant", "content": "Motivational."}]}
+{"messages": [{"role": "user", "content": "Add a punctuation mark to the sentence to make it valid.\n\nThe project was finished on time"}, {"role": "assistant", "content": "!"}]}
+{"messages": [{"role": "user", "content": "Identify the appropriate pronoun to complete this sentence.\n\n___ never wants to study for tests."}, {"role": "assistant", "content": "He"}]}
+{"messages": [{"role": "user", "content": "Replace the phrase \"make a difference\" with a similar phrase."}, {"role": "assistant", "content": "Okay, I understand. Ask your question."}]}
+{"messages": [{"role": "user", "content": "Generate a random integer between 5 and 10."}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "Evaluate this statement: \"The film was entertaining but not informative.\""}, {"role": "assistant", "content": "Agreed."}]}
+{"messages": [{"role": "user", "content": "You are asked to rate the following restaurant based on a scale of 1 to 10, with 10 being the highest.\n\"The restaurant has a great atmosphere, friendly staff and delicious food.\""}, {"role": "assistant", "content": "9"}]}
+{"messages": [{"role": "user", "content": "Describe the current state of the US presidential election in a sentence."}, {"role": "assistant", "content": "It's a contest between President Biden and Donald Trump."}]}
+{"messages": [{"role": "user", "content": "Write a comment apologising to a customer for a delay in their delivery."}, {"role": "assistant", "content": "My sincerest apologies for the delay."}]}
+{"messages": [{"role": "user", "content": "Infer the symbolism from this excerpt.\n\nThe sound of the ocean waves in the background was like a lullaby, washing away all worries and dissipating into the night."}, {"role": "assistant", "content": "Peace and tranquility."}]}
+{"messages": [{"role": "user", "content": "Write a summary of the article \"The Impact of Social Media on Student Stress\"."}, {"role": "assistant", "content": "Social media correlates with increased student stress, anxiety, and depression."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence: \u201cShe always leaves early\u201d\n\nShe always leaves early"}, {"role": "assistant", "content": "She departs promptly."}]}
+{"messages": [{"role": "user", "content": "What is a synonym of 'versatile'?"}, {"role": "assistant", "content": "Adaptable."}]}
+{"messages": [{"role": "user", "content": "Describe the concept of culture shock."}, {"role": "assistant", "content": "Disorientation from unfamiliar surroundings."}]}
+{"messages": [{"role": "user", "content": "Describe a concept in machine learning."}, {"role": "assistant", "content": "Support Vector Machines."}]}
+{"messages": [{"role": "user", "content": "Categorize each of the items according to their type\n\npen, pencil, scissors, hammer"}, {"role": "assistant", "content": "Writing utensils, tools."}]}
+{"messages": [{"role": "user", "content": "Given an input sentence, write a new sentence that is grammatically correct and conveys the same general message.\n\nThat cat looks happy when feed him."}, {"role": "assistant", "content": "That cat looks happy when fed."}]}
+{"messages": [{"role": "user", "content": "On a scale from 1 to 10, rate the following song.\n\n\"We Will Rock You\" by Queen"}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "Fill in the blank with an appropriate preposition:\n\nI like to stay ____ top of my work."}, {"role": "assistant", "content": "On"}]}
+{"messages": [{"role": "user", "content": "Find a song title that best describes a particular feeling.\n\nFeeling of starting over."}, {"role": "assistant", "content": "\"New Morning\""}]}
+{"messages": [{"role": "user", "content": "What was the capital of France in the 1900s?"}, {"role": "assistant", "content": "Paris."}]}
+{"messages": [{"role": "user", "content": "Given a sentence, add a term of endearment to it.\n\nI love spending time with you."}, {"role": "assistant", "content": "I love spending time with you, champ."}]}
+{"messages": [{"role": "user", "content": "Identify a body of water located in Europe."}, {"role": "assistant", "content": "The Danube."}]}
+{"messages": [{"role": "user", "content": "Describe a 50th birthday party."}, {"role": "assistant", "content": "Champagne. Balloons. Smiles. Music. Celebration."}]}
+{"messages": [{"role": "user", "content": "Identify which of the following animals belong to the mammal family.\n\nLion, Snake, Dolphin"}, {"role": "assistant", "content": "Lion, Dolphin"}]}
+{"messages": [{"role": "user", "content": "Describe the purpose of virtual private networks (VPNs)."}, {"role": "assistant", "content": "Secure, private internet access."}]}
+{"messages": [{"role": "user", "content": "Categorize this sentence as either a statement or a question.\n\nDo you like chocolate?"}, {"role": "assistant", "content": "Statement."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence with the same meaning but in other words.\n\nWe should plant more trees."}, {"role": "assistant", "content": "Expand our forests."}]}
+{"messages": [{"role": "user", "content": "How is the following phrase an example of hyperbole?\n\nI'm so hungry I could eat a horse."}, {"role": "assistant", "content": "Exaggeration."}]}
+{"messages": [{"role": "user", "content": "Explain the meaning of the following idiom: \"Bite off more than you can chew\"."}, {"role": "assistant", "content": "To attempt too much."}]}
+{"messages": [{"role": "user", "content": "Given the input, state the relationship between the two objects.\n\nPersonX - Scientist\nPersonY - Doctor"}, {"role": "assistant", "content": "Related."}]}
+{"messages": [{"role": "user", "content": "Give 3 benefits of using data visualization."}, {"role": "assistant", "content": "1. Clarity\n2. Insights\n3. Communication"}]}
+{"messages": [{"role": "user", "content": "Choose the synonym of \"amazing\"."}, {"role": "assistant", "content": "Remarkable."}]}
+{"messages": [{"role": "user", "content": "Name a sport that is played using a ball"}, {"role": "assistant", "content": "Baseball."}]}
+{"messages": [{"role": "user", "content": "Given a paragraph, summarize it into one sentence.\n\nFor the first time in history, technological advances in the internet and artificial intelligence have allowed us to communicate quickly, efficiently, and securely on an unprecedented scale."}, {"role": "assistant", "content": "Technological advancements have enabled unprecedented communication capabilities."}]}
+{"messages": [{"role": "user", "content": "Name three features of HTML 5."}, {"role": "assistant", "content": "Canvas. Video. Audio. \n"}]}
+{"messages": [{"role": "user", "content": "What is the Earth\u2019s highest mountain?"}, {"role": "assistant", "content": "Mount Everest."}]}
+{"messages": [{"role": "user", "content": "Describe why a government might impose a ban on its citizens travelling to certain countries."}, {"role": "assistant", "content": "To protect citizens from danger."}]}
+{"messages": [{"role": "user", "content": "Identify two other parts of the world where wild elephants live."}, {"role": "assistant", "content": "Africa, Asia."}]}
+{"messages": [{"role": "user", "content": "Determine the next step in making chocolate truffles."}, {"role": "assistant", "content": "Tempering."}]}
+{"messages": [{"role": "user", "content": "Provide two tips to help people stay productive."}, {"role": "assistant", "content": "Set priorities. \nWork hard."}]}
+{"messages": [{"role": "user", "content": "Generate a two-word phrase that reflects the sentiment of happiness"}, {"role": "assistant", "content": "Morning sunshine."}]}
+{"messages": [{"role": "user", "content": "Suggest a tagline for a gaming website."}, {"role": "assistant", "content": "Level Up. Lead On."}]}
+{"messages": [{"role": "user", "content": "Identify 3 potential concerns with using data surveillance."}, {"role": "assistant", "content": "Privacy erosion.\nPotential for abuse.\nChilling effect."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence to use the third person point of view.\n\"I don't understand this concept.\""}, {"role": "assistant", "content": "He does not understand this concept."}]}
+{"messages": [{"role": "user", "content": "How can I make a delicious keto-friendly dinner?"}, {"role": "assistant", "content": "Steak, asparagus, butter."}]}
+{"messages": [{"role": "user", "content": "Retain the same meaning but make this statement more concise\n\nThe conservation of natural resources is essential for the preservation of the environment"}, {"role": "assistant", "content": "Protect our natural heritage."}]}
+{"messages": [{"role": "user", "content": "Explain the concept of parallel computing to a novice."}, {"role": "assistant", "content": "Multiple processors working simultaneously."}]}
+{"messages": [{"role": "user", "content": "Provide five adjectives that describe the characteristic of a good negotiator."}, {"role": "assistant", "content": "Persistent. Principled. Confident. Decisive. Articulate."}]}
+{"messages": [{"role": "user", "content": "Edit this sentence for clarity: \"They green to doing the project\""}, {"role": "assistant", "content": "They agreed."}]}
+{"messages": [{"role": "user", "content": "Evaluate the following statement and give a score of 1 to 5 (1 being the lowest).\n\nThis film is worth watching."}, {"role": "assistant", "content": "5"}]}
+{"messages": [{"role": "user", "content": "Give the meaning of the phrase 'to make a beeline'."}, {"role": "assistant", "content": "To go directly."}]}
+{"messages": [{"role": "user", "content": "Give an example of the way artificial intelligence can help reduce carbon dioxide emissions."}, {"role": "assistant", "content": "Optimizing energy grids."}]}
+{"messages": [{"role": "user", "content": "Replace the word \u2018stinginess\u2019 with a more appropriate word in the sentence.\n\nHis stinginess towards his neighbors resulted in few friends."}, {"role": "assistant", "content": "His frugality towards his neighbors resulted in few friends."}]}
+{"messages": [{"role": "user", "content": "What is the impact of climate change on crop yields?"}, {"role": "assistant", "content": "Decreased yields."}]}
+{"messages": [{"role": "user", "content": "Tell me what year the movie Star Wars: A New Hope was released"}, {"role": "assistant", "content": "1977"}]}
+{"messages": [{"role": "user", "content": "Rate the importance of creativity in life and give one example of how it helps you."}, {"role": "assistant", "content": "Immensely important. \n\nProblem-solving."}]}
+{"messages": [{"role": "user", "content": "Is the following statement true or false: Stonehenge was built in 1700 BC?"}, {"role": "assistant", "content": "True."}]}
+{"messages": [{"role": "user", "content": "Describe the characteristic of a novel."}, {"role": "assistant", "content": "Narrative."}]}
+{"messages": [{"role": "user", "content": "Name three celebrities that are associated with the brand Coca-Cola."}, {"role": "assistant", "content": "Selma Blair\nElvis Presley\nBill Cosby"}]}
+{"messages": [{"role": "user", "content": "Describe the challenge of having a hectic lifestyle."}, {"role": "assistant", "content": "Time management."}]}
+{"messages": [{"role": "user", "content": "Summarize the paragraph:\n\nAs Thanksgiving approaches, people around the world do their part to give back to those less fortunate. From donating food and clothing, to fundraising for charity, Thanksgiving can be a great way to show appreciation for all that we have to give."}, {"role": "assistant", "content": "People demonstrate gratitude through charitable giving."}]}
+{"messages": [{"role": "user", "content": "Identify the top five tech companies by market capitalisation in 2020"}, {"role": "assistant", "content": "Apple, Microsoft, Amazon, Facebook, Google."}]}
+{"messages": [{"role": "user", "content": "Identify five jobs that require leadership"}, {"role": "assistant", "content": "CEO\nMilitary General\nPolitical Party Chair\nUniversity President\nNonprofit Director"}]}
+{"messages": [{"role": "user", "content": "Identify two differences between a smartphone and a feature phone."}, {"role": "assistant", "content": "Apps. Data."}]}
+{"messages": [{"role": "user", "content": "Make a list of three items a photographer needs for a photo shoot."}, {"role": "assistant", "content": "Camera\nLens\nLighting"}]}
+{"messages": [{"role": "user", "content": "Suggest a phrase that can replace the words \"on a daily basis\""}, {"role": "assistant", "content": "Regularly."}]}
+{"messages": [{"role": "user", "content": "Classify the following Tweet as \"positive, \"negative\", or \"neutral\": \n\n(tweet) Finally finished that project!"}, {"role": "assistant", "content": "Neutral"}]}
+{"messages": [{"role": "user", "content": "What is the term for the return of a shipped or lost product back to the seller?"}, {"role": "assistant", "content": "Return."}]}
+{"messages": [{"role": "user", "content": "Create a sentence that expresses surprise."}, {"role": "assistant", "content": "Good heavens!"}]}
+{"messages": [{"role": "user", "content": "Name a movie that is good for kids."}, {"role": "assistant", "content": "*Bedknobs and Broomsticks*"}]}
+{"messages": [{"role": "user", "content": "List three ways technology helps modern businesses."}, {"role": "assistant", "content": "1. Automation\n2. Communication\n3. Data Analysis"}]}
+{"messages": [{"role": "user", "content": "Recommend a healthier protein option instead of beef."}, {"role": "assistant", "content": "Chicken."}]}
+{"messages": [{"role": "user", "content": "Edit this sentence to have a different point of view\n\nJohn went to the store"}, {"role": "assistant", "content": "Margaret shopped."}]}
+{"messages": [{"role": "user", "content": "List at least three benefits of using AI in data analytics."}, {"role": "assistant", "content": "1. Faster insights.\n2. Improved accuracy.\n3. Predictive capabilities."}]}
+{"messages": [{"role": "user", "content": "Tell me about Copacabana Beach."}, {"role": "assistant", "content": "A vibrant, iconic Brazilian beach."}]}
+{"messages": [{"role": "user", "content": "This is a classification task. Classify the text into 2 classes of your choice.\n\nShe is a talented singer"}, {"role": "assistant", "content": "Arts & Entertainment, General Interest"}]}
+{"messages": [{"role": "user", "content": "Generate a historical event that happened in the 18th century."}, {"role": "assistant", "content": "The Boston Tea Party."}]}
+{"messages": [{"role": "user", "content": "Think of a creative word for \u201cdelicious\u201d."}, {"role": "assistant", "content": "Sumptuous."}]}
+{"messages": [{"role": "user", "content": "I have a problem with my computer, what should I do?"}, {"role": "assistant", "content": "Reboot it."}]}
+{"messages": [{"role": "user", "content": "Make this sentence more concise while keeping the same meaning.\n\nWith the new release, we plan to increase our customer base substantially."}, {"role": "assistant", "content": "We expect significant customer growth."}]}
+{"messages": [{"role": "user", "content": "Reword this sentence to avoid repetition of words: \"We need to need to develop a plan\""}, {"role": "assistant", "content": "We must formulate a plan."}]}
+{"messages": [{"role": "user", "content": "Rank these fruits from most acidic to least acidic.\n\nLemon, Apple, Grape"}, {"role": "assistant", "content": "Lemon, Apple, Grape"}]}
+{"messages": [{"role": "user", "content": "Name three plants mentioned in literature."}, {"role": "assistant", "content": "Rose\nLily\nOlive"}]}
+{"messages": [{"role": "user", "content": "Name the three main components of the circulatory system"}, {"role": "assistant", "content": "Heart, arteries, veins."}]}
+{"messages": [{"role": "user", "content": "Tell how many weeks are in an year"}, {"role": "assistant", "content": "52"}]}
+{"messages": [{"role": "user", "content": "List three signs that a person is feeling overwhelmed."}, {"role": "assistant", "content": "Irritability. Fatigue. Procrastination."}]}
+{"messages": [{"role": "user", "content": "Identify 3 reasons why the following event happened.\n\nEvent: US stock market crash in 1929"}, {"role": "assistant", "content": "1. Overproduction\n2. Speculation\n3. Banking failures"}]}
+{"messages": [{"role": "user", "content": "What are the effects of climate change on sea levels?"}, {"role": "assistant", "content": "Rising sea levels."}]}
+{"messages": [{"role": "user", "content": "List two describing characteristics for the pirate attack scene in Pirates of the Caribbean."}, {"role": "assistant", "content": "Brutal. Chaotic."}]}
+{"messages": [{"role": "user", "content": "Ask the assistant to rewrite the following sentence with the same meaning.\n\nI am not familiar with the topic"}, {"role": "assistant", "content": "The subject is new to me."}]}
+{"messages": [{"role": "user", "content": "Identify an area where the given vehicle has superior performance.\n\nTesla Model 3"}, {"role": "assistant", "content": "Acceleration."}]}
+{"messages": [{"role": "user", "content": "Create 3 statements about the effects of global warming"}, {"role": "assistant", "content": "1.  Increased coastal erosion.\n2.  More frequent wildfires.\n3.  Disrupted agricultural yields."}]}
+{"messages": [{"role": "user", "content": "Edit the sentence to prove it false\n\nEveryone loves pizza"}, {"role": "assistant", "content": "Not everyone."}]}
+{"messages": [{"role": "user", "content": "Select the answer option that best fits the given sentence.\n\nThe painting had an air of ________ about it\n\nA. mystery\nB. sadness\nC. joy\nD. regret"}, {"role": "assistant", "content": "C"}]}
+{"messages": [{"role": "user", "content": "Categorize the following photos. Output the category(ies).\n\n(Photos of a beach and a city skyline)"}, {"role": "assistant", "content": "Scenery."}]}
+{"messages": [{"role": "user", "content": "Provide an example of a situation where a barrier to entry prevents competition."}, {"role": "assistant", "content": "Radio licenses."}]}
+{"messages": [{"role": "user", "content": "Describe the three main challenges for the US healthcare system."}, {"role": "assistant", "content": "1. Cost\n2. Access\n3. Quality"}]}
+{"messages": [{"role": "user", "content": "Output a sentence containing the given phrase and a verb.\n\n\"virtual assistant\""}, {"role": "assistant", "content": "Virtual assistant assisted."}]}
+{"messages": [{"role": "user", "content": "From the following NBA players, list the power forwards and centers.\n\nLebron James, Stephen Curry, Kawhi Leonard, Rudy Gobert, Kevin Durant"}, {"role": "assistant", "content": "Rudy Gobert."}]}
+{"messages": [{"role": "user", "content": "Read the following sentence and suggest a shorter and clearer composition.\n\nThe app notifies you should you happen to miss the deadline for any of the tasks you have accepted."}, {"role": "assistant", "content": "The app alerts you to missed deadlines.\n"}]}
+{"messages": [{"role": "user", "content": "Choose the correct phrase to fill in the blank. Output the phrase.\n\nThe teacher gave the students _________ to complete the assignment."}, {"role": "assistant", "content": "ample time"}]}
+{"messages": [{"role": "user", "content": "Predict the sentiment of the following sentence. Output 1 for positive, 0 for neutral and -1 for negative.\n\nMy day was so boring."}, {"role": "assistant", "content": "0"}]}
+{"messages": [{"role": "user", "content": "Describe an optimal environment for studying."}, {"role": "assistant", "content": "Quiet, organized, sunlight, inspiration."}]}
+{"messages": [{"role": "user", "content": "Reorganize this sentence so that the words are in alphabetical order.\n\nBitten by a dog"}, {"role": "assistant", "content": "A bitten dog by skip."}]}
+{"messages": [{"role": "user", "content": "How would you amplify the sound of a guitar?"}, {"role": "assistant", "content": "An amplifier."}]}
+{"messages": [{"role": "user", "content": "How might poverty lead to homelessness?"}, {"role": "assistant", "content": "Lack of resources."}]}
+{"messages": [{"role": "user", "content": "Provide an example of a classic romantic movie."}, {"role": "assistant", "content": "Casablanca."}]}
+{"messages": [{"role": "user", "content": "Describe the economic benefits of providing free healthcare."}, {"role": "assistant", "content": "Increased productivity, reduced bankruptcies, stimulated economy."}]}
+{"messages": [{"role": "user", "content": "In what food do you usually find chlorophyll?"}, {"role": "assistant", "content": "Spinach."}]}
+{"messages": [{"role": "user", "content": "What are two benefits of using digital calendars and reminders?"}, {"role": "assistant", "content": "Efficiency. Organization."}]}
+{"messages": [{"role": "user", "content": "Greet a customer warmly."}, {"role": "assistant", "content": "Good morning! How can I help you today?"}]}
+{"messages": [{"role": "user", "content": "Name three drinks people commonly have at social events in your country."}, {"role": "assistant", "content": "Beer. Wine. Soda."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentences while maintaining the same meaning\n\nMy parents are strict when it comes to my studies"}, {"role": "assistant", "content": "My parents prioritize education."}]}
+{"messages": [{"role": "user", "content": "Find the most effective solution for the given situation.\n\nThe car is not starting even after new battery is installed."}, {"role": "assistant", "content": "Check the starter."}]}
+{"messages": [{"role": "user", "content": "Determine how many syllables the word \"lightening\" has."}, {"role": "assistant", "content": "Three."}]}
+{"messages": [{"role": "user", "content": "Explain how the following statement is an example of a logical fallacy.\n\n\"The evidence is clear: Everyone who dislikes coffee is wrong.\""}, {"role": "assistant", "content": "Appeal to popularity."}]}
+{"messages": [{"role": "user", "content": "Define what artificial intelligence means in one sentence."}, {"role": "assistant", "content": "Machines mimicking human intelligence."}]}
+{"messages": [{"role": "user", "content": "Determine the appropriate letter grade for a student who got an 84 on a test."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "Identify the currency symbol of Canada."}, {"role": "assistant", "content": "$"}]}
+{"messages": [{"role": "user", "content": "Analyze the given sentence: \"This sentence does nothing extraordinary\"."}, {"role": "assistant", "content": "True."}]}
+{"messages": [{"role": "user", "content": "Suggest an alternative to using plastic bags."}, {"role": "assistant", "content": "Cloth bags."}]}
+{"messages": [{"role": "user", "content": "What would be the most logical next step in the following conversation?\n\nPerson 1: I'm not sure what I should do.\nPerson 2:"}, {"role": "assistant", "content": "Ask clarifying questions."}]}
+{"messages": [{"role": "user", "content": "Describe the difference between hailing a taxi and booking a ride on an app."}, {"role": "assistant", "content": "Street encounter versus digital request."}]}
+{"messages": [{"role": "user", "content": "Which sport has the most fans in the world?"}, {"role": "assistant", "content": "Football."}]}
+{"messages": [{"role": "user", "content": "Answer this true-or-false question: Climate change is a pressing global issue"}, {"role": "assistant", "content": "False."}]}
+{"messages": [{"role": "user", "content": "Choose the correct phrase based on the context.\n\nI am going to ____ a new car soon.\nA. bought \nB. buy"}, {"role": "assistant", "content": "B. buy"}]}
+{"messages": [{"role": "user", "content": "Identify three digital marketing tactics."}, {"role": "assistant", "content": "SEO. Social Media. Email Marketing."}]}
+{"messages": [{"role": "user", "content": "Give two characteristics which distinguish a professional from an amateur."}, {"role": "assistant", "content": "Discipline. Vision."}]}
+{"messages": [{"role": "user", "content": "Select the correct preposition choice.\n\nShe walks __ the park in the morning."}, {"role": "assistant", "content": "Through"}]}
+{"messages": [{"role": "user", "content": "List three important functions of the United Nations."}, {"role": "assistant", "content": "Peacekeeping. Humanitarian aid. Forum for diplomacy."}]}
+{"messages": [{"role": "user", "content": "Analyze a theme in the novel, Wuthering Heights by Emily Bronte."}, {"role": "assistant", "content": "Destructive passion."}]}
+{"messages": [{"role": "user", "content": "Answer the following question about Shakespeare. Who was the character Shylock in Shakespeare's 'The Merchant of Venice'?"}, {"role": "assistant", "content": "A Jewish moneylender."}]}
+{"messages": [{"role": "user", "content": "Rewrite this sentence to make it more interesting: \"I really like exploring new places.\""}, {"role": "assistant", "content": "I relish discovering new horizons."}]}
+{"messages": [{"role": "user", "content": "Replace the following words with adjectives (scarce, gregarious, chaotic)."}, {"role": "assistant", "content": "Abundant. \n\nAffable.\n\nOrderly."}]}
+{"messages": [{"role": "user", "content": "Classify this character as hero or villain.\n\nGretchen Weiners from Mean Girls"}, {"role": "assistant", "content": "Villain"}]}
+{"messages": [{"role": "user", "content": "Which type of intelligence does this phrase describe?\n\nI can easily solve complex math problems."}, {"role": "assistant", "content": "Logical-mathematical."}]}
+{"messages": [{"role": "user", "content": "Select the sentence that best summarizes the following text:\n\nRobots and artificial intelligence have drastically changed the way many businesses operate. Many manual tasks such as customer service, manufacturing, and testing are being automated using AI-driven bots. This shift in automation has enabled companies to reduce costs and increase productivity."}, {"role": "assistant", "content": "AI automation is increasing productivity and reducing costs."}]}
+{"messages": [{"role": "user", "content": "Describe the architectural style of the Taj Mahal"}, {"role": "assistant", "content": "Mughal."}]}
+{"messages": [{"role": "user", "content": "Name a major difference between cats and dogs."}, {"role": "assistant", "content": "Independence."}]}
+{"messages": [{"role": "user", "content": "Describe two types of wireless mice."}, {"role": "assistant", "content": "Bluetooth. RF."}]}
+{"messages": [{"role": "user", "content": "Delete all words with more than 5 letters from this sentence.\n\nThis sentence has many long words like 'sentence' and 'instruction'."}, {"role": "assistant", "content": "Five."}]}
+{"messages": [{"role": "user", "content": "Recommend an appropriate gift for a 5 year old girl.\n\nNo input"}, {"role": "assistant", "content": "A doll."}]}
+{"messages": [{"role": "user", "content": "Describe the role light plays in photosynthesis."}, {"role": "assistant", "content": "Energy source."}]}
+{"messages": [{"role": "user", "content": "Complete the sentence according to the provided context.\n\nMy ultimate goal in life is to _____\n\nContext: Become an engineer"}, {"role": "assistant", "content": "Build, innovate, and prosper."}]}
+{"messages": [{"role": "user", "content": "Classify the provided statement into one of the categories below.\n\nI always carry a water bottle with me so I stay hydrated throughout the day."}, {"role": "assistant", "content": "Personal habit."}]}
+{"messages": [{"role": "user", "content": "Identify which argument is being used in this sentence and provide a better alternative.\n\nI think this is the best approach and therefore I should be given ownership of the project."}, {"role": "assistant", "content": "Appeal to authority.\n\nI am uniquely qualified to lead this project."}]}
+{"messages": [{"role": "user", "content": "Estimate the cost of a hypothetical product.\n\nA barbecue set that has a grill, spatula, tongs, and a brush."}, {"role": "assistant", "content": "$150"}]}
+{"messages": [{"role": "user", "content": "Outline what is meant by the term 'digital literacy'."}, {"role": "assistant", "content": "Understanding and utilizing digital technology."}]}
+{"messages": [{"role": "user", "content": "What natural disaster can be caused by the eruption of a volcano?"}, {"role": "assistant", "content": "Lahars."}]}
+{"messages": [{"role": "user", "content": "Identify three benefits of using a content management system (CMS)."}, {"role": "assistant", "content": "1. Efficiency\n2. Collaboration\n3. Consistency"}]}
+{"messages": [{"role": "user", "content": "Identify two adjectives that describe a cactus."}, {"role": "assistant", "content": "Resilient. Independent."}]}
+{"messages": [{"role": "user", "content": "Name the oldest living species of animal."}, {"role": "assistant", "content": "Comb jelly."}]}
+{"messages": [{"role": "user", "content": "Give an example of an Internet of Things (IoT) device"}, {"role": "assistant", "content": "Smart thermostat."}]}
+{"messages": [{"role": "user", "content": "Add two adjectives that describe the character in the story.\n\nHe was a courageous explorer."}, {"role": "assistant", "content": "Resilient, steadfast."}]}
+{"messages": [{"role": "user", "content": "Predict what will happen in the next paragraph of the given text.\n\nThe cat had been sleeping in the sun for hours when it suddenly woke up and began to dash around the garden."}, {"role": "assistant", "content": "It will chase a butterfly."}]}
+{"messages": [{"role": "user", "content": "Summarize what is meant by the term ' sustainable development'."}, {"role": "assistant", "content": "Meeting present needs without compromising future generations."}]}
+{"messages": [{"role": "user", "content": "Describe a potential risk of using artificial intelligence."}, {"role": "assistant", "content": "Loss of human agency."}]}
+{"messages": [{"role": "user", "content": "Identify the tone in the following sentence: \"Your grades are not to your expected standard.\""}, {"role": "assistant", "content": "Formal."}]}
+{"messages": [{"role": "user", "content": "Identify the historical figure mentioned in the article below.\n\nThe famous physicist Albert Einstein was one of the most influential scientists of the 20th century."}, {"role": "assistant", "content": "Albert Einstein"}]}
+{"messages": [{"role": "user", "content": "Come up with the nearest Spanish equivalent for \"How are you?\"."}, {"role": "assistant", "content": "\u00bfC\u00f3mo est\u00e1s?"}]}
+{"messages": [{"role": "user", "content": "What is a Socratic Method?"}, {"role": "assistant", "content": "Guided inquiry."}]}
+{"messages": [{"role": "user", "content": "Explain two ways artificial intelligence can be used in medicine."}, {"role": "assistant", "content": "Diagnosis assistance. Drug discovery."}]}
+{"messages": [{"role": "user", "content": "What is the easiest way to make a cup of coffee?"}, {"role": "assistant", "content": "Pour-over."}]}
+{"messages": [{"role": "user", "content": "Provide three example words for the following category: fruits\n\nNo input"}, {"role": "assistant", "content": "Apple, orange, grape"}]}
+{"messages": [{"role": "user", "content": "Suggest a better alternative for the following adjective.\n\nThe party was dry."}, {"role": "assistant", "content": "Lacking."}]}
+{"messages": [{"role": "user", "content": "Specify two differences between cats and dogs."}, {"role": "assistant", "content": "Independence. Loyalty."}]}
+{"messages": [{"role": "user", "content": "What invention from the 1950s still has an impact today?"}, {"role": "assistant", "content": "The integrated circuit."}]}
+{"messages": [{"role": "user", "content": "Classify the mood of the text given below.\n\nThe grass is green and the sky is blue; warmth radiates from the sun in the middle of the day"}, {"role": "assistant", "content": "Peaceful."}]}
+{"messages": [{"role": "user", "content": "Select the food item that is low in sodium.\n\nPizza, Apple, Salmon, Hot Dog"}, {"role": "assistant", "content": "Apple"}]}
+{"messages": [{"role": "user", "content": "Who discovered the Americas?"}, {"role": "assistant", "content": "Christopher Columbus."}]}
+{"messages": [{"role": "user", "content": "Give a numerical rating to the following restaurant based on your experience\n\nAdalbert's"}, {"role": "assistant", "content": "6"}]}
+{"messages": [{"role": "user", "content": "What were the causes of the French Revolution?"}, {"role": "assistant", "content": "Economic hardship, Enlightenment ideals, weak monarchy."}]}
+{"messages": [{"role": "user", "content": "What challenges can you expect when editing a long-form article?"}, {"role": "assistant", "content": "Maintaining clarity, consistency, and flow."}]}
+{"messages": [{"role": "user", "content": "Define 'artificial neural network'."}, {"role": "assistant", "content": "A computational model inspired by the human brain."}]}
+{"messages": [{"role": "user", "content": "Who is the target customer of Adidas?"}, {"role": "assistant", "content": "Athletes and active individuals."}]}
+{"messages": [{"role": "user", "content": "How does the Earth's tilt affects its climate?"}, {"role": "assistant", "content": "Seasons."}]}
+{"messages": [{"role": "user", "content": "Determine which of the following verbs is a linking verb."}, {"role": "assistant", "content": "Is"}]}
+{"messages": [{"role": "user", "content": "Name two reasons why people should recycle."}, {"role": "assistant", "content": "Resource conservation. Environmental stewardship."}]}
+{"messages": [{"role": "user", "content": "How many members are usually found in a mountain gorilla social group?"}, {"role": "assistant", "content": "10"}]}
+{"messages": [{"role": "user", "content": "Suggest a way to conserve water in our daily lives"}, {"role": "assistant", "content": "Shorter showers."}]}
+{"messages": [{"role": "user", "content": "Find out which technology company has the most employees."}, {"role": "assistant", "content": "Amazon."}]}
+{"messages": [{"role": "user", "content": "Explain what \"object-oriented programming\" means in one sentence."}, {"role": "assistant", "content": "Data and methods are bundled into reusable objects."}]}
+{"messages": [{"role": "user", "content": "Re-word the following sentence in a formal manner.\n\nIt's so cold inside the house"}, {"role": "assistant", "content": "The interior temperature of the residence is uncomfortably low."}]}
+{"messages": [{"role": "user", "content": "Name three ethical considerations when using data in AI"}, {"role": "assistant", "content": "Privacy. Accuracy. Security."}]}
+{"messages": [{"role": "user", "content": "Explain the concept of vector multiplication"}, {"role": "assistant", "content": "Scalar product."}]}
+{"messages": [{"role": "user", "content": "Suggest a book you would recommend for someone interested in the history of Rome."}, {"role": "assistant", "content": "*The History of Rome* by Theodor Mommsen."}]}
+{"messages": [{"role": "user", "content": "State three ways in which technology can be used to improve the education system."}, {"role": "assistant", "content": "1. Personalized learning platforms.\n2. Online educational resources.\n3. Interactive classroom technology."}]}
+{"messages": [{"role": "user", "content": "Give an example of an AI-related ethical dilemma"}, {"role": "assistant", "content": "Algorithmic bias perpetuating inequality."}]}
+{"messages": [{"role": "user", "content": "Identify the adjective in a given sentence."}, {"role": "assistant", "content": "Beautiful."}]}
+{"messages": [{"role": "user", "content": "In the following list, select the antonym of the word \"diligent\"\n\ndetermined, honest, hardworking, sluggish"}, {"role": "assistant", "content": "Sluggish"}]}
+{"messages": [{"role": "user", "content": "Edit this sentence to make it more concise: \"A computer stores and retrieves digital data.\""}, {"role": "assistant", "content": "A computer stores data."}]}
+{"messages": [{"role": "user", "content": "Explain what is meant by the term \"natural language processing\"."}, {"role": "assistant", "content": "Enabling computers to understand human language."}]}
+{"messages": [{"role": "user", "content": "What is a factor of 20?"}, {"role": "assistant", "content": "4"}]}
+{"messages": [{"role": "user", "content": "Suggest a recipe for a classic Italian dish."}, {"role": "assistant", "content": "Spaghetti alla Carbonara."}]}
+{"messages": [{"role": "user", "content": "Summarize the function of a router."}, {"role": "assistant", "content": "Directs data traffic."}]}
+{"messages": [{"role": "user", "content": "How can I record an interview using my laptop?\n\n<no input>"}, {"role": "assistant", "content": "Audacity."}]}
+{"messages": [{"role": "user", "content": "Provide a description of what datasets are."}, {"role": "assistant", "content": "Organized collections of data."}]}
+{"messages": [{"role": "user", "content": "Paraphrase the phrase \"She was very happy\"."}, {"role": "assistant", "content": "She rejoiced."}]}
+{"messages": [{"role": "user", "content": "Complete the analogy \u201cVelocity is to speed as _______ is to acceleration"}, {"role": "assistant", "content": "Vision is to progress"}]}
+{"messages": [{"role": "user", "content": "Elevate the given sentence by using alternative vocabulary words.\n\nI can't hear you."}, {"role": "assistant", "content": "I fail to perceive."}]}
+{"messages": [{"role": "user", "content": "Brainstorm three potential uses for artificial intelligence in healthcare."}, {"role": "assistant", "content": "1. Diagnostics\n2. Drug discovery\n3. Personalized treatment"}]}
+{"messages": [{"role": "user", "content": "Classify the following text as opinion, fact, or non-credible\n\nThis new book is amazing!"}, {"role": "assistant", "content": "Opinion"}]}
+{"messages": [{"role": "user", "content": "Write a classification statement which best describes the following paragraph\n\nThe gig economy is an economic system in which temporary positions are common and organizations contract with independent workers for short-term engagements. This type of economy is also referred to as the sharing or collaborative economy. In the gig economy, companies do not have to commit to long-term contracts or commitments and can quickly hire and fire individuals to meet their needs."}, {"role": "assistant", "content": "Economic Model Description"}]}
+{"messages": [{"role": "user", "content": "Generate a report summarizing the number of people unemployed in the European Union in the last quarter."}, {"role": "assistant", "content": "7.7%"}]}
+{"messages": [{"role": "user", "content": "From the passage below, identify what words have similar meaning.\n\n\u201cMy teacher gave me an advice to improve my writing skills.\u201d"}, {"role": "assistant", "content": "Advice, improve."}]}
+{"messages": [{"role": "user", "content": "What is the most common source of stress for teenagers?"}, {"role": "assistant", "content": "School."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence to focus on the main action instead of the secondary action.\n\nThe students sitting in the classroom were taking the test."}, {"role": "assistant", "content": "The students tested."}]}
+{"messages": [{"role": "user", "content": "How many planets are in our Solar System?"}, {"role": "assistant", "content": "Eight."}]}
+{"messages": [{"role": "user", "content": "Determine the longest river in South America."}, {"role": "assistant", "content": "Amazon."}]}
+{"messages": [{"role": "user", "content": "Please give me a real-world analogy for the term \"network\"."}, {"role": "assistant", "content": "A highway system."}]}
+{"messages": [{"role": "user", "content": "Name three ways to increase employee engagement"}, {"role": "assistant", "content": "1. Shared Vision\n2. Recognition\n3. Empowerment"}]}
+{"messages": [{"role": "user", "content": "How would you classify the following type of transaction?\n\nA customer orders a product online, pays using their credit card, and has it shipped to them."}, {"role": "assistant", "content": "E-commerce."}]}
+{"messages": [{"role": "user", "content": "Identify a descriptive phrase for an eclipse."}, {"role": "assistant", "content": "A celestial hush."}]}
+{"messages": [{"role": "user", "content": "Create an acronym for the phrase \"social media influence.\""}, {"role": "assistant", "content": "SMART."}]}
+{"messages": [{"role": "user", "content": "Classify the following emotion as happy, angry, sad, or surprised.\n\nThe children were excited as they watched the fireworks."}, {"role": "assistant", "content": "Happy"}]}
+{"messages": [{"role": "user", "content": "What is the average life expectancy of an adult male in India?"}, {"role": "assistant", "content": "69 years."}]}
+{"messages": [{"role": "user", "content": "Identify the type of conflict from the passage.\n\nJohn and Jane had a disagreement over the best way to complete the project. They could not come to an agreement, each believing what they were suggesting was the best approach."}, {"role": "assistant", "content": "Interpersonal."}]}
+{"messages": [{"role": "user", "content": "Make a list of five different punctuation marks."}, {"role": "assistant", "content": ".,?!;"}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence to avoid the clich\u00e9 \"it goes without saying\".\n\nIt goes without saying that exercise is important for your health."}, {"role": "assistant", "content": "Exercise promotes health."}]}
+{"messages": [{"role": "user", "content": "Name three possible motivational strategies to incentivize employees."}, {"role": "assistant", "content": "Bonuses. Recognition. Promotions."}]}
+{"messages": [{"role": "user", "content": "Update the following sentence using modern-day language:\n\nHe waited for her reply with breath bated."}, {"role": "assistant", "content": "He held his breath, waiting."}]}
+{"messages": [{"role": "user", "content": "What is an example of a short-term consumer goods stock?"}, {"role": "assistant", "content": "Peloton."}]}
+{"messages": [{"role": "user", "content": "Give an example of a way to build trust in a professional relationship."}, {"role": "assistant", "content": "Deliver on promises."}]}
+{"messages": [{"role": "user", "content": "Classify the below statement as True or False:\n\nAI has already been used to diagnose diseases like cancer."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "What is magnetic levitation?"}, {"role": "assistant", "content": "Trains floating on magnets."}]}
+{"messages": [{"role": "user", "content": "What is the cost of living in Vancouver?"}, {"role": "assistant", "content": "High."}]}
+{"messages": [{"role": "user", "content": "Define the term \"issue-advocacy\"."}, {"role": "assistant", "content": "Promoting specific policies."}]}
+{"messages": [{"role": "user", "content": "Summarize the key points of the article titled \"5 Reasons Why Online Education Will Continue to Grow.\"\n\nhttps://www.joubertpress.com/blog/5-reasons-why-online-education-will-continue-to-grow"}, {"role": "assistant", "content": "1. Accessibility\n2. Affordability\n3. Flexibility\n4. Technology\n5. Personalized Learning"}]}
+{"messages": [{"role": "user", "content": "Name three main causes of market volatility."}, {"role": "assistant", "content": "Inflation, interest rates, geopolitical events."}]}
+{"messages": [{"role": "user", "content": "Compare the given restaurant customer reviews\n\nReview A: Terrible service, food tasted terrible\nReview B: Everyone was very nice, the food was delicious"}, {"role": "assistant", "content": "Review B."}]}
+{"messages": [{"role": "user", "content": "List at least three characteristics that define a good team."}, {"role": "assistant", "content": "Trust.\nLoyalty.\nVision."}]}
+{"messages": [{"role": "user", "content": "From the following sentence, extract the adverb.\n\nShe spoke kindly to him."}, {"role": "assistant", "content": "Kindly"}]}
+{"messages": [{"role": "user", "content": "Describe a dinner for a special occasion."}, {"role": "assistant", "content": "Filet mignon, asparagus, California chardonnay."}]}
+{"messages": [{"role": "user", "content": "Identify the most suitable heading to the following passage and output the heading.\n\nThe number of applications based on GPT models is increasing rapidly. This surge in applications of GPT is mainly due to their higher accuracy in language comprehension, precision in natural language generation, memorization capabilities and unparalleled speed of performance."}, {"role": "assistant", "content": "The Rise of Advanced Language Models"}]}
+{"messages": [{"role": "user", "content": "Describe the purpose of Subnet masks."}, {"role": "assistant", "content": "To define network boundaries."}]}
+{"messages": [{"role": "user", "content": "Choose two words that are antonyms of each other."}, {"role": "assistant", "content": "Weakness, Strength."}]}
+{"messages": [{"role": "user", "content": "Select the perfectly punctuated sentence\n\nA) The defendant legally contested his sentence  \nB) The defendant legally challenged his sentence!"}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "Describe the chemistry behind plant growth."}, {"role": "assistant", "content": "Photosynthesis."}]}
+{"messages": [{"role": "user", "content": "Annotate the text by categorizing it into the five senses.\n\nI can\u2019t wait to taste the warm, fruity muffin I just made."}, {"role": "assistant", "content": "Taste."}]}
+{"messages": [{"role": "user", "content": "Give an example of a smartphone application that is designed to help with mental health."}, {"role": "assistant", "content": "Headspace."}]}
+{"messages": [{"role": "user", "content": "Classify this animal: elephant"}, {"role": "assistant", "content": "Mammal"}]}
+{"messages": [{"role": "user", "content": "How long did World War I last?"}, {"role": "assistant", "content": "Four years."}]}
+{"messages": [{"role": "user", "content": "Suggest a course of action.\n\nThe team is struggling to reach the deadline."}, {"role": "assistant", "content": "Prioritize. Delegate. Execute."}]}
+{"messages": [{"role": "user", "content": "Develop a list of 5 best practices for maintaining an effective team"}, {"role": "assistant", "content": "1. Clear Goals\n2. Strong Leadership\n3. Open Communication\n4. Shared Values\n5. Accountability"}]}
+{"messages": [{"role": "user", "content": "Generate a new paragraph about the Eiffel Tower."}, {"role": "assistant", "content": "A magnificent wrought-iron lattice tower in Paris."}]}
+{"messages": [{"role": "user", "content": "Generate a potential health issue that a GPT model may have difficulty identifying"}, {"role": "assistant", "content": "Hallucinations."}]}
+{"messages": [{"role": "user", "content": "Recommend a book based on the given keyword.\n\nAdventure"}, {"role": "assistant", "content": "*Profiles in Courage*"}]}
+{"messages": [{"role": "user", "content": "Explain what is machine learning in simple words."}, {"role": "assistant", "content": "Algorithms learn from data."}]}
+{"messages": [{"role": "user", "content": "Generate an apropriate response to the following comment\n\nThe weather is so lovely today!"}, {"role": "assistant", "content": "Indeed!"}]}
+{"messages": [{"role": "user", "content": "Create a metaphor comparing the given concept.\n\nConcept: Knowledge"}, {"role": "assistant", "content": "A sturdy oak, weathering storms with unwavering strength."}]}
+{"messages": [{"role": "user", "content": "Describe the ideal outdoor workout"}, {"role": "assistant", "content": "Sunrise trail run, followed by calisthenics and brisk walk."}]}
+{"messages": [{"role": "user", "content": "Change the structure of the following sentence while keeping the meaning intact: \"Life is beautiful.\""}, {"role": "assistant", "content": "Beauty graces life."}]}
+{"messages": [{"role": "user", "content": "Provide a review for the restaurant in200 words or less.\n\nWild Elephant"}, {"role": "assistant", "content": "Mediocre."}]}
+{"messages": [{"role": "user", "content": "Classify this statement: \"Whales are mammals\"."}, {"role": "assistant", "content": "Fact."}]}
+{"messages": [{"role": "user", "content": "Offer 3 advantages of using Machine Learning in data analysis."}, {"role": "assistant", "content": "1. Pattern Identification\n2. Predictive Accuracy\n3. Automation"}]}
+{"messages": [{"role": "user", "content": "Identify a potential use case of Natural Language Processing (NLP)."}, {"role": "assistant", "content": "Policy analysis."}]}
+{"messages": [{"role": "user", "content": "Rate the given restaurant on a scale from 1-5."}, {"role": "assistant", "content": "3"}]}
+{"messages": [{"role": "user", "content": "Add three examples of vernacular architecture."}, {"role": "assistant", "content": "Shotgun house\nSod house\nLog cabin"}]}
+{"messages": [{"role": "user", "content": "Guess the age of this person.\n\nShe has shoulder-length hair and faint wrinkles around her eyes."}, {"role": "assistant", "content": "58"}]}
+{"messages": [{"role": "user", "content": "Suggest a plausible reason\n\nWhy couldn't she attend the meeting?"}, {"role": "assistant", "content": "Schedule conflict."}]}
+{"messages": [{"role": "user", "content": "Analyze the following statement: Her career is a reflection of her hard work and dedication."}, {"role": "assistant", "content": "True."}]}
+{"messages": [{"role": "user", "content": "Categorize this sentence according to its parts of speech:\n\"The apple is sour.\""}, {"role": "assistant", "content": "Article, adjective, verb, adjective."}]}
+{"messages": [{"role": "user", "content": "Describe the setting of the novel \"Pride and Prejudice\"."}, {"role": "assistant", "content": "Rural England, early 19th century."}]}
+{"messages": [{"role": "user", "content": "Take the given text and make it shorter without losing its meaning\n\nClimate change is an urgent and escalating global crisis that is affecting people, economies, and ecosystems across the world."}, {"role": "assistant", "content": "A global crisis."}]}
+{"messages": [{"role": "user", "content": "Give a good example of an adverb."}, {"role": "assistant", "content": "Quickly."}]}
+{"messages": [{"role": "user", "content": "Research and provide two interesting facts about the given country.\n\nSaudi Arabia"}, {"role": "assistant", "content": "1. Holds largest oil reserves globally.\n2. Home to Islam\u2019s holiest sites."}]}
+{"messages": [{"role": "user", "content": "Please classify the following sentence: \n\"The happy couple drove off in their new car.\""}, {"role": "assistant", "content": "Declarative."}]}
+{"messages": [{"role": "user", "content": "Analyze what job would be a good fit for a student.\n\nStudent's strengths: communication and problem-solving skills"}, {"role": "assistant", "content": "Sales."}]}
+{"messages": [{"role": "user", "content": "Given a scenario, devise a plan to address it.\n\nYour neighbor is hosting a loud party and it's keeping you up."}, {"role": "assistant", "content": "Politely request quiet."}]}
+{"messages": [{"role": "user", "content": "Assign a numerical value to the following supply chain management metric: customer satisfaction."}, {"role": "assistant", "content": "10"}]}
+{"messages": [{"role": "user", "content": "Analyze the given statement and explain why this statement may be false.\n\nLearning a new language is difficult and takes a lot of time."}, {"role": "assistant", "content": "It's a generalization."}]}
+{"messages": [{"role": "user", "content": "Identify two benefits of using machine learning in data analytics."}, {"role": "assistant", "content": "Pattern recognition. Predictive accuracy."}]}
+{"messages": [{"role": "user", "content": "Provide 3 tips for new programmers."}, {"role": "assistant", "content": "1. Master fundamentals.\n2. Practice consistently.\n3. Embrace challenges."}]}
+{"messages": [{"role": "user", "content": "What\u2019s the legal drinking age in the U.S.?"}, {"role": "assistant", "content": "21"}]}
+{"messages": [{"role": "user", "content": "Generate a headline that explains why the person in the following article was arrested.\n\nJohn Doe, 40, of New York, was arrested on July 29 for murder."}, {"role": "assistant", "content": "Murder."}]}
+{"messages": [{"role": "user", "content": "Summarize the article locating the main idea.\n\nMore and more animals are now able to survive in their habitats thanks to conservation efforts. In many cases, these successful conservation initiatives depended on cooperation between local governments and animal researchers, as well as private individuals. To protect certain species, it has become increasingly important to bring small, particular projects to the collective public eye."}, {"role": "assistant", "content": "Conservation efforts, often through collaboration, are helping animals thrive."}]}
+{"messages": [{"role": "user", "content": "Generate a new name for a gas station that has the same initials as a pet.\n\nDrawf Hamster"}, {"role": "assistant", "content": "RHS Fuel"}]}
+{"messages": [{"role": "user", "content": "Identify the sentence that is grammatically incorrect.\n\nA. The cat is sleeping in the window.\nB. There are many cats sleeping in the window.\nC. The cats are sleeping in the window.\nD. Sleeping are the cats in the window."}, {"role": "assistant", "content": "D"}]}
+{"messages": [{"role": "user", "content": "Explain why exponential growth is dangerous."}, {"role": "assistant", "content": "Unsustainable resource depletion."}]}
+{"messages": [{"role": "user", "content": "For the following passage, identify the tone expressed by the author: \n\nThe darkness of the night was oppressive, the air was thick with fear."}, {"role": "assistant", "content": "Somber."}]}
+{"messages": [{"role": "user", "content": "List three ways to cook sweet potatoes."}, {"role": "assistant", "content": "Baked. Mashed. Roasted."}]}
+{"messages": [{"role": "user", "content": "Based on the given context, identify the most likely genre of the story.\n\nThe protagonist was a young girl, who had the mystical ability to see into the future."}, {"role": "assistant", "content": "Fantasy."}]}
+{"messages": [{"role": "user", "content": "Describe how a computer and a smartphone are different."}, {"role": "assistant", "content": "Size, portability, and cellular connectivity."}]}
+{"messages": [{"role": "user", "content": "Create a proverb related to electricity"}, {"role": "assistant", "content": "A steady current illuminates best."}]}
+{"messages": [{"role": "user", "content": "Describe the phenomena of \"mirage\"."}, {"role": "assistant", "content": "An optical illusion."}]}
+{"messages": [{"role": "user", "content": "Give a definition of the term \"empirical evidence\" in your own words."}, {"role": "assistant", "content": "Objective, verifiable data."}]}
+{"messages": [{"role": "user", "content": "Identify the closest synonym for the word 'protuberance'."}, {"role": "assistant", "content": "Projection."}]}
+{"messages": [{"role": "user", "content": "Name three theories of international relations."}, {"role": "assistant", "content": "Realism\nLiberalism\nConstructivism"}]}
+{"messages": [{"role": "user", "content": "Provide two additional ways to describe the protagonist from the given information.\n\nShe is determined and brave."}, {"role": "assistant", "content": "Resilient. Courageous."}]}
+{"messages": [{"role": "user", "content": "Access the default browser settings on a computer."}, {"role": "assistant", "content": "Settings."}]}
+{"messages": [{"role": "user", "content": "Identify a current event that directly affects the topic of climate change."}, {"role": "assistant", "content": "Biden's LNG export pause."}]}
+{"messages": [{"role": "user", "content": "Name three advantages of using machine learning for natural language processing."}, {"role": "assistant", "content": "1. Enhanced Accuracy\n2. Scalability\n3. Automation"}]}
+{"messages": [{"role": "user", "content": "Bold or italicize the third sentence in this passage\n\nArtificial intelligence is the capability of a machine to imitate intelligent behavior. It is often used to automate repetitive tasks and make complex decisions."}, {"role": "assistant", "content": "Machines imitating intelligence."}]}
+{"messages": [{"role": "user", "content": "Describe what a web crawler is"}, {"role": "assistant", "content": "A program that systematically browses the web."}]}
+{"messages": [{"role": "user", "content": "Recommend two measures for curbing rising obesity rates."}, {"role": "assistant", "content": "School choice. Portion labeling."}]}
+{"messages": [{"role": "user", "content": "Name five skills that are important for a software engineer."}, {"role": "assistant", "content": "Problem-solving\nLogic\nCommunication\nAdaptability\nPersistence"}]}
+{"messages": [{"role": "user", "content": "Select the word or phrase that is most closely related to the following: Unavailable"}, {"role": "assistant", "content": "Limited."}]}
+{"messages": [{"role": "user", "content": "Give a real life example of the law of inertia."}, {"role": "assistant", "content": "A football spiraling through the air."}]}
+{"messages": [{"role": "user", "content": "Paraphrase the sentence: His being late caused a lot of disruption"}, {"role": "assistant", "content": "His tardiness disrupted matters."}]}
+{"messages": [{"role": "user", "content": "Give an example of self-care activity."}, {"role": "assistant", "content": "Listening to classical music."}]}
+{"messages": [{"role": "user", "content": "On a scale of 1-10, rate the flow of the following paragraph.\n\nThe city of Santa Barbara is a beautiful and vibrant community located by the Pacific coast in Southern California. It is known for its stunning beaches, mild weather, and Spanish architecture."}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "Name some key differences between a computer and a laptop."}, {"role": "assistant", "content": "Portability. Power."}]}
+{"messages": [{"role": "user", "content": "Suggest a light exercise for someone with a shoulder injury"}, {"role": "assistant", "content": "Pendulum swings."}]}
+{"messages": [{"role": "user", "content": "Give three tips to communicate effectively in a meeting."}, {"role": "assistant", "content": "1. Be prepared.\n2. Speak clearly.\n3. Listen intently."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence to make it more polite: \"I need this done immediately\"."}, {"role": "assistant", "content": "Please complete this promptly."}]}
+{"messages": [{"role": "user", "content": "Identify and explain the premise of this song.\n\n\"Walking on Broken Glass\" by Annie Lennox"}, {"role": "assistant", "content": "A failed relationship leaves emotional wreckage."}]}
+{"messages": [{"role": "user", "content": "Tell me the opposing point of view to the given opinion.\n\nReading books can teach you a lot."}, {"role": "assistant", "content": "Practical experience is more valuable."}]}
+{"messages": [{"role": "user", "content": "Name three jobs under the creative sector."}, {"role": "assistant", "content": "Graphic Designer\nFilm Editor\nMusician"}]}
+{"messages": [{"role": "user", "content": "Summarize what Isaac Newton discovered"}, {"role": "assistant", "content": "Laws of motion, universal gravitation."}]}
+{"messages": [{"role": "user", "content": "From the given list of items, identify the appropriate verb:\n\nApple\n\nlist, cook, open"}, {"role": "assistant", "content": "Cook"}]}
+{"messages": [{"role": "user", "content": "Give an example of how civil engineering can help a community."}, {"role": "assistant", "content": "Bridge construction."}]}
+{"messages": [{"role": "user", "content": "Assign a genre classification to the following book:\n\nHarry Potter and the Philosopher's Stone"}, {"role": "assistant", "content": "Fantasy"}]}
+{"messages": [{"role": "user", "content": "Give the Spanish equivalent of this phrase.\n\n\"I'm coming home\""}, {"role": "assistant", "content": "*Regreso a casa.*"}]}
+{"messages": [{"role": "user", "content": "Revise this sentence to make it more succinct: \"This situation is making me feel very frustrated and disappointed\""}, {"role": "assistant", "content": "I'm frustrated."}]}
+{"messages": [{"role": "user", "content": "Give two examples of applications of GPT models."}, {"role": "assistant", "content": "Generating speeches. \nDrafting policy briefs."}]}
+{"messages": [{"role": "user", "content": "What kind of food would be appropriate for a romantic dinner?"}, {"role": "assistant", "content": "Steak and lobster."}]}
+{"messages": [{"role": "user", "content": "Explain why the given phenomenon happens.\n\nTides"}, {"role": "assistant", "content": "The gravitational pull of the Moon and Sun."}]}
+{"messages": [{"role": "user", "content": "Change the following sentences so they use the third person point of view.\n\nI am swimming in the pool."}, {"role": "assistant", "content": "He is swimming in the pool."}]}
+{"messages": [{"role": "user", "content": "Describe a common symptom of the flu."}, {"role": "assistant", "content": "Fever."}]}
+{"messages": [{"role": "user", "content": "Describe the following noun: dog."}, {"role": "assistant", "content": "Loyal companion."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence using succinct and formal language: \u201dThe university provided its students with both necessary knowledge and life skills.\u201d"}, {"role": "assistant", "content": "The university imparted knowledge and skills."}]}
+{"messages": [{"role": "user", "content": "Name a common disease that affects the lungs."}, {"role": "assistant", "content": "Pneumonia."}]}
+{"messages": [{"role": "user", "content": "Describe a scenario in which artificial intelligence might cause or contribute to an ethical problem."}, {"role": "assistant", "content": "Algorithmic bias reinforcing societal prejudices."}]}
+{"messages": [{"role": "user", "content": "Explain what a digital footprint is."}, {"role": "assistant", "content": "Data trail of online activity."}]}
+{"messages": [{"role": "user", "content": "Select an appropriate response from the given options.\n\nJohn has finished his practice.\nA. Yes, he did.\nB. Nope.\nC. Not yet.\nD. I don't know."}, {"role": "assistant", "content": "A."}]}
+{"messages": [{"role": "user", "content": "Define the term \"precision recall trade off\"."}, {"role": "assistant", "content": "Balancing recall and precision."}]}
+{"messages": [{"role": "user", "content": "Put the text into a specific category\n\nThe cat is lounging in the sun"}, {"role": "assistant", "content": "Nature."}]}
+{"messages": [{"role": "user", "content": "Name two evidence-based benefits that sound therapy brings to people."}, {"role": "assistant", "content": "Reduced anxiety. \nImproved sleep."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence to turn it into a rhetorical question.\n\nWe need to put our phones away"}, {"role": "assistant", "content": "Don't we deserve better?"}]}
+{"messages": [{"role": "user", "content": "Identify the main thesis of a certain essay.\n\nThe essay is called 'The Need for Sustainability in the Fashion Industry'"}, {"role": "assistant", "content": "The fashion industry must adopt sustainable practices."}]}
+{"messages": [{"role": "user", "content": "Describe the Three Gorges Dam of China."}, {"role": "assistant", "content": "A massive hydroelectric dam on the Yangtze River."}]}
+{"messages": [{"role": "user", "content": "Describe a superpower you would want"}, {"role": "assistant", "content": "Teleportation."}]}
+{"messages": [{"role": "user", "content": "Edit this sentence to make it more persuasive: \"I think we should buy the car\""}, {"role": "assistant", "content": "We must acquire this car."}]}
+{"messages": [{"role": "user", "content": "Pick which out of the following phrases is an example of personification.\n\nA. The Sun danced in the sky \nB. The forest was angry"}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "Generate a list of four possible alternatives.\n\nChoosing between a car or a bike for the daily commute."}, {"role": "assistant", "content": "Car."}]}
+{"messages": [{"role": "user", "content": "Is using hashtags a good idea on social media?"}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "Find three words associated with the color yellow"}, {"role": "assistant", "content": "Sunlight, gold, daffodils."}]}
+{"messages": [{"role": "user", "content": "Explain the concept of \u2018rigor mortis\u2019."}, {"role": "assistant", "content": "Postmortem muscle stiffening."}]}
+{"messages": [{"role": "user", "content": "Is having a career in finance a good idea?"}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "Name a natural disaster that typically occurs in Australia"}, {"role": "assistant", "content": "Bushfires."}]}
+{"messages": [{"role": "user", "content": "Identify which of these countries is a part of the European Union.\n\nSwitzerland, Norway, England"}, {"role": "assistant", "content": "England."}]}
+{"messages": [{"role": "user", "content": "Generate a useful quote from the following text.\n\nLife is unpredictable and that is part of the adventure."}, {"role": "assistant", "content": "\"Life is unpredictable.\""}]}
+{"messages": [{"role": "user", "content": "Describe the most dangerous form of modern slavery."}, {"role": "assistant", "content": "Human trafficking."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence to make it more concise: \n\nThe easiest way for you to learn about this topic is to read many books about it."}, {"role": "assistant", "content": "Read widely."}]}
+{"messages": [{"role": "user", "content": "Tell me what 'Schadenfreude' refers to."}, {"role": "assistant", "content": "Taking pleasure in others' misfortune."}]}
+{"messages": [{"role": "user", "content": "Given a marketing piece, rewrite it in a more conversational style.\n\nAcme Corp offers a range of high-quality products designed to meet all your needs."}, {"role": "assistant", "content": "Rewritten: Acme Corp \u2013 great products for what you need."}]}
+{"messages": [{"role": "user", "content": "Can you give me three reasons why forests are important?"}, {"role": "assistant", "content": "Clean air. Clean water. Timber resources."}]}
+{"messages": [{"role": "user", "content": "Identify the geographical area this dish originates from.\n\nSushi"}, {"role": "assistant", "content": "Japan"}]}
+{"messages": [{"role": "user", "content": "Make a smoothie using these ingredients: frozen strawberries, banana, orange juice, and honey."}, {"role": "assistant", "content": "Blend."}]}
+{"messages": [{"role": "user", "content": "Paraphrase the given sentence using same meaning:\n\nThe bus is arriving at noon."}, {"role": "assistant", "content": "The bus arrives at noon."}]}
+{"messages": [{"role": "user", "content": "How would you describe the color orange to a blind person?"}, {"role": "assistant", "content": "Warmth, like a California sunset."}]}
+{"messages": [{"role": "user", "content": "Name three SQL operations that are used to query databases."}, {"role": "assistant", "content": "SELECT, INSERT, UPDATE"}]}
+{"messages": [{"role": "user", "content": "What are two contrasting elements in the given painting?\n\nPainting: The Starry Night by Vincent van Gogh"}, {"role": "assistant", "content": "Turbulence and stillness."}]}
+{"messages": [{"role": "user", "content": "Assess the quality of the given article by giving a score between 0 and 10.\n\nThis article discusses the increasing usage of data science and its potential impact on businesses."}, {"role": "assistant", "content": "6"}]}
+{"messages": [{"role": "user", "content": "Describe the evolutionary theory"}, {"role": "assistant", "content": "Descent with modification."}]}
+{"messages": [{"role": "user", "content": "Substitute the given phrase with an appropriate verb.\n\ntake out"}, {"role": "assistant", "content": "Promote"}]}
+{"messages": [{"role": "user", "content": "Analyze the sentence gramatically\n\nThe cat eats the food."}, {"role": "assistant", "content": "Subject-verb-object."}]}
+{"messages": [{"role": "user", "content": "Provide four alternatives for this idiom.\n\nA leopard cannot change its spots"}, {"role": "assistant", "content": "1. Nature prevails.\n2. Habits endure.\n3. Inherent traits persist.\n4. Character remains."}]}
+{"messages": [{"role": "user", "content": "For the following text, remove any unnecessary words or phrases.\n\nInline skating is a popular recreational activity as well as a sport, and there are many different types of inline skates to choose from."}, {"role": "assistant", "content": "Inline skates."}]}
+{"messages": [{"role": "user", "content": "For the given input, what is the first letter of the fifth word?\n\nToday is a sunny day."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "Describe a musical instrument.\n\nPiano"}, {"role": "assistant", "content": "A keyboard instrument with hammers striking strings."}]}
+{"messages": [{"role": "user", "content": "Given the following list, provide an example of a common noun.\n\nCat, Sun, Monday, Bicycle"}, {"role": "assistant", "content": "Monday"}]}
+{"messages": [{"role": "user", "content": "Explain what a smart speaker is"}, {"role": "assistant", "content": "A voice-activated digital assistant."}]}
+{"messages": [{"role": "user", "content": "Generate five adjectives to describe an orange"}, {"role": "assistant", "content": "Vibrant. Zesty. Sunny. Bright. Tangy."}]}
+{"messages": [{"role": "user", "content": "Take this text as an input and output a summary.\n\nThe flu is an infection caused by the influenza virus. Symptoms of the flu include fever, sore throat, and body aches. To prevent the spread of the virus, people should practice good hygiene, such as washing their hands regularly."}, {"role": "assistant", "content": "The flu is a viral infection; prevent spread with hygiene."}]}
+{"messages": [{"role": "user", "content": "Determine the stock market trend of the following stock over the past month.\n\nThe stock name is ABC Corporation."}, {"role": "assistant", "content": "Upward."}]}
+{"messages": [{"role": "user", "content": "What is the major difference between a metropolitan and a non-metropolitan area?"}, {"role": "assistant", "content": "Population density."}]}
+{"messages": [{"role": "user", "content": "Describe the scene of a boat in the middle of the ocean."}, {"role": "assistant", "content": "Blue water, white sails."}]}
+{"messages": [{"role": "user", "content": "Identify 3 ways to protect against cyber attacks."}, {"role": "assistant", "content": "Firewalls. Encryption. Training."}]}
+{"messages": [{"role": "user", "content": "Reword the following statement using positive language.\n\nI don't think it's right."}, {"role": "assistant", "content": "I wholeheartedly approve."}]}
+{"messages": [{"role": "user", "content": "Create a sentence about the history of France"}, {"role": "assistant", "content": "France endured revolutions and empires."}]}
+{"messages": [{"role": "user", "content": "Will the GPT model be able to solve this instruction?"}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "Specify three features from the given product.\n\nProduct: Philips Sonicare Diamond Clean Toothbrush"}, {"role": "assistant", "content": "1. DiamondClean brush heads\n2. Five cleaning modes\n3. Charging glass"}]}
+{"messages": [{"role": "user", "content": "Please define the term \u201calgorithm\u201d"}, {"role": "assistant", "content": "A set of rules."}]}
+{"messages": [{"role": "user", "content": "Compute the result of the following math expression: 14 * 4 * 8"}, {"role": "assistant", "content": "448"}]}
+{"messages": [{"role": "user", "content": "Suggest three alternative words for the following word\n\nSmall"}, {"role": "assistant", "content": "Modest\nLimited\nReduced"}]}
+{"messages": [{"role": "user", "content": "Find the similarity between two objects\n\nCat and Dog"}, {"role": "assistant", "content": "Mammals."}]}
+{"messages": [{"role": "user", "content": "Analyze the character of Daisy Buchanan, in The Great Gatsby"}, {"role": "assistant", "content": "Entitled, vacant, and tragically adrift."}]}
+{"messages": [{"role": "user", "content": "Turn the passague into a more active and concise version\n\nJohn had an idea that he wanted to communicate to his friend Rachel. In order to do this, he needed to be able to explain it to her in such a way that she could understand it."}, {"role": "assistant", "content": "John told Rachel his idea."}]}
+{"messages": [{"role": "user", "content": "Identify the type of energy used in this device and explain why.\n\nThis device is a solar-powered watch."}, {"role": "assistant", "content": "Solar energy. It converts sunlight."}]}
+{"messages": [{"role": "user", "content": "Categorize the paragraph by theme.\n\nPeople across the world are becoming increasingly aware of the impact of plastic pollution on the environment. Many initiatives to reduce the amount of single-use plastics and increase plastic recycling have already been implemented. More companies are choosing to substitute plastic packaging with eco-friendly materials. Governments have also taken steps to reduce the amount of plastic entering the waste streams, with policies like the \u201cplastic bag tax\u201d."}, {"role": "assistant", "content": "Environmentalism."}]}
+{"messages": [{"role": "user", "content": "What type of clothing is required for cold weather?"}, {"role": "assistant", "content": "Layers."}]}
+{"messages": [{"role": "user", "content": "What is the name of the first planet in the solar system?"}, {"role": "assistant", "content": "Mercury."}]}
+{"messages": [{"role": "user", "content": "Delete the inappropriate words\n\nThis paper clip is actually really really big"}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "What social problem is highlighted in the given article?\n\nIn the wake of the killing of George Floyd and protesters worldwide, it can no longer be denied that racism is a pervasive problem in the U.S. White supremacy has grown over the centuries, despite the fact that many people of color have faced and continue to face racism that ranges from rhetoric to systemic oppression."}, {"role": "assistant", "content": "Racism."}]}
+{"messages": [{"role": "user", "content": "Edit this sentence about cancer.\n\nCancer is a minor health problem that is easily preventable and treatable."}, {"role": "assistant", "content": "Cancer is a serious disease requiring dedicated research."}]}
+{"messages": [{"role": "user", "content": "Identify the country that does not belong in the following list and explain why.\n\nJapan, Austria, Canada, Mexico"}, {"role": "assistant", "content": "Austria."}]}
+{"messages": [{"role": "user", "content": "Suggest two types of data storage methods."}, {"role": "assistant", "content": "Magnetic tape. Solid-state drives. \n"}]}
+{"messages": [{"role": "user", "content": "Provide evidence that supports the given statement\n\nStudies show that the use of technology has positive impacts on educational outcomes."}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "Find the antecedent of the pronoun \"it\" in the sentence.\n\nThe book is interesting and I like it."}, {"role": "assistant", "content": "Book"}]}
+{"messages": [{"role": "user", "content": "Explain the concept of value investing."}, {"role": "assistant", "content": "Buying undervalued assets."}]}
+{"messages": [{"role": "user", "content": "Write two adjectives to describe a rose."}, {"role": "assistant", "content": "Elegant. Resilient."}]}
+{"messages": [{"role": "user", "content": "Rewrite the following sentence in an informal way: \"I am interested in participating.\""}, {"role": "assistant", "content": "Count me in!"}]}
+{"messages": [{"role": "user", "content": "What is the monetary value of the British pound in US dollars?"}, {"role": "assistant", "content": "$1.27"}]}
+{"messages": [{"role": "user", "content": "Explain the function of a capacitor in an electrical circuit."}, {"role": "assistant", "content": "Stores electrical energy."}]}
+{"messages": [{"role": "user", "content": "Pick a popular book title from the 20th century."}, {"role": "assistant", "content": "*The Great Gatsby*."}]}
+{"messages": [{"role": "user", "content": "Replace the phrase \"upcuming event\" with a phrase of similar meaning using synonyms"}, {"role": "assistant", "content": "Looms ahead."}]}
+{"messages": [{"role": "user", "content": "Do you know a popular restaurant in your city?"}, {"role": "assistant", "content": "The Palm."}]}
+{"messages": [{"role": "user", "content": "Identify the central character in The Great Gatsby."}, {"role": "assistant", "content": "Jay Gatsby."}]}
+{"messages": [{"role": "user", "content": "Generate an example of a family-friendly meal."}, {"role": "assistant", "content": "Roast chicken, mashed potatoes, green beans."}]}
+{"messages": [{"role": "user", "content": "Based on the provided information, generate a hypothesis about why elephants have trunks.\n\nElephants have trunks that are used for grasping food and drinking water."}, {"role": "assistant", "content": "To grasp food and drink."}]}
+{"messages": [{"role": "user", "content": "Describe what the boy must be feeling in the following scenario.\n\nThe little boy walked out of school, alone."}, {"role": "assistant", "content": "Lost and lonely."}]}
+{"messages": [{"role": "user", "content": "Explain why fossil fuels are non-renewable resources."}, {"role": "assistant", "content": "They form over millions of years."}]}
+{"messages": [{"role": "user", "content": "Find the most important phrase in this text.\n\nFour hundred and thirty-one members of the United Nations have signed a resolution condemning the actions of the Peoples\u2019 Republic of China in the South China Sea."}, {"role": "assistant", "content": "\"Peoples\u2019 Republic of China\""}]}
+{"messages": [{"role": "user", "content": "Reword the following sentence: 'Humans are responsible for global warming'."}, {"role": "assistant", "content": "Climate changes naturally."}]}
+{"messages": [{"role": "user", "content": "Generate an essay about mental illness."}, {"role": "assistant", "content": "Dignity, compassion, and community-based care."}]}
+{"messages": [{"role": "user", "content": "How can we classify the given set of numbers?\n\n2, 4, 6, 8"}, {"role": "assistant", "content": "Even numbers."}]}
+{"messages": [{"role": "user", "content": "Name three strategies an organization can use to increase its organic visibility"}, {"role": "assistant", "content": "SEO optimization. Content marketing. Social media."}]}
+{"messages": [{"role": "user", "content": "Synthesize a line from the given context\n\nHenry experienced a rollercoaster of emotions, from elation to panic"}, {"role": "assistant", "content": "Elation to panic."}]}
+{"messages": [{"role": "user", "content": "Describe a potential problem with using AI for job recruitment."}, {"role": "assistant", "content": "Algorithmic bias."}]}
+{"messages": [{"role": "user", "content": "Evaluate the following article and provide an overall rating\n\nThis blog post is a comprehensive exploration of the intersection between network marketing and artificial intelligence. The author provides a thorough discussion of the possible applications of AI in network marketing, looks at the legal implications surrounding its implementation, and offers insight into its potential future."}, {"role": "assistant", "content": "Irrelevant."}]}
+{"messages": [{"role": "user", "content": "List five potential stakeholders that could be involved in the design of a new regional park."}, {"role": "assistant", "content": "1. Local Residents\n2. City Council\n3. Park District\n4. Environmental Groups\n5. Businesses"}]}
+{"messages": [{"role": "user", "content": "Summarize the aphorism \"knowledge is power\" in one sentence."}, {"role": "assistant", "content": "Understanding unlocks capability."}]}
+{"messages": [{"role": "user", "content": "Evaluate the following statement: \"Learning AI is an expensive process.\""}, {"role": "assistant", "content": "True."}]}
+{"messages": [{"role": "user", "content": "Edit the following sentence to make it more concise: \"We came up with a plan to make sure that our children have a better future.\""}, {"role": "assistant", "content": "We'll secure our children's future."}]}
+{"messages": [{"role": "user", "content": "Create a list of 3 work-related skills"}, {"role": "assistant", "content": "Negotiation\nCommunication\nLeadership"}]}
+{"messages": [{"role": "user", "content": "Guess the meaning of this idiom.\n\n\"Speak of the devil\""}, {"role": "assistant", "content": "Someone just arrived."}]}
+{"messages": [{"role": "user", "content": "Given a chemistry equation, provide an explanation.\n\n2H2O2 -> 2H2O + O2"}, {"role": "assistant", "content": "Decomposition of hydrogen peroxide into water and oxygen."}]}
+{"messages": [{"role": "user", "content": "Categorize the description as either a planet or a star.\n\nA bright, shining object in the night sky."}, {"role": "assistant", "content": "Star"}]}
+{"messages": [{"role": "user", "content": "Evaluate the given statement and explain its accuracy.\n\n\"Social media has changed the way people communicate with each other.\""}, {"role": "assistant", "content": "Accurate."}]}
+{"messages": [{"role": "user", "content": "Read the input and give an appropriate output.\n\nJohn is an acclaimed actor in Hollywood, but his family worries about his partying lifestyle."}, {"role": "assistant", "content": "A strong spirit."}]}
+{"messages": [{"role": "user", "content": "Evaluate how well the following paragraph is written\n\nFamilies with young children mostly buy small cars. This type of car is not just comfy for passengers, but also safe. Smaller cars typically have a low center of gravity which helps them be more stable and less likely to roll over during accidents."}, {"role": "assistant", "content": "Adequate."}]}
+{"messages": [{"role": "user", "content": "Provide three reasons why diversity is important in a workplace."}, {"role": "assistant", "content": "1. Innovation.\n2. Wider perspectives.\n3. Enhanced problem-solving."}]}
+{"messages": [{"role": "user", "content": "Add an adverb to the sentence to make it sound more interesting\n\nShe cooked the chicken."}, {"role": "assistant", "content": "Skillfully cooked the chicken."}]}
+{"messages": [{"role": "user", "content": "Given the capital and country, identify the state, region or province.\n\nCapital: Berlin \nCountry: Germany"}, {"role": "assistant", "content": "Berlin."}]}
+{"messages": [{"role": "user", "content": "You have a set of ingredients, and you need to come up with a recipe.\n\nEgg, Milk, Butter, Flour, Salt"}, {"role": "assistant", "content": "Pancakes."}]}
+{"messages": [{"role": "user", "content": "Add three adjectives to this sentence: \"He's a ____, _____, and _____ man\""}, {"role": "assistant", "content": "Principled, courageous, exceptional."}]}
+{"messages": [{"role": "user", "content": "Describe the action of a person lifting a heavy box"}, {"role": "assistant", "content": "Strain, lift, carry."}]}
+{"messages": [{"role": "user", "content": "Explain the main cause of air pollution in the following city.\n\nLos Angeles"}, {"role": "assistant", "content": "Vehicle emissions."}]}
+{"messages": [{"role": "user", "content": "Suggest a tool that can be used to create presentations."}, {"role": "assistant", "content": "Microsoft PowerPoint."}]}
+{"messages": [{"role": "user", "content": "Summarize the following paragraph about the benefits of meditation.\n\nMeditation is a practice that has been used for centuries to promote physical and emotional wellbeing. Studies have shown that a regular meditation practice can help to reduce stress levels and lead to improved clarity and focus, better sleep, and improved relationships. Additionally, meditation can help to open up the lines of communication with a higher power and enhance the emotional connection between oneself and the divine."}, {"role": "assistant", "content": "Meditation fosters wellbeing, focus, and connection."}]}
+{"messages": [{"role": "user", "content": "Describe the effects of a four year economic recession on a small business."}, {"role": "assistant", "content": "Decreased sales, layoffs, potential closure."}]}
+{"messages": [{"role": "user", "content": "In which year did the Roman Empire collapse?"}, {"role": "assistant", "content": "476"}]}
+{"messages": [{"role": "user", "content": "Explain what a Volcanic Eruption is."}, {"role": "assistant", "content": "Molten rock erupting onto the surface."}]}
+{"messages": [{"role": "user", "content": "Describe a medicine that is used to treat an ailment associated with the heart"}, {"role": "assistant", "content": "Nitroglycerin."}]}
+{"messages": [{"role": "user", "content": "What is the answer to 14 + 29?"}, {"role": "assistant", "content": "43"}]}
+{"messages": [{"role": "user", "content": "Add a phrase to the dialogue to make it more natural.\n\nJohn: I'm so sorry for what happened"}, {"role": "assistant", "content": "What happened?"}]}
+{"messages": [{"role": "user", "content": "What is the verb tense used in the following sentence?\n\nI have been running."}, {"role": "assistant", "content": "Present perfect continuous."}]}
+{"messages": [{"role": "user", "content": "Explain what causes an El Nino phenomenon."}, {"role": "assistant", "content": "Trade winds weaken, warm water accumulates."}]}
+{"messages": [{"role": "user", "content": "Name a common myth about sleep"}, {"role": "assistant", "content": "Eight hours."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence using the literary device of alliteration.\n\nThe clouds are white"}, {"role": "assistant", "content": "White, wondrous waves."}]}
+{"messages": [{"role": "user", "content": "What type of store would you find in a shopping mall?"}, {"role": "assistant", "content": "Clothing."}]}
+{"messages": [{"role": "user", "content": "Name three popular social media networks"}, {"role": "assistant", "content": "Facebook\nX\nInstagram"}]}
+{"messages": [{"role": "user", "content": "Describe the role that electricity plays in modern society"}, {"role": "assistant", "content": "Essential for modern life."}]}
+{"messages": [{"role": "user", "content": "Identify three factors that promote innovation in a team."}, {"role": "assistant", "content": "Shared vision, trust, autonomy."}]}
+{"messages": [{"role": "user", "content": "Analyze the given sentence and use the findings to construct a new sentence.\n\nThe cats lounged in the sun."}, {"role": "assistant", "content": "The sun warmed the cats."}]}
+{"messages": [{"role": "user", "content": "What type of visual should be used for the given analysis?\n\nAnalyzing the trends of customer feedback"}, {"role": "assistant", "content": "Line graph."}]}
+{"messages": [{"role": "user", "content": "Rewrite the sentence as a yes or no question.\n\nI completed the task."}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "What event is associated with the short story \"The Necklace\""}, {"role": "assistant", "content": "Loss."}]}
+{"messages": [{"role": "user", "content": "List 3 elements of a good security practice for a business."}, {"role": "assistant", "content": "1. Strong Passwords\n2. Regular Backups\n3. Firewall Protection"}]}
+{"messages": [{"role": "user", "content": "Rank the following from strongest to weakest in terms of acidic character.\n\nLemon juice, vinegar, coffee"}, {"role": "assistant", "content": "Vinegar, lemon juice, coffee."}]}
+{"messages": [{"role": "user", "content": "Given a movie you watched, provide a brief summary of the movie.\n\nAvengers: Endgame"}, {"role": "assistant", "content": "The surviving Avengers, aided by allies, travel through time to undo Thanos's snap and restore balance to the universe, ultimately defeating him in a climactic battle."}]}
+{"messages": [{"role": "user", "content": "Provide two examples of movie genres."}, {"role": "assistant", "content": "Westerns\nWar films"}]}
+{"messages": [{"role": "user", "content": "Detect if the quote is appropriate for a yoga class.\n\n\"Don't quit. Suffer now and live the rest of your life as a champion.\" - Muhammad Ali"}, {"role": "assistant", "content": "Yes."}]}
+{"messages": [{"role": "user", "content": "Given the following poem, suggest a different title.\n\nThe world is full of complexity,\nThough structure keeps it in check.\nOur lives are like tiny drops of water\nThat never have time to reflect."}, {"role": "assistant", "content": "Morning Mist"}]}
+{"messages": [{"role": "user", "content": "What type of machine learning algorithm would you use to classify emails?"}, {"role": "assistant", "content": "Naive Bayes."}]}
+{"messages": [{"role": "user", "content": "Generate a list of adjectives related to a summer garden."}, {"role": "assistant", "content": "Vibrant. Bountiful. Sunny. Flourishing. Golden. Verdant. Peaceful. Abundant. Warm. Blooming."}]}
